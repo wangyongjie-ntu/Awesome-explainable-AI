@@ -8,9 +8,13 @@ A  collection of research materials on explainable AI
 
 ## Books
 
+[Interpretable Machine Learning A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/)
+
 ## Online Videos
 
 ## Courses
+
+[Interpretability and Explainability in Machine Learning， Harvard University](https://interpretable-ml-class.github.io/)
 
 ## Papers
 
@@ -30,7 +34,13 @@ Grad-cam-Tensorflow: [https://github.com/insikk/Grad-CAM-tensorflow](https://git
 
 Deeplift: [https://github.com/kundajelab/deeplift](https://github.com/kundajelab/deeplift)
 
+Eli5: [https://github.com/TeamHG-Memex/eli5](https://github.com/TeamHG-Memex/eli5)
 
+Skater: [https://github.com/oracle/Skater](https://github.com/oracle/Skater)
+
+PDPbox: [https://github.com/SauceCat/PDPbox](https://github.com/SauceCat/PDPbox)
+
+Alibi: [https://github.com/SeldonIO/alibi](https://github.com/SeldonIO/alibi)
 
 
 
