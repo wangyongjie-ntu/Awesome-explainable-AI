@@ -28,6 +28,27 @@ A  collection of research materials on explainable AI
 
 ## Papers
 
+[A unified approach to interpreting model predictions](http://arxiv.org/abs/1705.07874)
+
+[Computationally Efficient Measures of Internal Neuron Importance](http://arxiv.org/abs/1807.09946)
+
+[Axiomatic attribution for deep networks](http://arxiv.org/abs/1703.01365)
+
+[SmoothGrad: removing noise by adding noise](http://arxiv.org/abs/1706.03825)
+
+["Why Should I Trust You?": Explaining the Predictions of Any Classifier](http://arxiv.org/abs/1602.04938)
+
+[Deep inside convolutional networks: Visualising image classification models and saliency maps](http://arxiv.org/abs/1312.6034)
+
+[How important is a neuron?](http://arxiv.org/abs/1805.12233)
+
+[Influence-Directed Explanations for Deep Convolutional Networks](http://arxiv.org/abs/1802.03788)
+
+[Layer-wise relevance propagation for neural networks with local renormalization layers](http://arxiv.org/abs/1604.00825)
+
+
+
+
 ## Codes
 
 Captum: [https://github.com/pytorch/captum](https://github.com/pytorch/captum)
