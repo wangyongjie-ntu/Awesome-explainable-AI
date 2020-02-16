@@ -3,12 +3,22 @@ A  collection of research materials on explainable AI
 
 
 ## Survey
+[A survey of methods for explaining black box models](http://arxiv.org/abs/1802.01933)
 
+[A Survey on Explainable Artificial Intelligence (XAI): Towards Medical XAI](http://arxiv.org/abs/1907.07374)
+
+[Explaining Explanations: An Overview of Interpretability of Machine Learning](https://arxiv.org/abs/1806.00069)
+
+[Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI)](https://ieeexplore.ieee.org/document/8466590/)
+
+[Explainable Explainable Artificial Intelligence (XAI): Concepts, taxonomies, opportunities and challenges toward responsible AI](http://arxiv.org/abs/1910.10045)
 
 
 ## Books
 
 [Interpretable Machine Learning A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/)
+
+[Explainable AI: Interpreting, Explaining and Visualizing Deep Learning](http://link.springer.com/10.1007/978-3-030-28954-6)
 
 ## Online Videos
 
