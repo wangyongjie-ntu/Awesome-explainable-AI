@@ -46,6 +46,8 @@ A  collection of research materials on explainable AI
 
 [Layer-wise relevance propagation for neural networks with local renormalization layers](http://arxiv.org/abs/1604.00825)
 
+[Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV)](https://arxiv.org/abs/1711.11279)
+
 
 
 
@@ -72,6 +74,8 @@ Skater: [https://github.com/oracle/Skater](https://github.com/oracle/Skater)
 PDPbox: [https://github.com/SauceCat/PDPbox](https://github.com/SauceCat/PDPbox)
 
 Alibi: [https://github.com/SeldonIO/alibi](https://github.com/SeldonIO/alibi)
+
+TCAV: [https://github.com/tensorflow/tcav](https://github.com/tensorflow/tcav)
 
 
 
