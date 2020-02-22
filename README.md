@@ -1,4 +1,4 @@
-# awesome-explainable-AI
+# Awesome-explainable-AI
 A  collection of research materials on explainable AI
 ![Open the BlackBox](https://github.com/iversonicter/awesome-explainable-AI/blob/master/fig/blackbox.png)
 
