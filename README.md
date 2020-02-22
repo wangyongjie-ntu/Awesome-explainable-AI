@@ -77,6 +77,8 @@ Alibi: [https://github.com/SeldonIO/alibi](https://github.com/SeldonIO/alibi)
 
 TCAV: [https://github.com/tensorflow/tcav](https://github.com/tensorflow/tcav)
 
+PyCEbox: [https://github.com/AustinRochford/PyCEbox](https://github.com/AustinRochford/PyCEbox)
+
 
 
 
