@@ -1,6 +1,6 @@
 # awesome-explainable-AI
 A  collection of research materials on explainable AI
-
+![Open the BlackBox](https://github.com/iversonicter/awesome-explainable-AI/blob/master/fig/blackbox.png)
 
 ## Survey
 [A survey of methods for explaining black box models](http://arxiv.org/abs/1802.01933)
