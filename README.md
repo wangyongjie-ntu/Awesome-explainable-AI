@@ -28,9 +28,9 @@ A  collection of research materials on explainable AI
 
 ## Papers
 
-[How important is a neuron?](http://arxiv.org/abs/1805.12233), ICLR 2019
+NeuronConductance, [How important is a neuron?](http://arxiv.org/abs/1805.12233), ICLR 2019
 
-[Sanity checks for saliency maps](http://arxiv.org/abs/1810.03292), NIPS 2018
+NoiseTunnel, [Sanity checks for saliency maps](http://arxiv.org/abs/1810.03292), NIPS 2018
 
 [Did the Model Understand the Question?](http://arxiv.org/abs/1805.05492), ACL 2018
 
@@ -38,7 +38,7 @@ Neuron Integrated Gradients: [Computationally Efficient Measures of Internal Neu
 
 TCAV: [Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV)](https://arxiv.org/abs/1711.11279), ICML 2018
 
-[Influence-Directed Explanations for Deep Convolutional Networks](http://arxiv.org/abs/1802.03788), IEEE International Test Conference 2018
+InternalInfluence, [Influence-Directed Explanations for Deep Convolutional Networks](http://arxiv.org/abs/1802.03788), IEEE International Test Conference 2018
 
 Shap: [A unified approach to interpreting model predictions](http://arxiv.org/abs/1705.07874), NIPS 2017
 
@@ -57,7 +57,11 @@ LRP: [Layer-wise relevance propagation for neural networks with local renormaliz
 
 [Examples are not enough, learn to criticize! Criticism for interpretability](https://papers.nips.cc/paper/6300-examples-are-not-enough-learn-to-criticize-criticism-for-interpretability), NIPS 2016
 
+InputXGradient, [Investigating the influence of noise and distractors on the interpretation of neural networks](https://arxiv.org/pdf/1611.07270.pdf), NIPS 2016
+
 CAM: [Learning Deep Features for Discriminative Localization](http://arxiv.org/abs/1512.04150), CVPR 2015
+
+Guided Backpropagation, [Striving for simplicity: The all convolutional net](http://arxiv.org/abs/1412.6806), ICLR 2015
 
 ConvNet: [Deep inside convolutional networks: Visualising image classification models and saliency maps](http://arxiv.org/abs/1312.6034), ICLR 2014
 
