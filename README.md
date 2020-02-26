@@ -67,37 +67,43 @@ ConvNet: [Deep inside convolutional networks: Visualising image classification m
 
 [How to explain individual classification decisions](http://arxiv.org/abs/0912.1128), Journal of Machine Learning Research 2010
 
+### Evaluation
+
+[Evaluating the visualization of what a Deep Neural Network has learned](http://arxiv.org/abs/1509.06321), IEEE Transactions on Neural Networks and Learning Systems 2015
+
 ## Blogs
 
 [Visualizing the Impact of Feature Attribution Baselines](https://distill.pub/2020/attribution-baselines/)
 
 ## Codes
 
-Captum: [https://github.com/pytorch/captum](https://github.com/pytorch/captum)
+Captum: [https://github.com/pytorch/captum](https://github.com/pytorch/captum), Pytorch
 
-SHAP: [https://github.com/slundberg/shap](https://github.com/slundberg/shap)
+SHAP: [https://github.com/slundberg/shap](https://github.com/slundberg/shap), Nearly all platform on Python
 
-Lime: [https://github.com/marcotcr/lime](https://github.com/marcotcr/lime)
+Lime: [https://github.com/marcotcr/lime](https://github.com/marcotcr/lime), Nearly all platform on Python
 
-Pytorch-grad-cam: [https://github.com/jacobgil/pytorch-grad-cam](https://github.com/jacobgil/pytorch-grad-cam)
+Pytorch-grad-cam: [https://github.com/jacobgil/pytorch-grad-cam](https://github.com/jacobgil/pytorch-grad-cam), Pytorch
 
-Keras-grad-cam: [https://github.com/jacobgil/keras-grad-cam](https://github.com/jacobgil/keras-grad-cam)
+Keras-grad-cam: [https://github.com/jacobgil/keras-grad-cam](https://github.com/jacobgil/keras-grad-cam), Keras
 
-Grad-cam-Tensorflow: [https://github.com/insikk/Grad-CAM-tensorflow](https://github.com/insikk/Grad-CAM-tensorflow)
+Grad-cam-Tensorflow: [https://github.com/insikk/Grad-CAM-tensorflow](https://github.com/insikk/Grad-CAM-tensorflow), Tensorflow
 
-Deeplift: [https://github.com/kundajelab/deeplift](https://github.com/kundajelab/deeplift)
+Deeplift: [https://github.com/kundajelab/deeplift](https://github.com/kundajelab/deeplift), Tensorflow, Keras
 
-Eli5: [https://github.com/TeamHG-Memex/eli5](https://github.com/TeamHG-Memex/eli5)
+Eli5: [https://github.com/TeamHG-Memex/eli5](https://github.com/TeamHG-Memex/eli5), Scikit-learn, Keras, xgboost, lightGBM, catboost etc.
 
 Skater: [https://github.com/oracle/Skater](https://github.com/oracle/Skater)
 
-PDPbox: [https://github.com/SauceCat/PDPbox](https://github.com/SauceCat/PDPbox)
+PDPbox: [https://github.com/SauceCat/PDPbox](https://github.com/SauceCat/PDPbox), Scikit-learn
 
 Alibi: [https://github.com/SeldonIO/alibi](https://github.com/SeldonIO/alibi)
 
-TCAV: [https://github.com/tensorflow/tcav](https://github.com/tensorflow/tcav)
+TCAV: [https://github.com/tensorflow/tcav](https://github.com/tensorflow/tcav), Tensorflow, scikit-learn
 
 PyCEbox: [https://github.com/AustinRochford/PyCEbox](https://github.com/AustinRochford/PyCEbox)
+
+DeepExplain: [https://github.com/marcoancona/DeepExplain](https://github.com/marcoancona/DeepExplain), Tensorflow, Keras
 
 
 ## Acknowledge
