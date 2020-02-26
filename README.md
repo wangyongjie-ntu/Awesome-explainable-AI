@@ -32,7 +32,7 @@ NeuronConductance, [How important is a neuron?](http://arxiv.org/abs/1805.12233)
 
 NoiseTunnel, [Sanity checks for saliency maps](http://arxiv.org/abs/1810.03292), NIPS 2018
 
-[Did the Model Understand the Question?](http://arxiv.org/abs/1805.05492), ACL 2018
+Integrated Gradients, [Did the Model Understand the Question?](http://arxiv.org/abs/1805.05492), ACL 2018
 
 Neuron Integrated Gradients: [Computationally Efficient Measures of Internal Neuron Importance](http://arxiv.org/abs/1807.09946) , preprint 2018
 
@@ -65,6 +65,11 @@ Guided Backpropagation, [Striving for simplicity: The all convolutional net](htt
 
 ConvNet: [Deep inside convolutional networks: Visualising image classification models and saliency maps](http://arxiv.org/abs/1312.6034), ICLR 2014
 
+[How to explain individual classification decisions](http://arxiv.org/abs/0912.1128), Journal of Machine Learning Research 2010
+
+## Blogs
+
+[Visualizing the Impact of Feature Attribution Baselines](https://distill.pub/2020/attribution-baselines/)
 
 ## Codes
 
@@ -95,5 +100,9 @@ TCAV: [https://github.com/tensorflow/tcav](https://github.com/tensorflow/tcav)
 PyCEbox: [https://github.com/AustinRochford/PyCEbox](https://github.com/AustinRochford/PyCEbox)
 
 
+## Acknowledge
+Thanks for your attention.
+I appreciate it very much if you could add more materials to this repo! 
 
+If any question, feel free to contact me(yongjie.wang@ntu.edu.sg).
 
