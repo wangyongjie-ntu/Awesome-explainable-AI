@@ -3,15 +3,23 @@ A  collection of research materials on explainable AI
 ![Open the BlackBox](https://github.com/iversonicter/awesome-explainable-AI/blob/master/fig/blackbox.png)
 
 ## Survey
-[A survey of methods for explaining black box models](http://arxiv.org/abs/1802.01933)
+[Machine learning interpretability: A survey on methods and metrics](https://www.mdpi.com/2079-9292/8/8/832), Electronics, 2019
 
-[A Survey on Explainable Artificial Intelligence (XAI): Towards Medical XAI](http://arxiv.org/abs/1907.07374)
+[A Survey on Explainable Artificial Intelligence (XAI): Towards Medical XAI](http://arxiv.org/abs/1907.07374), Preprinted, 2019
 
-[Explaining Explanations: An Overview of Interpretability of Machine Learning](https://arxiv.org/abs/1806.00069)
+[A survey of methods for explaining black box models](http://arxiv.org/abs/1802.01933), ACM Computing Surveys, 2018
 
-[Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI)](https://ieeexplore.ieee.org/document/8466590/)
+[Explaining Explanations: An Overview of Interpretability of Machine Learning](https://arxiv.org/abs/1806.00069), IEEE DSAA, 2018
 
-[Explainable Explainable Artificial Intelligence (XAI): Concepts, taxonomies, opportunities and challenges toward responsible AI](http://arxiv.org/abs/1910.10045)
+[Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI)](https://ieeexplore.ieee.org/document/8466590/), IEEE Access, 2018
+
+[Explainable Explainable Artificial Intelligence (XAI): Concepts, taxonomies, opportunities and challenges toward responsible AI](http://arxiv.org/abs/1910.10045), Information Fusion, 2019
+
+[Explainable artificial intelligence: A survey](https://ieeexplore.ieee.org/document/8400040/), MIPRO, 2018
+
+
+
+
 
 
 ## Books
