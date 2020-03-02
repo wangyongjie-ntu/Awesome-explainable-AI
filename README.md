@@ -47,6 +47,8 @@ DeepLIFT: [Learning important features through propagating activation difference
 
 Integrated Gradients: [Axiomatic attribution for deep networks](http://arxiv.org/abs/1703.01365), ICML 2017
 
+[Visualizing deep neural network decisions: Prediction difference analysis](https://arxiv.org/pdf/1702.04595.pdf), ICLR 2017
+
 SmoothGard: [SmoothGrad: removing noise by adding noise](http://arxiv.org/abs/1706.03825), preprint 2017
 
 Lime: ["Why Should I Trust You?": Explaining the Predictions of Any Classifier](http://arxiv.org/abs/1602.04938), SIGKDD 2016
@@ -65,6 +67,8 @@ Guided Backpropagation, [Striving for simplicity: The all convolutional net](htt
 
 ConvNet: [Deep inside convolutional networks: Visualising image classification models and saliency maps](http://arxiv.org/abs/1312.6034), ICLR 2014
 
+[Visualizing and Understanding Convolutional Networks](http://arxiv.org/abs/1311.2901)
+
 [How to explain individual classification decisions](http://arxiv.org/abs/0912.1128), Journal of Machine Learning Research 2010
 
 ### Evaluation
@@ -75,7 +79,7 @@ ConvNet: [Deep inside convolutional networks: Visualising image classification m
 
 [Visualizing the Impact of Feature Attribution Baselines](https://distill.pub/2020/attribution-baselines/)
 
-## Codes
+## Python Libraries
 
 Captum: [https://github.com/pytorch/captum](https://github.com/pytorch/captum), Pytorch
 
@@ -104,6 +108,14 @@ TCAV: [https://github.com/tensorflow/tcav](https://github.com/tensorflow/tcav), 
 PyCEbox: [https://github.com/AustinRochford/PyCEbox](https://github.com/AustinRochford/PyCEbox)
 
 DeepExplain: [https://github.com/marcoancona/DeepExplain](https://github.com/marcoancona/DeepExplain), Tensorflow, Keras
+
+TensorWatch: [https://github.com/microsoft/tensorwatch.git](https://github.com/microsoft/tensorwatch.git), Tensorflow
+
+InterpretML: [https://github.com/interpretml/interpret](https://github.com/interpretml/interpret)
+
+AIX360: [https://github.com/IBM/AIX360](https://github.com/IBM/AIX360)
+
+XAI: [https://github.com/EthicalML/xai](https://github.com/EthicalML/xai)
 
 
 ## Acknowledge
