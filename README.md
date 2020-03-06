@@ -24,6 +24,8 @@ A  collection of research materials on explainable AI
 
 ## Books
 
+[Explanatory Model Analysis Explore, Explain and Examine Predictive Models](https://pbiecek.github.io/ema/)
+
 [Interpretable Machine Learning A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/)
 
 [Explainable AI: Interpreting, Explaining and Visualizing Deep Learning](http://link.springer.com/10.1007/978-3-030-28954-6)
@@ -35,6 +37,8 @@ A  collection of research materials on explainable AI
 [Interpretability and Explainability in Machine Learning， Harvard University](https://interpretable-ml-class.github.io/)
 
 ## Papers
+
+[Explaining the Explainer: A First Theoretical Analysis of LIME](http://arxiv.org/abs/2001.03447), arxiv preprint 2020
 
 NeuronConductance, [How important is a neuron?](http://arxiv.org/abs/1805.12233), ICLR 2019
 
