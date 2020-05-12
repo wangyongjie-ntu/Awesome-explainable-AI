@@ -18,10 +18,6 @@ A  collection of research materials on explainable AI
 [Explainable artificial intelligence: A survey](https://ieeexplore.ieee.org/document/8400040/), MIPRO, 2018
 
 
-
-
-
-
 ## Books
 
 [Explanatory Model Analysis Explore, Explain and Examine Predictive Models](https://pbiecek.github.io/ema/)
@@ -68,6 +64,8 @@ Lime: ["Why Should I Trust You?": Explaining the Predictions of Any Classifier](
 Grad-CAM: [Grad-CAM: Visual Explanations from Deep Networks via Gradient-Based Localization](http://arxiv.org/abs/1610.02391) IJCV 2016
 
 LRP: [Layer-wise relevance propagation for neural networks with local renormalization layers](http://arxiv.org/abs/1604.00825), ICANN 2016
+
+[Not Just a Black Box: Learning Important Features Through Propagating Activation Differences](https://arxiv.org/abs/1605.01713), arxiv preprint, 2016
 
 [Examples are not enough, learn to criticize! Criticism for interpretability](https://papers.nips.cc/paper/6300-examples-are-not-enough-learn-to-criticize-criticism-for-interpretability), NIPS 2016
 
