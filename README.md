@@ -65,7 +65,7 @@ Grad-CAM: [Grad-CAM: Visual Explanations from Deep Networks via Gradient-Based L
 
 LRP: [Layer-wise relevance propagation for neural networks with local renormalization layers](http://arxiv.org/abs/1604.00825), ICANN 2016
 
-[Not Just a Black Box: Learning Important Features Through Propagating Activation Differences](https://arxiv.org/abs/1605.01713), arxiv preprint, 2016
+[Not Just a Black Box: Learning Important Features Through Propagating Activation Differences](https://arxiv.org/abs/1605.01713), arxiv preprint 2016
 
 [Examples are not enough, learn to criticize! Criticism for interpretability](https://papers.nips.cc/paper/6300-examples-are-not-enough-learn-to-criticize-criticism-for-interpretability), NIPS 2016
 
@@ -77,7 +77,7 @@ Guided Backpropagation, [Striving for simplicity: The all convolutional net](htt
 
 ConvNet: [Deep inside convolutional networks: Visualising image classification models and saliency maps](http://arxiv.org/abs/1312.6034), ICLR 2014
 
-[Visualizing and Understanding Convolutional Networks](http://arxiv.org/abs/1311.2901)
+Deconvnet: [Visualizing and Understanding Convolutional Networks](http://arxiv.org/abs/1311.2901)
 
 [How to explain individual classification decisions](http://arxiv.org/abs/0912.1128), Journal of Machine Learning Research 2010
 
