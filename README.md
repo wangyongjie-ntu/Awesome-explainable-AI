@@ -28,6 +28,10 @@ A  collection of research materials on explainable AI
 
 ## Online Videos
 
+## WorkShops
+
+[IJCAI 2017 Workshop on Explainable Artificial Intellifence](http://home.earthlink.net/~dwaha/research/meetings/ijcai17-xai/)
+
 ## Courses
 
 [Interpretability and Explainability in Machine Learning， Harvard University](https://interpretable-ml-class.github.io/)
