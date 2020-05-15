@@ -71,11 +71,13 @@ LRP: [Layer-wise relevance propagation for neural networks with local renormaliz
 
 InputXGradient, [Investigating the influence of noise and distractors on the interpretation of neural networks](https://arxiv.org/pdf/1611.07270.pdf), NIPS 2016
 
+epsilon-LRP, [On pixel-wise explanations for non-linear classifier decisions by layer-wise relevance propagation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4498753/), PloS one 2015
+
 CAM: [Learning Deep Features for Discriminative Localization](http://arxiv.org/abs/1512.04150), CVPR 2015
 
 Guided Backpropagation, [Striving for simplicity: The all convolutional net](http://arxiv.org/abs/1412.6806), ICLR 2015
 
-ConvNet: [Deep inside convolutional networks: Visualising image classification models and saliency maps](http://arxiv.org/abs/1312.6034), ICLR 2014
+Back progagation: [Deep inside convolutional networks: Visualising image classification models and saliency maps](http://arxiv.org/abs/1312.6034), ICLR 2014
 
 Deconvnet: [Visualizing and Understanding Convolutional Networks](http://arxiv.org/abs/1311.2901)
 
