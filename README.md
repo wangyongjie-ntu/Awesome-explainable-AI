@@ -34,6 +34,8 @@ A  collection of research materials on explainable AI
 
 ## Papers
 
+[Visualizing the Impact of Feature Attribution Baselines](https://distill.pub/2020/attribution-baselines/), Distill 2020
+
 [Explaining the Explainer: A First Theoretical Analysis of LIME](http://arxiv.org/abs/2001.03447), arxiv preprint 2020
 
 NeuronConductance, [How important is a neuron?](http://arxiv.org/abs/1805.12233), ICLR 2019
