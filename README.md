@@ -67,6 +67,8 @@ Integrated Gradients: [Axiomatic attribution for deep networks](http://arxiv.org
 
 SmoothGard: [SmoothGrad: removing noise by adding noise](http://arxiv.org/abs/1706.03825), preprint 2017
 
+[Visualizing deep neural net- work decisions: Prediction difference analysis](https://arxiv.org/abs/1702.04595), arxiv preprint 2017
+
 Lime: ["Why Should I Trust You?": Explaining the Predictions of Any Classifier](http://arxiv.org/abs/1602.04938), SIGKDD 2016
 
 Grad-CAM: [Grad-CAM: Visual Explanations from Deep Networks via Gradient-Based Localization](http://arxiv.org/abs/1610.02391) IJCV 2016
