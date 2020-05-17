@@ -38,6 +38,8 @@ A  collection of research materials on explainable AI
 
 ## Papers
 
+[Understanding Integrated Gradients with SmoothTaylor for Deep Neural Network Attribution](https://arxiv.org/pdf/2004.10484.pdf) arxiv preprint 2020
+
 [Visualizing the Impact of Feature Attribution Baselines](https://distill.pub/2020/attribution-baselines/), Distill 2020
 
 [Explaining the Explainer: A First Theoretical Analysis of LIME](http://arxiv.org/abs/2001.03447), arxiv preprint 2020
