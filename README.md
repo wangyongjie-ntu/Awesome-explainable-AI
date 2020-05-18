@@ -123,6 +123,8 @@ Eli5: [https://github.com/TeamHG-Memex/eli5](https://github.com/TeamHG-Memex/eli
 
 Skater: [https://github.com/oracle/Skater](https://github.com/oracle/Skater)
 
+Innvvestigate: [https://github.com/albermax/innvestigate](https://github.com/albermax/innvestigate), tensorflow, theano, cntk, Keras
+
 PDPbox: [https://github.com/SauceCat/PDPbox](https://github.com/SauceCat/PDPbox), Scikit-learn
 
 Alibi: [https://github.com/SeldonIO/alibi](https://github.com/SeldonIO/alibi)
