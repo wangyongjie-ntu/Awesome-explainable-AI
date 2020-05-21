@@ -91,6 +91,8 @@ Lime: ["Why Should I Trust You?": Explaining the Predictions of Any Classifier](
 
 Grad-CAM: [Grad-CAM: Visual Explanations from Deep Networks via Gradient-Based Localization](http://arxiv.org/abs/1610.02391) IJCV 2016
 
+[Salient deconvolutional networks](https://www.robots.ox.ac.uk/~vedaldi/assets/pubs/mahendran16salient.pdf), ECCV 2016
+
 LRP: [Layer-wise relevance propagation for neural networks with local renormalization layers](http://arxiv.org/abs/1604.00825), ICANN 2016
 
 [Not Just a Black Box: Learning Important Features Through Propagating Activation Differences](https://arxiv.org/abs/1605.01713), arxiv preprint 2016
