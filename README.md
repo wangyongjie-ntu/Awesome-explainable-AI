@@ -44,7 +44,13 @@ A  collection of research materials on explainable AI
 
 [Explaining the Explainer: A First Theoretical Analysis of LIME](http://arxiv.org/abs/2001.03447), arxiv preprint 2020
 
+[Visualizing Deep Networks by Optimizing with Integrated Gradients](https://aaai.org/Papers/AAAI/2020GB/AAAI-QiZ.4029.pdf), AAAI 2020
+
+[Sanity Checks for Saliency Metrics](https://arxiv.org/abs/1912.01451), AAAI 2020
+
 NeuronConductance, [How important is a neuron?](http://arxiv.org/abs/1805.12233), ICLR 2019
+
+[Interpretation of Neural Networks is Fragile](https://arxiv.org/abs/1710.10547), AAAI 2019
 
 NoiseTunnel, [Sanity checks for saliency maps](http://arxiv.org/abs/1810.03292), NIPS 2018
 
