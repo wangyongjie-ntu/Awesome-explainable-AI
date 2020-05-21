@@ -93,6 +93,8 @@ Grad-CAM: [Grad-CAM: Visual Explanations from Deep Networks via Gradient-Based L
 
 [Salient deconvolutional networks](https://www.robots.ox.ac.uk/~vedaldi/assets/pubs/mahendran16salient.pdf), ECCV 2016
 
+[Top-down Neural Attention by Excitation Backprop](https://arxiv.org/pdf/1608.00507.pdf), ECCV 2016
+
 LRP: [Layer-wise relevance propagation for neural networks with local renormalization layers](http://arxiv.org/abs/1604.00825), ICANN 2016
 
 [Not Just a Black Box: Learning Important Features Through Propagating Activation Differences](https://arxiv.org/abs/1605.01713), arxiv preprint 2016
