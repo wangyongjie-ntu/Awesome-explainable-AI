@@ -66,6 +66,8 @@ NoiseTunnel, [Sanity checks for saliency maps](http://arxiv.org/abs/1810.03292),
 
 Integrated Gradients, [Did the Model Understand the Question?](http://arxiv.org/abs/1805.05492), ACL 2018
 
+[Interpretable Convolutional Neural Networks](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Interpretable_Convolutional_Neural_CVPR_2018_paper.pdf), CVPR 2018
+
 Neuron Integrated Gradients: [Computationally Efficient Measures of Internal Neuron Importance](http://arxiv.org/abs/1807.09946) , preprint 2018
 
 TCAV: [Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV)](https://arxiv.org/abs/1711.11279), ICML 2018
