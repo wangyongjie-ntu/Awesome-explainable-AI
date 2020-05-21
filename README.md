@@ -50,7 +50,11 @@ A  collection of research materials on explainable AI
 
 NeuronConductance, [How important is a neuron?](http://arxiv.org/abs/1805.12233), ICLR 2019
 
+[The Dangers of Post-hoc Interpretability: Unjustified Counterfactual Explanations](https://www.ijcai.org/Proceedings/2019/0388.pdf), IJCAI 2019
+
 [Interpretation of Neural Networks is Fragile](https://arxiv.org/abs/1710.10547), AAAI 2019
+
+[This Looks Like That: Deep Learning for Interpretable Image Recognition](http://papers.nips.cc/paper/9095-this-looks-like-that-deep-learning-for-interpretable-image-recognition.pdf), NIPS 2019
 
 NoiseTunnel, [Sanity checks for saliency maps](http://arxiv.org/abs/1810.03292), NIPS 2018
 
