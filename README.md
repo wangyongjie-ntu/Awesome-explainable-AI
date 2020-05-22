@@ -7,6 +7,8 @@ A  collection of research materials on explainable AI
 
 [A Survey on Explainable Artificial Intelligence (XAI): Towards Medical XAI](http://arxiv.org/abs/1907.07374), Preprinted, 2019
 
+[Visual Analytics in Deep Learning: An Interrogative Survey for the Next Frontiers](https://ieeexplore.ieee.org/document/8371286), IEEE Transactions on Visualization and Computer Graphics, 2019
+
 [A survey of methods for explaining black box models](http://arxiv.org/abs/1802.01933), ACM Computing Surveys, 2018
 
 [Explaining Explanations: An Overview of Interpretability of Machine Learning](https://arxiv.org/abs/1806.00069), IEEE DSAA, 2018
