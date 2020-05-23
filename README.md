@@ -75,7 +75,6 @@ Shap: [A unified approach to interpreting model predictions](http://arxiv.org/ab
 
 DeepLIFT: [Learning important features through propagating activation differences](http://arxiv.org/abs/1704.02685), ICML 2017
 
-
 Integrated Gradients: [Axiomatic attribution for deep networks](http://arxiv.org/abs/1703.01365), ICML 2017
 
 [Visualizing deep neural network decisions: Prediction difference analysis](https://arxiv.org/pdf/1702.04595.pdf), ICLR 2017
@@ -85,6 +84,8 @@ Integrated Gradients: [Axiomatic attribution for deep networks](http://arxiv.org
 SmoothGard: [SmoothGrad: removing noise by adding noise](http://arxiv.org/abs/1706.03825), preprint 2017
 
 [Visualizing deep neural net- work decisions: Prediction difference analysis](https://arxiv.org/abs/1702.04595), arxiv preprint 2017
+
+[Towards A Rigorous Science of Interpretable Machine Learning](https://arxiv.org/pdf/1702.08608.pdf), arxiv preprint 2017
 
 Lime: ["Why Should I Trust You?": Explaining the Predictions of Any Classifier](http://arxiv.org/abs/1602.04938), SIGKDD 2016
 
