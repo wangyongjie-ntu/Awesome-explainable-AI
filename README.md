@@ -28,13 +28,8 @@ A  collection of research materials on explainable AI
 
 [Explainable AI: Interpreting, Explaining and Visualizing Deep Learning](http://link.springer.com/10.1007/978-3-030-28954-6)
 
-## Online Videos
 
-## WorkShops
-
-[IJCAI 2017 Workshop on Explainable Artificial Intellifence](http://home.earthlink.net/~dwaha/research/meetings/ijcai17-xai/)
-
-## Courses
+## Open Courses
 
 [Interpretability and Explainability in Machine Learning， Harvard University](https://interpretable-ml-class.github.io/)
 
@@ -85,6 +80,8 @@ Integrated Gradients: [Axiomatic attribution for deep networks](http://arxiv.org
 
 [Visualizing deep neural network decisions: Prediction difference analysis](https://arxiv.org/pdf/1702.04595.pdf), ICLR 2017
 
+[Explaining nonlinear classification decisions with deep Taylor decomposition](https://www.sciencedirect.com/science/article/pii/S0031320316303582), Pattern Recognition 2017
+
 SmoothGard: [SmoothGrad: removing noise by adding noise](http://arxiv.org/abs/1706.03825), preprint 2017
 
 [Visualizing deep neural net- work decisions: Prediction difference analysis](https://arxiv.org/abs/1702.04595), arxiv preprint 2017
@@ -125,9 +122,6 @@ Deconvnet: [Visualizing and Understanding Convolutional Networks](http://arxiv.o
 
 [Evaluating the visualization of what a Deep Neural Network has learned](http://arxiv.org/abs/1509.06321), IEEE Transactions on Neural Networks and Learning Systems 2015
 
-## Blogs
-
-[Visualizing the Impact of Feature Attribution Baselines](https://distill.pub/2020/attribution-baselines/)
 
 ## Python Libraries
 
