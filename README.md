@@ -63,6 +63,8 @@ NeuronConductance, [How important is a neuron?](http://arxiv.org/abs/1805.12233)
 
 [Interpretation of Neural Networks is Fragile](https://arxiv.org/abs/1710.10547), AAAI 2019
 
+[XRAI: Better Attributions Through Regions](http://openaccess.thecvf.com/content_ICCV_2019/papers/Kapishnikov_XRAI_Better_Attributions_Through_Regions_ICCV_2019_paper.pdf), ICCV 2019
+
 [This Looks Like That: Deep Learning for Interpretable Image Recognition](http://papers.nips.cc/paper/9095-this-looks-like-that-deep-learning-for-interpretable-image-recognition.pdf), NIPS 2019
 
 NoiseTunnel, [Sanity checks for saliency maps](http://arxiv.org/abs/1810.03292), NIPS 2018
