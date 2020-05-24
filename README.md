@@ -37,7 +37,7 @@ A  collection of research materials on explainable AI
 
 [Explaining Explanations: Axiomatic Feature Interactions for Deep Networks](https://arxiv.org/pdf/2002.04138.pdf), arxiv preprint 2020
 
-Blur integrated gradient: [Attribution in Scale and Space](https://arxiv.org/pdf/2004.03383.pdf), arxiv preprint 2020
+Blur integrated gradient: [Attribution in Scale and Space](https://arxiv.org/pdf/2004.03383.pdf), CVPR 2020
 
 [Understanding Integrated Gradients with SmoothTaylor for Deep Neural Network Attribution](https://arxiv.org/pdf/2004.10484.pdf) arxiv preprint 2020
 
