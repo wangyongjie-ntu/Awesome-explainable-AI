@@ -37,7 +37,7 @@ A  collection of research materials on explainable AI
 
 [Explaining Explanations: Axiomatic Feature Interactions for Deep Networks](https://arxiv.org/pdf/2002.04138.pdf), arxiv preprint 2020
 
-[Attribution in Scale and Space](https://arxiv.org/pdf/2004.03383.pdf), arxiv preprint 2020
+Blur integrated gradient: [Attribution in Scale and Space](https://arxiv.org/pdf/2004.03383.pdf), arxiv preprint 2020
 
 [Understanding Integrated Gradients with SmoothTaylor for Deep Neural Network Attribution](https://arxiv.org/pdf/2004.10484.pdf) arxiv preprint 2020
 
@@ -50,6 +50,8 @@ A  collection of research materials on explainable AI
 [Sanity Checks for Saliency Metrics](https://arxiv.org/abs/1912.01451), AAAI 2020
 
 NeuronConductance, [How important is a neuron?](http://arxiv.org/abs/1805.12233), ICLR 2019
+
+[Full-Gradient Representation for Neural Network Visualization](https://papers.nips.cc/paper/8666-full-gradient-representation-for-neural-network-visualization.pdf), NIPS 2019
 
 [Understanding Impacts of High-Order Loss Approximations and Features in Deep Learning Interpretation](https://arxiv.org/pdf/1902.00407.pdf), ICML 2019
 
