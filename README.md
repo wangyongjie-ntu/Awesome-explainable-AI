@@ -35,6 +35,8 @@ A  collection of research materials on explainable AI
 
 ## Papers
 
+[Explaining Explanations: Axiomatic Feature Interactions for Deep Networks](https://arxiv.org/pdf/2002.04138.pdf), arxiv preprint 2020
+
 [Attribution in Scale and Space](https://arxiv.org/pdf/2004.03383.pdf), arxiv preprint 2020
 
 [Understanding Integrated Gradients with SmoothTaylor for Deep Neural Network Attribution](https://arxiv.org/pdf/2004.10484.pdf) arxiv preprint 2020
@@ -72,6 +74,8 @@ Neuron Integrated Gradients: [Computationally Efficient Measures of Internal Neu
 TCAV: [Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV)](https://arxiv.org/abs/1711.11279), ICML 2018
 
 InternalInfluence, [Influence-Directed Explanations for Deep Convolutional Networks](http://arxiv.org/abs/1802.03788), IEEE International Test Conference 2018
+
+[Right for the Right Reasons: Training Differentiable Models by Constraining their Explanations](https://arxiv.org/pdf/1703.03717.pdf), arxiv preprint 2017
 
 Shap: [A unified approach to interpreting model predictions](http://arxiv.org/abs/1705.07874), NIPS 2017
 
