@@ -51,7 +51,7 @@ Blur integrated gradient: [Attribution in Scale and Space](https://arxiv.org/pdf
 
 NeuronConductance, [How important is a neuron?](http://arxiv.org/abs/1805.12233), ICLR 2019
 
-[Full-Gradient Representation for Neural Network Visualization](https://papers.nips.cc/paper/8666-full-gradient-representation-for-neural-network-visualization.pdf), NIPS 2019
+FullGrad, [Full-Gradient Representation for Neural Network Visualization](https://papers.nips.cc/paper/8666-full-gradient-representation-for-neural-network-visualization.pdf), NIPS 2019
 
 [Understanding Impacts of High-Order Loss Approximations and Features in Deep Learning Interpretation](https://arxiv.org/pdf/1902.00407.pdf), ICML 2019
 
@@ -74,6 +74,9 @@ Integrated Gradients, [Did the Model Understand the Question?](http://arxiv.org/
 [Interpretable Convolutional Neural Networks](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Interpretable_Convolutional_Neural_CVPR_2018_paper.pdf), CVPR 2018
 
 Neuron Integrated Gradients: [Computationally Efficient Measures of Internal Neuron Importance](http://arxiv.org/abs/1807.09946) , preprint 2018
+
+[A Theoretical Explanation for Perplexing Behaviors of Backpropagation-based Visualizations](http://proceedings.mlr.press/v80/nie18a/nie18a.pdf), ICML 2018
+
 
 TCAV: [Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV)](https://arxiv.org/abs/1711.11279), ICML 2018
 
