@@ -55,15 +55,17 @@ FullGrad, [Full-Gradient Representation for Neural Network Visualization](https:
 
 [Understanding Impacts of High-Order Loss Approximations and Features in Deep Learning Interpretation](https://arxiv.org/pdf/1902.00407.pdf), ICML 2019
 
-[Axiomatic Interpretability for Multiclass Additive Models](https://dl.acm.org/doi/pdf/10.1145/3292500.3330898), KDD 2019
-
 [On the Connection Between Adversarial Robustness and Saliency Map Interpretability](https://arxiv.org/pdf/1905.04172.pdf), ICML 2019
+
+[Axiomatic Interpretability for Multiclass Additive Models](https://dl.acm.org/doi/pdf/10.1145/3292500.3330898), KDD 2019
 
 [The Dangers of Post-hoc Interpretability: Unjustified Counterfactual Explanations](https://www.ijcai.org/Proceedings/2019/0388.pdf), IJCAI 2019
 
 [Interpretation of Neural Networks is Fragile](https://arxiv.org/abs/1710.10547), AAAI 2019
 
 [XRAI: Better Attributions Through Regions](http://openaccess.thecvf.com/content_ICCV_2019/papers/Kapishnikov_XRAI_Better_Attributions_Through_Regions_ICCV_2019_paper.pdf), ICCV 2019
+
+[Understanding Deep Networks via Extremal Perturbations and Smooth Masks](https://arxiv.org/pdf/1910.08485.pdf), ICCV 2019
 
 [This Looks Like That: Deep Learning for Interpretable Image Recognition](http://papers.nips.cc/paper/9095-this-looks-like-that-deep-learning-for-interpretable-image-recognition.pdf), NIPS 2019
 
