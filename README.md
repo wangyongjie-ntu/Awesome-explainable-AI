@@ -9,13 +9,15 @@ A  collection of research materials on explainable AI
 
 [Visual Analytics in Deep Learning: An Interrogative Survey for the Next Frontiers](https://ieeexplore.ieee.org/document/8371286), IEEE Transactions on Visualization and Computer Graphics, 2019
 
+[Explainable Explainable Artificial Intelligence (XAI): Concepts, taxonomies, opportunities and challenges toward responsible AI](http://arxiv.org/abs/1910.10045), Information Fusion, 2019
+
 [A survey of methods for explaining black box models](http://arxiv.org/abs/1802.01933), ACM Computing Surveys, 2018
 
 [Explaining Explanations: An Overview of Interpretability of Machine Learning](https://arxiv.org/abs/1806.00069), IEEE DSAA, 2018
 
 [Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI)](https://ieeexplore.ieee.org/document/8466590/), IEEE Access, 2018
 
-[Explainable Explainable Artificial Intelligence (XAI): Concepts, taxonomies, opportunities and challenges toward responsible AI](http://arxiv.org/abs/1910.10045), Information Fusion, 2019
+[Visual Analytics in Deep Learning: An Interrogative Survey for the Next Frontiers](https://arxiv.org/abs/1801.06889v3), IEEE Transactions on Visualization and Computer Graphics 2018
 
 [Explainable artificial intelligence: A survey](https://ieeexplore.ieee.org/document/8400040/), MIPRO, 2018
 
