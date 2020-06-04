@@ -145,6 +145,8 @@ Deconvnet: [Visualizing and Understanding Convolutional Networks](http://arxiv.o
 
 ## Python Libraries
 
+Saliency: [https://github.com/PAIR-code/saliency](https://github.com/PAIR-code/saliency), Tensorflow
+
 Captum: [https://github.com/pytorch/captum](https://github.com/pytorch/captum), Pytorch
 
 SHAP: [https://github.com/slundberg/shap](https://github.com/slundberg/shap), Nearly all platform on Python
