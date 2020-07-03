@@ -37,6 +37,8 @@ A  collection of research materials on explainable AI
 
 ## Papers
 
+[Evaluations and Methods for Explanation through Robustness Analysis](https://arxiv.org/pdf/2006.00442.pdf), arxiv preprint 2020
+
 [Explaining Explanations: Axiomatic Feature Interactions for Deep Networks](https://arxiv.org/pdf/2002.04138.pdf), arxiv preprint 2020
 
 Blur integrated gradient: [Attribution in Scale and Space](https://arxiv.org/pdf/2004.03383.pdf), CVPR 2020
