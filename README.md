@@ -55,6 +55,8 @@ NeuronConductance, [How important is a neuron?](http://arxiv.org/abs/1805.12233)
 
 FullGrad, [Full-Gradient Representation for Neural Network Visualization](https://papers.nips.cc/paper/8666-full-gradient-representation-for-neural-network-visualization.pdf), NIPS 2019
 
+[On the (In)fidelity and Sensitivity for Explanations](https://arxiv.org/abs/1901.09392v4), NIPS 2019
+
 [Understanding Impacts of High-Order Loss Approximations and Features in Deep Learning Interpretation](https://arxiv.org/pdf/1902.00407.pdf), ICML 2019
 
 [On the Connection Between Adversarial Robustness and Saliency Map Interpretability](https://arxiv.org/pdf/1905.04172.pdf), ICML 2019
