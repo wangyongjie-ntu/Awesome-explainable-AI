@@ -144,6 +144,8 @@ Deconvnet: [Visualizing and Understanding Convolutional Networks](http://arxiv.o
 
 ### Evaluation
 
+[Sanity Checks for Saliency Metrics](https://aaai.org/ojs/index.php/AAAI/article/view/6064), AAAI 2020
+
 [Evaluating the visualization of what a Deep Neural Network has learned](http://arxiv.org/abs/1509.06321), IEEE Transactions on Neural Networks and Learning Systems 2015
 
 
