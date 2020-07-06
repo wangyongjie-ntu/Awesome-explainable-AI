@@ -79,6 +79,8 @@ FullGrad, [Full-Gradient Representation for Neural Network Visualization](https:
 
 NoiseTunnel, [Sanity checks for saliency maps](http://arxiv.org/abs/1810.03292), NIPS 2018
 
+[Towards robust interpretability with self-explaining neural networks](http://papers.nips.cc/paper/8003-towards-robust-interpretability-with-self-explaining-neural-networks), NIPS 2018
+
 Integrated Gradients, [Did the Model Understand the Question?](http://arxiv.org/abs/1805.05492), ACL 2018
 
 [Interpretable Convolutional Neural Networks](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Interpretable_Convolutional_Neural_CVPR_2018_paper.pdf), CVPR 2018
