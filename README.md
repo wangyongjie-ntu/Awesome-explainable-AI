@@ -21,6 +21,8 @@ A  collection of research materials on explainable AI
 
 [Explainable artificial intelligence: A survey](https://ieeexplore.ieee.org/document/8400040/), MIPRO, 2018
 
+[Explainable Artificial Intelligence: Understanding, Visualizing and Interpreting Deep Learning Models](https://arxiv.org/abs/1708.08296), Arxiv 2017
+
 
 ## Books
 
