@@ -43,6 +43,12 @@ A  collection of research materials on explainable AI
 
 [Explaining Explanations: Axiomatic Feature Interactions for Deep Networks](https://arxiv.org/pdf/2002.04138.pdf), arxiv preprint 2020
 
+[Explaining Groups of Points in Low-Dimensional Representations](https://arxiv.org/pdf/2003.01640.pdf), ICML 2020
+
+[Towards Visually Explaining Variational Autoencoders](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Towards_Visually_Explaining_Variational_Autoencoders_CVPR_2020_paper.pdf), CVPR 2020
+
+[Explaining Knowledge Distillation by Quantifying the Knowledge](https://openaccess.thecvf.com/content_CVPR_2020/papers/Cheng_Explaining_Knowledge_Distillation_by_Quantifying_the_Knowledge_CVPR_2020_paper.pdf), CVPR 2020
+
 Blur integrated gradient: [Attribution in Scale and Space](https://arxiv.org/pdf/2004.03383.pdf), CVPR 2020
 
 [Understanding Integrated Gradients with SmoothTaylor for Deep Neural Network Attribution](https://arxiv.org/pdf/2004.10484.pdf) arxiv preprint 2020
