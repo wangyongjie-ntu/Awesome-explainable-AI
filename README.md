@@ -106,6 +106,8 @@ InternalInfluence, [Influence-Directed Explanations for Deep Convolutional Netwo
 
 [Right for the Right Reasons: Training Differentiable Models by Constraining their Explanations](https://arxiv.org/pdf/1703.03717.pdf), arxiv preprint 2017
 
+[Understanding Black-box Predictions via Influence Functions](https://arxiv.org/pdf/1703.04730.pdf), arxiv preprint 2017
+
 Anchors, [Anchors: High-Precision Model-Agnostic Explanations](https://homes.cs.washington.edu/~marcotcr/aaai18.pdf), AAAI 2018
 
 Shap: [A unified approach to interpreting model predictions](http://arxiv.org/abs/1705.07874), NIPS 2017
