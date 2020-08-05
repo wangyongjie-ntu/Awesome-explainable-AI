@@ -106,6 +106,8 @@ InternalInfluence, [Influence-Directed Explanations for Deep Convolutional Netwo
 
 [Right for the Right Reasons: Training Differentiable Models by Constraining their Explanations](https://arxiv.org/pdf/1703.03717.pdf), arxiv preprint 2017
 
+Anchors, [Anchors: High-Precision Model-Agnostic Explanations](https://homes.cs.washington.edu/~marcotcr/aaai18.pdf), AAAI 2018
+
 Shap: [A unified approach to interpreting model predictions](http://arxiv.org/abs/1705.07874), NIPS 2017
 
 DeepLIFT: [Learning important features through propagating activation differences](http://arxiv.org/abs/1704.02685), ICML 2017
@@ -128,6 +130,8 @@ Lime: ["Why Should I Trust You?": Explaining the Predictions of Any Classifier](
 
 Grad-CAM: [Grad-CAM: Visual Explanations from Deep Networks via Gradient-Based Localization](http://arxiv.org/abs/1610.02391) IJCV 2016
 
+[Visualizing deep convolutional neural networks using natural pre-images](https://arxiv.org/abs/1512.02017), IJCV 2016
+
 [Salient deconvolutional networks](https://www.robots.ox.ac.uk/~vedaldi/assets/pubs/mahendran16salient.pdf), ECCV 2016
 
 [Top-down Neural Attention by Excitation Backprop](https://arxiv.org/pdf/1608.00507.pdf), ECCV 2016
@@ -136,11 +140,11 @@ LRP: [Layer-wise relevance propagation for neural networks with local renormaliz
 
 [Not Just a Black Box: Learning Important Features Through Propagating Activation Differences](https://arxiv.org/abs/1605.01713), arxiv preprint 2016
 
+LOCO, [Distribution-Free Predictive Inference For Regression](https://arxiv.org/pdf/1604.04173.pdf), Arxiv preprint 2016
+
 [Examples are not enough, learn to criticize! Criticism for interpretability](https://papers.nips.cc/paper/6300-examples-are-not-enough-learn-to-criticize-criticism-for-interpretability), NIPS 2016
 
 InputXGradient, [Investigating the influence of noise and distractors on the interpretation of neural networks](https://arxiv.org/pdf/1611.07270.pdf), NIPS 2016
-
-[Visualizing deep convolutional neural networks using natural pre-images](https://arxiv.org/abs/1512.02017), IJCV 2016
 
 epsilon-LRP, [On pixel-wise explanations for non-linear classifier decisions by layer-wise relevance propagation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4498753/), PloS one 2015
 
