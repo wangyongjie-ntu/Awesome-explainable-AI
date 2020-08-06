@@ -26,6 +26,8 @@ A  collection of research materials on explainable AI
 
 ## Books
 
+[Explanation in Artificial Intelligence: Insights from the Social Sciences](https://arxiv.org/pdf/1706.07269.pdf), 2017 arxiv preprint
+
 [Explanatory Model Analysis Explore, Explain and Examine Predictive Models](https://pbiecek.github.io/ema/)
 
 [Interpretable Machine Learning A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/)
@@ -67,6 +69,8 @@ FullGrad, [Full-Gradient Representation for Neural Network Visualization](https:
 
 [On the (In)fidelity and Sensitivity for Explanations](https://arxiv.org/abs/1901.09392v4), NIPS 2019
 
+[Explaining Explanations in AI](https://arxiv.org/pdf/1811.01439.pdf), ACM FAT 2019
+
 [Bias also matters: Bias attribution for deep neural network explanation](http://proceedings.mlr.press/v97/wang19p.html), ICML 2019
 
 [Understanding Impacts of High-Order Loss Approximations and Features in Deep Learning Interpretation](https://arxiv.org/pdf/1902.00407.pdf), ICML 2019
@@ -85,11 +89,17 @@ FullGrad, [Full-Gradient Representation for Neural Network Visualization](https:
 
 [This Looks Like That: Deep Learning for Interpretable Image Recognition](http://papers.nips.cc/paper/9095-this-looks-like-that-deep-learning-for-interpretable-image-recognition.pdf), NIPS 2019
 
+[The Many Shapley Values for Model Explanation](https://arxiv.org/pdf/1908.08474.pdf), arxiv preprint 2019
+
+[Generating Contrastive Explanations with Monotonic Attribute Functions](https://arxiv.org/pdf/1905.12698.pdf), arxiv preprint 2019
+
 [Gradient-Based Vs. Propagation-Based Explanations: An Axiomatic Comparison](https://link.springer.com/chapter/10.1007/978-3-030-28954-6_13), In book: Explainable AI: Interpreting, Explaining and Visualizing Deep Learning, pp.253-265, Springer 2019
 
 NoiseTunnel, [Sanity checks for saliency maps](http://arxiv.org/abs/1810.03292), NIPS 2018
 
-[Towards robust interpretability with self-explaining neural networks](http://papers.nips.cc/paper/8003-towards-robust-interpretability-with-self-explaining-neural-networks), NIPS 2018
+[Towards Robust Interpretability with Self-Explaining Neural Networks](https://papers.nips.cc/paper/8003-towards-robust-interpretability-with-self-explaining-neural-networks), NIPS 2018
+
+[Improving Simple Models with Confidence Profiles](https://papers.nips.cc/paper/8231-improving-simple-models-with-confidence-profiles.pdf), NIPS 2018
 
 Integrated Gradients, [Did the Model Understand the Question?](http://arxiv.org/abs/1805.05492), ACL 2018
 
@@ -159,6 +169,8 @@ Guided Backpropagation, [Striving for simplicity: The all convolutional net](htt
 Back progagation: [Deep inside convolutional networks: Visualising image classification models and saliency maps](http://arxiv.org/abs/1312.6034), ICLR 2014
 
 Deconvnet: [Visualizing and Understanding Convolutional Networks](http://arxiv.org/abs/1311.2901)
+
+[Bounding the Estimation Error of Sampling-based Shapley Value Approximation](https://arxiv.org/pdf/1306.4265.pdf), arxiv preprint 2013
 
 [How to explain individual classification decisions](http://arxiv.org/abs/0912.1128), Journal of Machine Learning Research 2010
 
