@@ -45,6 +45,8 @@ A  collection of research materials on explainable AI
 
 [Explaining Explanations: Axiomatic Feature Interactions for Deep Networks](https://arxiv.org/pdf/2002.04138.pdf), arxiv preprint 2020
 
+[FEATURE INTERACTION INTERPRETABILITY: A CASE FOR EXPLAINING AD-RECOMMENDATION SYSTEMS VIA NEURAL INTERACTION DETECTION](https://openreview.net/pdf?id=BkgnhTEtDS), ICLR 2020
+
 [Explaining Groups of Points in Low-Dimensional Representations](https://arxiv.org/pdf/2003.01640.pdf), ICML 2020
 
 [Towards Visually Explaining Variational Autoencoders](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Towards_Visually_Explaining_Variational_Autoencoders_CVPR_2020_paper.pdf), CVPR 2020
