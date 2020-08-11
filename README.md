@@ -152,7 +152,7 @@ Grad-CAM: [Grad-CAM: Visual Explanations from Deep Networks via Gradient-Based L
 
 LRP: [Layer-wise relevance propagation for neural networks with local renormalization layers](http://arxiv.org/abs/1604.00825), ICANN 2016
 
-[Not Just a Black Box: Learning Important Features Through Propagating Activation Differences](https://arxiv.org/abs/1605.01713), arxiv preprint 2016
+Gradient * input: [Not Just a Black Box: Learning Important Features Through Propagating Activation Differences](https://arxiv.org/abs/1605.01713), arxiv preprint 2016
 
 LOCO, [Distribution-Free Predictive Inference For Regression](https://arxiv.org/pdf/1604.04173.pdf), Arxiv preprint 2016
 
