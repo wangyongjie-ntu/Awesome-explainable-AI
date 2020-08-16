@@ -26,6 +26,8 @@ A  collection of research materials on explainable AI
 
 ## Books
 
+[Gradient-Based Vs. Propagation-Based Explanations: An Axiomatic Comparison](https://link.springer.com/chapter/10.1007/978-3-030-28954-6_13), Springer 2019
+
 [Explanation in Artificial Intelligence: Insights from the Social Sciences](https://arxiv.org/pdf/1706.07269.pdf), 2017 arxiv preprint
 
 [Explanatory Model Analysis Explore, Explain and Examine Predictive Models](https://pbiecek.github.io/ema/)
