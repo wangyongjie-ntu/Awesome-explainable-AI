@@ -2,7 +2,8 @@
 A  collection of research materials on explainable AI
 ![Open the BlackBox](https://github.com/iversonicter/awesome-explainable-AI/blob/master/fig/blackbox.png)
 
-## Survey
+## Surveys
+
 [Machine learning interpretability: A survey on methods and metrics](https://www.mdpi.com/2079-9292/8/8/832), Electronics, 2019
 
 [A Survey on Explainable Artificial Intelligence (XAI): Towards Medical XAI](http://arxiv.org/abs/1907.07374), Preprinted, 2019
@@ -26,7 +27,7 @@ A  collection of research materials on explainable AI
 
 ## Books
 
-[Gradient-Based Vs. Propagation-Based Explanations: An Axiomatic Comparison](https://link.springer.com/chapter/10.1007/978-3-030-28954-6_13), Springer 2019
+[Explainable AI: Interpreting, Explaining and Visualizing Deep Learning](http://link.springer.com/10.1007/978-3-030-28954-6), Springer 2019
 
 [Explanation in Artificial Intelligence: Insights from the Social Sciences](https://arxiv.org/pdf/1706.07269.pdf), 2017 arxiv preprint
 
@@ -34,7 +35,6 @@ A  collection of research materials on explainable AI
 
 [Interpretable Machine Learning A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/)
 
-[Explainable AI: Interpreting, Explaining and Visualizing Deep Learning](http://link.springer.com/10.1007/978-3-030-28954-6)
 
 
 ## Open Courses
@@ -120,11 +120,11 @@ InternalInfluence, [Influence-Directed Explanations for Deep Convolutional Netwo
 
 [Right for the Right Reasons: Training Differentiable Models by Constraining their Explanations](https://arxiv.org/pdf/1703.03717.pdf), arxiv preprint 2017
 
-[Understanding Black-box Predictions via Influence Functions](https://arxiv.org/pdf/1703.04730.pdf), arxiv preprint 2017
-
 Anchors, [Anchors: High-Precision Model-Agnostic Explanations](https://homes.cs.washington.edu/~marcotcr/aaai18.pdf), AAAI 2018
 
 Shap: [A unified approach to interpreting model predictions](http://arxiv.org/abs/1705.07874), NIPS 2017
+
+[Understanding Black-box Predictions via Influence Functions](https://arxiv.org/pdf/1703.04730.pdf), ICML 2017
 
 DeepLIFT: [Learning important features through propagating activation differences](http://arxiv.org/abs/1704.02685), ICML 2017
 
@@ -170,6 +170,8 @@ CAM: [Learning Deep Features for Discriminative Localization](http://arxiv.org/a
 
 Guided Backpropagation, [Striving for simplicity: The all convolutional net](http://arxiv.org/abs/1412.6806), ICLR 2015
 
+[Understanding neural networks through deep visualization](https://arxiv.org/abs/1506.06579), arxiv preprint 2015
+
 Back progagation: [Deep inside convolutional networks: Visualising image classification models and saliency maps](http://arxiv.org/abs/1312.6034), ICLR 2014
 
 Deconvnet: [Visualizing and Understanding Convolutional Networks](http://arxiv.org/abs/1311.2901)
@@ -178,7 +180,7 @@ Deconvnet: [Visualizing and Understanding Convolutional Networks](http://arxiv.o
 
 [How to explain individual classification decisions](http://arxiv.org/abs/0912.1128), Journal of Machine Learning Research 2010
 
-### Evaluation
+### Evaluation methods
 
 [Sanity Checks for Saliency Metrics](https://aaai.org/ojs/index.php/AAAI/article/view/6064), AAAI 2020
 
@@ -231,8 +233,9 @@ XAI: [https://github.com/EthicalML/xai](https://github.com/EthicalML/xai)
 
 
 ## Acknowledge
-Thanks for your attention.
-I appreciate it very much if you could add more materials to this repo! 
 
-If any question, feel free to contact me(yongjie.wang@ntu.edu.sg).
+Currently all papers are almost piled together, and I am working to build a taxonomy which divides all papers into several groups with clear research boundary. It will be released in short future!!!
 
+I appreciate it very much if you could add more materials related to XAI/XML to this repo! 
+
+If any questions, feel free to contact me(yongjie.wang@ntu.edu.sg). Welcome to discuss together.
