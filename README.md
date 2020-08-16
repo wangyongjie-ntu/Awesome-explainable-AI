@@ -180,6 +180,8 @@ Deconvnet: [Visualizing and Understanding Convolutional Networks](http://arxiv.o
 
 [How to explain individual classification decisions](http://arxiv.org/abs/0912.1128), Journal of Machine Learning Research 2010
 
+[Review and comparison of methods to study the contribution of variables in artificial neural network models](https://www.sciencedirect.com/science/article/abs/pii/S0304380002002570), Ecological Modelling 2003
+
 ### Evaluation methods
 
 [Sanity Checks for Saliency Metrics](https://aaai.org/ojs/index.php/AAAI/article/view/6064), AAAI 2020
