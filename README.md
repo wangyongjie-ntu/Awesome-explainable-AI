@@ -124,6 +124,8 @@ Anchors, [Anchors: High-Precision Model-Agnostic Explanations](https://homes.cs.
 
 Shap: [A unified approach to interpreting model predictions](http://arxiv.org/abs/1705.07874), NIPS 2017
 
+[Real Time Image Saliency for Black Box Classifiers](https://papers.nips.cc/paper/7272-real-time-image-saliency-for-black-box-classifiers.pdf), NIPS 2017
+
 [Understanding Black-box Predictions via Influence Functions](https://arxiv.org/pdf/1703.04730.pdf), ICML 2017
 
 DeepLIFT: [Learning important features through propagating activation differences](http://arxiv.org/abs/1704.02685), ICML 2017
