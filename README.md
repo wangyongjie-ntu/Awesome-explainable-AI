@@ -103,6 +103,8 @@ FullGrad, [Full-Gradient Representation for Neural Network Visualization](https:
 
 [Faithful and Customizable Explanations of Black Box Models](https://dl.acm.org/doi/pdf/10.1145/3306618.3314229), ACM AIES 2019
 
+VarGard,[Local Explanation Methods for Deep Neural Networks Lack Sensitivity to Parameter Values](https://arxiv.org/abs/1810.03307), ICLR 2018 workshop
+
 NoiseTunnel, [Sanity checks for saliency maps](http://arxiv.org/abs/1810.03292), NIPS 2018
 
 [Towards Robust Interpretability with Self-Explaining Neural Networks](https://papers.nips.cc/paper/8003-towards-robust-interpretability-with-self-explaining-neural-networks), NIPS 2018
@@ -117,8 +119,11 @@ Neuron Integrated Gradients: [Computationally Efficient Measures of Internal Neu
 
 [A Theoretical Explanation for Perplexing Behaviors of Backpropagation-based Visualizations](http://proceedings.mlr.press/v80/nie18a/nie18a.pdf), ICML 2018
 
-
 TCAV: [Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV)](https://arxiv.org/abs/1711.11279), ICML 2018
+
+[Noise-adding Methods of Saliency Map as Series of Higher Order Partial Derivative](https://arxiv.org/pdf/1806.03000.pdf), ICML 2018 workshop
+
+[Learning to Explain: An Information-Theoretic Perspective on Model Interpretation](http://proceedings.mlr.press/v80/chen18j/chen18j.pdf), ICML 2018
 
 InternalInfluence, [Influence-Directed Explanations for Deep Convolutional Networks](http://arxiv.org/abs/1802.03788), IEEE International Test Conference 2018
 
