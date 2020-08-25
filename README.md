@@ -97,7 +97,11 @@ FullGrad, [Full-Gradient Representation for Neural Network Visualization](https:
 
 [Generating Contrastive Explanations with Monotonic Attribute Functions](https://arxiv.org/pdf/1905.12698.pdf), arxiv preprint 2019
 
+[Interpretml: A unified framework for machine learning interpretability](https://arxiv.org/abs/1909.09223), arxiv preprint 2019
+
 [Gradient-Based Vs. Propagation-Based Explanations: An Axiomatic Comparison](https://link.springer.com/chapter/10.1007/978-3-030-28954-6_13), In book: Explainable AI: Interpreting, Explaining and Visualizing Deep Learning, pp.253-265, Springer 2019
+
+[Faithful and Customizable Explanations of Black Box Models](https://dl.acm.org/doi/pdf/10.1145/3306618.3314229), ACM AIES 2019
 
 NoiseTunnel, [Sanity checks for saliency maps](http://arxiv.org/abs/1810.03292), NIPS 2018
 
@@ -180,6 +184,8 @@ Deconvnet: [Visualizing and Understanding Convolutional Networks](http://arxiv.o
 
 [Bounding the Estimation Error of Sampling-based Shapley Value Approximation](https://arxiv.org/pdf/1306.4265.pdf), arxiv preprint 2013
 
+[Making machine learning models interpretable](https://pdfs.semanticscholar.org/ce0b/8b6fca7dc089548cc2e9aaac3bae82bb19da.pdf), ESANN 2012
+
 [How to explain individual classification decisions](http://arxiv.org/abs/0912.1128), Journal of Machine Learning Research 2010
 
 [Review and comparison of methods to study the contribution of variables in artificial neural network models](https://www.sciencedirect.com/science/article/abs/pii/S0304380002002570), Ecological Modelling 2003
@@ -189,6 +195,8 @@ Deconvnet: [Visualizing and Understanding Convolutional Networks](http://arxiv.o
 [Sanity Checks for Saliency Metrics](https://aaai.org/ojs/index.php/AAAI/article/view/6064), AAAI 2020
 
 [A benchmark for interpretability methods in deep neural networks](https://papers.nips.cc/paper/9167-a-benchmark-for-interpretability-methods-in-deep-neural-networks.pdf), NIPS 2019
+
+[Methods for interpreting and understanding deep neural networks](https://www.sciencedirect.com/science/article/pii/S1051200417302385), Digital Signal Processing 2017
 
 [Evaluating the visualization of what a Deep Neural Network has learned](http://arxiv.org/abs/1509.06321), IEEE Transactions on Neural Networks and Learning Systems 2015
 
