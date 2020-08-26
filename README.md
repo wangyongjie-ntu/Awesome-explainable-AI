@@ -43,6 +43,8 @@ A  collection of research materials on explainable AI
 
 ## Papers
 
+[Explaining Machine Learning Classifiers through Diverse Counterfactual Explanations](https://arxiv.org/abs/1905.07697), ACM FACCT 2020
+
 [Evaluations and Methods for Explanation through Robustness Analysis](https://arxiv.org/pdf/2006.00442.pdf), arxiv preprint 2020
 
 [Explaining Explanations: Axiomatic Feature Interactions for Deep Networks](https://arxiv.org/pdf/2002.04138.pdf), arxiv preprint 2020
