@@ -69,9 +69,13 @@ Blur integrated gradient: [Attribution in Scale and Space](https://arxiv.org/pdf
 
 NeuronConductance, [How important is a neuron?](http://arxiv.org/abs/1805.12233), ICLR 2019
 
+[Explaining Image Classifiers by Counterfactual Generation](https://arxiv.org/pdf/1807.08024.pdf), ICLR 2019
+
 FullGrad, [Full-Gradient Representation for Neural Network Visualization](https://papers.nips.cc/paper/8666-full-gradient-representation-for-neural-network-visualization.pdf), NIPS 2019
 
 [On the (In)fidelity and Sensitivity for Explanations](https://arxiv.org/abs/1901.09392v4), NIPS 2019
+
+[Towards Automatic Concept-based Explanations](https://arxiv.org/pdf/1902.03129.pdf), NIPS 2019
 
 [Explaining Explanations in AI](https://arxiv.org/pdf/1811.01439.pdf), ACM FAT 2019
 
@@ -111,6 +115,8 @@ NoiseTunnel, [Sanity checks for saliency maps](http://arxiv.org/abs/1810.03292),
 
 [Improving Simple Models with Confidence Profiles](https://papers.nips.cc/paper/8231-improving-simple-models-with-confidence-profiles.pdf), NIPS 2018
 
+[Model Agnostic Supervised Local Explanations](https://arxiv.org/abs/1807.02910), NIPS 2018
+
 Integrated Gradients, [Did the Model Understand the Question?](http://arxiv.org/abs/1805.05492), ACL 2018
 
 [Interpretable Convolutional Neural Networks](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Interpretable_Convolutional_Neural_CVPR_2018_paper.pdf), CVPR 2018
@@ -123,9 +129,13 @@ TCAV: [Interpretability Beyond Feature Attribution: Quantitative Testing with Co
 
 [Noise-adding Methods of Saliency Map as Series of Higher Order Partial Derivative](https://arxiv.org/pdf/1806.03000.pdf), ICML 2018 workshop
 
+[On the Robustness of Interpretability Methods](https://arxiv.org/abs/1806.08049), ICML 2018 workshop
+
 [Learning to Explain: An Information-Theoretic Perspective on Model Interpretation](http://proceedings.mlr.press/v80/chen18j/chen18j.pdf), ICML 2018
 
 InternalInfluence, [Influence-Directed Explanations for Deep Convolutional Networks](http://arxiv.org/abs/1802.03788), IEEE International Test Conference 2018
+
+[RISE: Randomized Input Sampling for Explanation of Black-box Models](http://bmvc2018.org/contents/papers/1064.pdf), BMVC 2018
 
 [Right for the Right Reasons: Training Differentiable Models by Constraining their Explanations](https://arxiv.org/pdf/1703.03717.pdf), arxiv preprint 2017
 
@@ -146,6 +156,8 @@ Integrated Gradients: [Axiomatic attribution for deep networks](http://arxiv.org
 [Explaining nonlinear classification decisions with deep Taylor decomposition](https://www.sciencedirect.com/science/article/pii/S0031320316303582), Pattern Recognition 2017
 
 [Interpretable Explanations of Black Boxes by Meaningful Perturbation](https://arxiv.org/pdf/1704.03296.pdf), ICCV 2017
+
+[Network Dissection: Quantifying Interpretability of Deep Visual Representations](https://arxiv.org/pdf/1704.05796.pdf), CVPR 2017
 
 SmoothGard: [SmoothGrad: removing noise by adding noise](http://arxiv.org/abs/1706.03825), preprint 2017
 
