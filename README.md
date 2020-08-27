@@ -199,6 +199,8 @@ Guided Backpropagation, [Striving for simplicity: The all convolutional net](htt
 
 Back progagation: [Deep inside convolutional networks: Visualising image classification models and saliency maps](http://arxiv.org/abs/1312.6034), ICLR 2014
 
+Shapley sampling values: [Explaining prediction models and individual predictions with feature contributions](https://dl.acm.org/doi/10.1007/s10115-013-0679-x), ACM Knowledge and Information Systems 2014
+
 Deconvnet: [Visualizing and Understanding Convolutional Networks](http://arxiv.org/abs/1311.2901)
 
 [Bounding the Estimation Error of Sampling-based Shapley Value Approximation](https://arxiv.org/pdf/1306.4265.pdf), arxiv preprint 2013
