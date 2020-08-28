@@ -81,6 +81,8 @@ FullGrad, [Full-Gradient Representation for Neural Network Visualization](https:
 
 [Explaining Explanations in AI](https://arxiv.org/pdf/1811.01439.pdf), ACM FAT 2019
 
+[Efficient Search for Diverse Coherent Explanations](https://arxiv.org/pdf/1901.04909.pdf), ACM FAT 2019
+
 [Bias also matters: Bias attribution for deep neural network explanation](http://proceedings.mlr.press/v97/wang19p.html), ICML 2019
 
 [Understanding Impacts of High-Order Loss Approximations and Features in Deep Learning Interpretation](https://arxiv.org/pdf/1902.00407.pdf), ICML 2019
