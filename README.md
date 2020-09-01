@@ -211,6 +211,8 @@ Deconvnet: [Visualizing and Understanding Convolutional Networks](http://arxiv.o
 
 [How to explain individual classification decisions](http://arxiv.org/abs/0912.1128), Journal of Machine Learning Research 2010
 
+[An Efficient Explanation of Individual Classifications using Game Theory](https://www.jmlr.org/papers/volume11/strumbelj10a/strumbelj10a.pdf), Journal of Machine Learning Research 2010
+
 [Review and comparison of methods to study the contribution of variables in artificial neural network models](https://www.sciencedirect.com/science/article/abs/pii/S0304380002002570), Ecological Modelling 2003
 
 ### Evaluation methods
