@@ -145,6 +145,8 @@ InternalInfluence, [Influence-Directed Explanations for Deep Convolutional Netwo
 
 Anchors, [Anchors: High-Precision Model-Agnostic Explanations](https://homes.cs.washington.edu/~marcotcr/aaai18.pdf), AAAI 2018
 
+[The Mythos of Model Interpretability](https://dl.acm.org/doi/pdf/10.1145/3236386.3241340), ACM Queue 2018
+
 Shap: [A unified approach to interpreting model predictions](http://arxiv.org/abs/1705.07874), NIPS 2017
 
 [Real Time Image Saliency for Black Box Classifiers](https://papers.nips.cc/paper/7272-real-time-image-saliency-for-black-box-classifiers.pdf), NIPS 2017
@@ -208,6 +210,8 @@ Deconvnet: [Visualizing and Understanding Convolutional Networks](http://arxiv.o
 [Bounding the Estimation Error of Sampling-based Shapley Value Approximation](https://arxiv.org/pdf/1306.4265.pdf), arxiv preprint 2013
 
 [Making machine learning models interpretable](https://pdfs.semanticscholar.org/ce0b/8b6fca7dc089548cc2e9aaac3bae82bb19da.pdf), ESANN 2012
+
+[Permutation importance: a corrected feature importance measure](https://academic.oup.com/bioinformatics/article/26/10/1340/193348), Bioinformatics 2010
 
 [How to explain individual classification decisions](http://arxiv.org/abs/0912.1128), Journal of Machine Learning Research 2010
 
