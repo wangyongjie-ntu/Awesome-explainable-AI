@@ -24,6 +24,10 @@ A  collection of research materials on explainable AI
 
 [Explainable Artificial Intelligence: Understanding, Visualizing and Interpreting Deep Learning Models](https://arxiv.org/abs/1708.08296), Arxiv 2017
 
+[An accurate comparison of methods for quantifying variable importance in artificial neural networks using simulated data](https://depts.washington.edu/oldenlab/wordpress/wp-content/uploads/2013/03/EcologicalModelling_2004.pdf), Ecological Modelling 2004
+
+[Review and comparison of methods to study the contribution of variables in artificial neural network models](http://sovan.lek.free.fr/publi/160-3%20Gevrey.pdf), Ecological Modelling 2003
+
 
 ## Books
 
