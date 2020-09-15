@@ -4,6 +4,7 @@ A  collection of research materials on explainable AI
 
 ## Surveys
 
+
 [Machine learning interpretability: A survey on methods and metrics](https://www.mdpi.com/2079-9292/8/8/832), Electronics, 2019
 
 [A Survey on Explainable Artificial Intelligence (XAI): Towards Medical XAI](http://arxiv.org/abs/1907.07374), Preprinted, 2019
@@ -30,6 +31,8 @@ A  collection of research materials on explainable AI
 
 
 ## Books
+
+[Explainable Artificial Intelligence (xAI) Approaches and Deep Meta-Learning Models](https://www.intechopen.com/online-first/explainable-artificial-intelligence-xai-approaches-and-deep-meta-learning-models),  Advances in Deep Learning Chapter 2020
 
 [Explainable AI: Interpreting, Explaining and Visualizing Deep Learning](http://link.springer.com/10.1007/978-3-030-28954-6), Springer 2019
 
