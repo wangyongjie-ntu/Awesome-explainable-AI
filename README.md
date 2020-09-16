@@ -19,8 +19,6 @@ A  collection of research materials on explainable AI
 
 [Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI)](https://ieeexplore.ieee.org/document/8466590/), IEEE Access, 2018
 
-[Visual Analytics in Deep Learning: An Interrogative Survey for the Next Frontiers](https://arxiv.org/abs/1801.06889v3), IEEE Transactions on Visualization and Computer Graphics 2018
-
 [Explainable artificial intelligence: A survey](https://ieeexplore.ieee.org/document/8400040/), MIPRO, 2018
 
 [Explainable Artificial Intelligence: Understanding, Visualizing and Interpreting Deep Learning Models](https://arxiv.org/abs/1708.08296), Arxiv 2017
@@ -119,6 +117,8 @@ FullGrad, [Full-Gradient Representation for Neural Network Visualization](https:
 [Gradient-Based Vs. Propagation-Based Explanations: An Axiomatic Comparison](https://link.springer.com/chapter/10.1007/978-3-030-28954-6_13), In book: Explainable AI: Interpreting, Explaining and Visualizing Deep Learning, pp.253-265, Springer 2019
 
 [Faithful and Customizable Explanations of Black Box Models](https://dl.acm.org/doi/pdf/10.1145/3306618.3314229), ACM AIES 2019
+
+[All Models are Wrong, but Many are Useful: Learning a Variable’s Importance by Studying an Entire Class of Prediction Models Simultaneously](https://arxiv.org/pdf/1801.01489.pdf), JMLR 2019
 
 VarGard,[Local Explanation Methods for Deep Neural Networks Lack Sensitivity to Parameter Values](https://arxiv.org/abs/1810.03307), ICLR 2018 workshop
 
