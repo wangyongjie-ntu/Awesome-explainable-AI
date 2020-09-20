@@ -148,6 +148,8 @@ TCAV: [Interpretability Beyond Feature Attribution: Quantitative Testing with Co
 
 InternalInfluence, [Influence-Directed Explanations for Deep Convolutional Networks](http://arxiv.org/abs/1802.03788), IEEE International Test Conference 2018
 
+[Top-down neural attention by excitation backprop](https://link.springer.com/article/10.1007/s11263-017-1059-x), IJCV 2018, (ECCV 2016)
+
 [RISE: Randomized Input Sampling for Explanation of Black-box Models](http://bmvc2018.org/contents/papers/1064.pdf), BMVC 2018
 
 [Right for the Right Reasons: Training Differentiable Models by Constraining their Explanations](https://arxiv.org/pdf/1703.03717.pdf), arxiv preprint 2017
