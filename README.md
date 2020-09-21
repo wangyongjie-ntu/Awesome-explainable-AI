@@ -24,6 +24,14 @@ A  collection of research materials on explainable AI
 
 [Explainable Artificial Intelligence: Understanding, Visualizing and Interpreting Deep Learning Models](https://arxiv.org/abs/1708.08296), Arxiv 2017
 
+[Explaining Explanation, Part 1: Theoretical Foundations](https://ieeexplore.ieee.org/abstract/document/7933919), IEEE Intelligent System 2017
+
+[Explaining Explanation, Part 2: Empirical Foundations](https://ieeexplore.ieee.org/abstract/document/8012316), IEEE Intelligent System 2017
+
+[Explaining Explanation, Part 3: The Causal Landscape](https://ieeexplore.ieee.org/abstract/document/8378482), IEEE Intelligent System 2017
+
+[Explaining Explanation, Part 4: A Deep Dive on Deep Nets](https://ieeexplore.ieee.org/abstract/document/8423529), IEEE Intelligent System 2017
+
 [An accurate comparison of methods for quantifying variable importance in artificial neural networks using simulated data](https://depts.washington.edu/oldenlab/wordpress/wp-content/uploads/2013/03/EcologicalModelling_2004.pdf), Ecological Modelling 2004
 
 [Review and comparison of methods to study the contribution of variables in artificial neural network models](http://sovan.lek.free.fr/publi/160-3%20Gevrey.pdf), Ecological Modelling 2003
