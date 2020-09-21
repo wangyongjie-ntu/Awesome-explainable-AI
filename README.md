@@ -45,7 +45,7 @@ A  collection of research materials on explainable AI
 
 ## Open Courses
 
-[Interpretability and Explainability in Machine Learning， Harvard University](https://interpretable-ml-class.github.io/)
+[Interpretability and Explainability in Machine Learning, Harvard University](https://interpretable-ml-class.github.io/)
 
 ## Papers
 
@@ -235,7 +235,7 @@ Deconvnet: [Visualizing and Understanding Convolutional Networks](http://arxiv.o
 
 ### Actionable Recourse (Counterfactual Explanation)
 
-This task mainly targets to find an explanation of a given instance, such that the explanation can change the prediction(Ususally from an undesirable outcome to an ideal one). The explanation itself is also a valid instance, or changing of current instance(can reduce to another instance implicitly) in the feature space. This task simply learn knowledge from the black-box models. This task belongs to the instance-level explanation. Quite interesting to dive deeper!!!
+This task mainly targets to find an explanation of a given instance, such that the explanation can change the prediction(Ususally from an undesirable outcome to an ideal one). The explanation itself is also a valid instance, or changing of current instance(can reduce to another instance implicitly) in the feature space. This task simply extracts knowledge from the black-box models. This task belongs to the instance-level explanation. Quite interesting to dive deeper!!!
 
 
 [Explaining Machine Learning Classifiers through Diverse Counterfactual Explanations](https://arxiv.org/pdf/1905.07697.pdf), ACM FAT 2020
