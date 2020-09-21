@@ -4,6 +4,7 @@ A  collection of research materials on explainable AI
 
 ## Surveys
 
+[Explainable Machine Learning in Deployment](https://dl.acm.org/doi/pdf/10.1145/3351095.3375624), FAT 2020
 
 [Machine learning interpretability: A survey on methods and metrics](https://www.mdpi.com/2079-9292/8/8/832), Electronics, 2019
 
@@ -232,6 +233,26 @@ Deconvnet: [Visualizing and Understanding Convolutional Networks](http://arxiv.o
 
 [Review and comparison of methods to study the contribution of variables in artificial neural network models](https://www.sciencedirect.com/science/article/abs/pii/S0304380002002570), Ecological Modelling 2003
 
+### Actionable Recourse (Counterfactual Explanation)
+
+This task mainly targets to find an explanation of a given instance, such that the explanation can change the prediction(Ususally from an undesirable outcome to an ideal one). The explanation itself is also a valid instance, or changing of current instance(can reduce to another instance implicitly) in the feature space. This task simply learn knowledge from the black-box models. This task belongs to the instance-level explanation. Quite interesting to dive deeper!!!
+
+
+[Explaining Machine Learning Classifiers through Diverse Counterfactual Explanations](https://arxiv.org/pdf/1905.07697.pdf), ACM FAT 2020
+
+
+[Towards Realistic Individual Recourse and Actionable Explanations in Black-Box Decision Making Systems](https://arxiv.org/pdf/1907.09615.pdf), Arxiv preprint 2019
+
+[Actionable Recourse in Linear Classification](https://dl.acm.org/doi/pdf/10.1145/3287560.3287566), FAT 2019
+
+[EQUALIZING RECOURSE ACROSS GROUPS](https://arxiv.org/abs/1909.03166),  Arxiv preprint 2019
+
+[Efficient Search for Diverse Coherent Explanations](https://arxiv.org/pdf/1901.04909.pdf), ACM FAT 2019
+
+[Counterfactual Explanations without Opening the Black Box: Automated Decisions and the GDPR](https://arxiv.org/abs/1711.00399), Hardvard Journal of Law & Technology 2018 (strong recommend)
+
+[Inverse Classification for Comparison-based Interpretability in Machine Learning](https://arxiv.org/pdf/1712.08443.pdf), Arxiv 2017
+
 ### Evaluation methods
 
 [Sanity Checks for Saliency Metrics](https://aaai.org/ojs/index.php/AAAI/article/view/6064), AAAI 2020
@@ -288,7 +309,7 @@ XAI: [https://github.com/EthicalML/xai](https://github.com/EthicalML/xai)
 
 ## Acknowledge
 
-Currently all papers are almost piled together, and I am working to build a taxonomy which divides all papers into several groups with clear research boundary. It will be released in short future!!!
+Currently all papers are almost piled together, and I am working to build a taxonomy which divides all papers into several groups with clear research boundary. The branch "recourse/counterfactual explanation" is born!
 
 I appreciate it very much if you could add more materials related to XAI/XML to this repo! 
 
