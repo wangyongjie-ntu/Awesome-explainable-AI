@@ -245,9 +245,13 @@ Deconvnet: [Visualizing and Understanding Convolutional Networks](http://arxiv.o
 
 This task mainly targets to find an explanation of a given instance, such that the explanation can change the prediction(Ususally from an undesirable outcome to an ideal one). The explanation itself is also a valid instance, or changing of current instance(can reduce to another instance implicitly) in the feature space. This task simply extracts knowledge from the black-box models. This task belongs to the instance-level explanation. Quite interesting to dive deeper!!!
 
+[Algorithmic recourse under imperfect causal knowledge a probabilistic approach](https://arxiv.org/abs/2006.06831), Arxiv preprint 2020
+
+[Algorithmic Recourse: from Counterfactual Explanations to Interventions](https://arxiv.org/abs/2002.06278), Arxiv preprint 2020
+
+[Learning Model-Agnostic Counterfactual Explanations for Tabular Data](https://dl.acm.org/doi/abs/10.1145/3366423.3380087),  ACM WWW 2020
 
 [Explaining Machine Learning Classifiers through Diverse Counterfactual Explanations](https://arxiv.org/pdf/1905.07697.pdf), ACM FAT 2020
-
 
 [Towards Realistic Individual Recourse and Actionable Explanations in Black-Box Decision Making Systems](https://arxiv.org/pdf/1907.09615.pdf), Arxiv preprint 2019
 
@@ -256,6 +260,8 @@ This task mainly targets to find an explanation of a given instance, such that t
 [EQUALIZING RECOURSE ACROSS GROUPS](https://arxiv.org/abs/1909.03166),  Arxiv preprint 2019
 
 [Efficient Search for Diverse Coherent Explanations](https://arxiv.org/pdf/1901.04909.pdf), ACM FAT 2019
+
+[Explaining image classifiers by counterfactual generation](https://arxiv.org/pdf/1807.08024.pdf), ICLR 2019
 
 [Counterfactual Explanations without Opening the Black Box: Automated Decisions and the GDPR](https://arxiv.org/abs/1711.00399), Hardvard Journal of Law & Technology 2018 (strong recommend)
 
