@@ -183,7 +183,11 @@ Integrated Gradients: [Axiomatic attribution for deep networks](http://arxiv.org
 
 [Interpretable Explanations of Black Boxes by Meaningful Perturbation](https://arxiv.org/pdf/1704.03296.pdf), ICCV 2017
 
+[Hide-and-Seek: Forcing a Network to be Meticulous for Weakly-Supervised Object and Action Localization](https://ieeexplore.ieee.org/abstract/document/8237643), ICCV 2017
+
 [Network Dissection: Quantifying Interpretability of Deep Visual Representations](https://arxiv.org/pdf/1704.05796.pdf), CVPR 2017
+
+[Object Region Mining With Adversarial Erasing: A Simple Classification to Semantic Segmentation Approach](https://openaccess.thecvf.com/content_cvpr_2017/papers/Wei_Object_Region_Mining_CVPR_2017_paper.pdf), CVPR 2017
 
 SmoothGard: [SmoothGrad: removing noise by adding noise](http://arxiv.org/abs/1706.03825), preprint 2017
 
