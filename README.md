@@ -259,6 +259,8 @@ This task mainly targets to find an explanation of a given instance, such that t
 
 [Towards Realistic Individual Recourse and Actionable Explanations in Black-Box Decision Making Systems](https://arxiv.org/pdf/1907.09615.pdf), Arxiv preprint 2019
 
+[Interpretable Counterfactual Explanations Guided by Prototypes](https://arxiv.org/pdf/1907.02584.pdf), Arxiv preprint 2019
+
 [Actionable Recourse in Linear Classification](https://dl.acm.org/doi/pdf/10.1145/3287560.3287566), FAT 2019
 
 [EQUALIZING RECOURSE ACROSS GROUPS](https://arxiv.org/abs/1909.03166),  Arxiv preprint 2019
@@ -268,6 +270,8 @@ This task mainly targets to find an explanation of a given instance, such that t
 [Explaining image classifiers by counterfactual generation](https://arxiv.org/pdf/1807.08024.pdf), ICLR 2019
 
 [Counterfactual Explanations without Opening the Black Box: Automated Decisions and the GDPR](https://arxiv.org/abs/1711.00399), Hardvard Journal of Law & Technology 2018 (strong recommend)
+
+[Explanations based on the Missing: Towards Contrastive Explanations with Pertinent Negatives](https://papers.nips.cc/paper/7340-explanations-based-on-the-missing-towards-contrastive-explanations-with-pertinent-negatives), NIPS 2018
 
 [Inverse Classification for Comparison-based Interpretability in Machine Learning](https://arxiv.org/pdf/1712.08443.pdf), Arxiv 2017
 
