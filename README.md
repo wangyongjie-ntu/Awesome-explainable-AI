@@ -209,6 +209,8 @@ LRP: [Layer-wise relevance propagation for neural networks with local renormaliz
 
 Gradient * input: [Not Just a Black Box: Learning Important Features Through Propagating Activation Differences](https://arxiv.org/abs/1605.01713), arxiv preprint 2016
 
+[Visualizing the Effects of Predictor Variables in Black Box Supervised Learning Models](https://arxiv.org/pdf/1612.08468.pdf), Arxiv preprint 2016
+
 LOCO, [Distribution-Free Predictive Inference For Regression](https://arxiv.org/pdf/1604.04173.pdf), Arxiv preprint 2016
 
 [Examples are not enough, learn to criticize! Criticism for interpretability](https://papers.nips.cc/paper/6300-examples-are-not-enough-learn-to-criticize-criticism-for-interpretability), NIPS 2016
