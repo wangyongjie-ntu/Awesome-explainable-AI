@@ -332,6 +332,14 @@ AIX360: [https://github.com/IBM/AIX360](https://github.com/IBM/AIX360)
 
 XAI: [https://github.com/EthicalML/xai](https://github.com/EthicalML/xai)
 
+tf-explain: [https://github.com/sicara/tf-explain](https://github.com/sicara/tf-explain), Tensorflow
+
+WeightWatcher: [https://github.com/CalculatedContent/WeightWatcher](https://github.com/CalculatedContent/WeightWatcher), Keras, Pytorch
+
+BlackBoxAuditing: [https://github.com/algofairness/BlackBoxAuditing](https://github.com/algofairness/BlackBoxAuditing), scikit-learn
+
+explainx: [https://github.com/explainX/explainx](https://github.com/explainX/explainx), xgboost, catboost
+
 
 ## Acknowledge
 
