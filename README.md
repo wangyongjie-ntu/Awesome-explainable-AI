@@ -57,6 +57,12 @@ A  collection of research materials on explainable AI
 
 ## Papers
 
+### Counterfactual Explanation (Actionable Recourse)
+
+[Counterfactual Explanation](https://github.com/wangyongjie-ntu/Awesome-explainable-AI/tree/master/cf)
+
+### Model/Instance Explanation
+
 [Explaining Machine Learning Classifiers through Diverse Counterfactual Explanations](https://arxiv.org/abs/1905.07697), ACM FACCT 2020
 
 [Evaluations and Methods for Explanation through Robustness Analysis](https://arxiv.org/pdf/2006.00442.pdf), arxiv preprint 2020
@@ -247,11 +253,6 @@ Deconvnet: [Visualizing and Understanding Convolutional Networks](http://arxiv.o
 
 [Review and comparison of methods to study the contribution of variables in artificial neural network models](https://www.sciencedirect.com/science/article/abs/pii/S0304380002002570), Ecological Modelling 2003
 
-### Counterfactual Explanation (Actionable Recourse)
-
-This task mainly targets to find an explanation of a given instance, such that the explanation can change the prediction(Ususally from an undesirable outcome to an ideal one). The explanation itself is also a valid instance, or changing of current instance(can reduce to another instance implicitly) in the feature space. This task simply extracts knowledge from the black-box models. This task belongs to the instance-level explanation. Quite interesting to dive deeper!!!
-
-[Collection of paper](https://github.com/wangyongjie-ntu/Awesome-explainable-AI/tree/master/cf)
 
 
 ### Evaluation methods
