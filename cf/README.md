@@ -37,3 +37,7 @@ This task mainly targets to find an explanation of a given instance, such that t
 [Explanations based on the Missing: Towards Contrastive Explanations with Pertinent Negatives](https://papers.nips.cc/paper/7340-explanations-based-on-the-missing-towards-contrastive-explanations-with-pertinent-negatives), NIPS 2018
 
 [Inverse Classification for Comparison-based Interpretability in Machine Learning](https://arxiv.org/pdf/1712.08443.pdf), Arxiv 2017
+
+[Interpretable Predictions of Tree-based Ensembles via Actionable Feature Tweaking](https://arxiv.org/pdf/1706.06691.pdf), KDD 2017
+
+[Generalized Inverse Classification](https://epubs.siam.org/doi/pdf/10.1137/1.9781611974973.19), SIAM 2017
