@@ -10,6 +10,8 @@ This task mainly targets to find an explanation of a given instance, such that t
 
 [Learning Model-Agnostic Counterfactual Explanations for Tabular Data](https://dl.acm.org/doi/abs/10.1145/3366423.3380087),  ACM WWW 2020
 
+[The hidden assumptions behind counterfactual explanations and principal reasons](https://arxiv.org/pdf/1912.04930.pdf), ACM Facct 2020
+
 [Explaining Machine Learning Classifiers through Diverse Counterfactual Explanations](https://arxiv.org/pdf/1905.07697.pdf), ACM Facct 2020
 
 [FACE: Feasible and Actionable Counterfactual Explanation](https://arxiv.org/abs/1909.09369), ACM Facct 2020
@@ -19,6 +21,8 @@ This task mainly targets to find an explanation of a given instance, such that t
 [CRUDS: Counterfactual Recourse Using Disentangled Subspaces](https://finale.seas.harvard.edu/files/finale/files/cruds-_counterfactual_recourse_using_disentangled_subspaces.pdf), ICML 2020 Workshop
 
 [Towards Realistic Individual Recourse and Actionable Explanations in Black-Box Decision Making Systems](https://arxiv.org/pdf/1907.09615.pdf), Arxiv preprint 2019
+
+[Generative Counterfactual Introspection for Explainable Deep Learning](https://arxiv.org/abs/1907.03077), Arxiv preprint 2019
 
 [Interpretable Counterfactual Explanations Guided by Prototypes](https://arxiv.org/pdf/1907.02584.pdf), Arxiv preprint 2019
 
