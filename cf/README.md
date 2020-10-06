@@ -4,7 +4,9 @@ This task mainly targets to find an explanation of a given instance, such that t
 
 [Interpretable and Interactive Summaries of Actionable Recourses](https://arxiv.org/abs/2009.07165), Arxiv preprint 2020
 
-[Algorithmic recourse under imperfect causal knowledge a probabilistic approach](https://arxiv.org/abs/2006.06831), Arxiv preprint 2020
+[Counterfactual Explanation Based on Gradual Construction for Deep Networks](https://arxiv.org/abs/2008.01897), Arxiv preprint 2020
+
+[Algorithmic recourse under imperfect causal knowledge a probabilistic approach](https://arxiv.org/abs/2006.06831), NeurIPS 2020
 
 [Algorithmic Recourse: from Counterfactual Explanations to Interventions](https://arxiv.org/abs/2002.06278), Arxiv preprint 2020
 
@@ -20,6 +22,8 @@ This task mainly targets to find an explanation of a given instance, such that t
 
 [CRUDS: Counterfactual Recourse Using Disentangled Subspaces](https://finale.seas.harvard.edu/files/finale/files/cruds-_counterfactual_recourse_using_disentangled_subspaces.pdf), ICML 2020 Workshop
 
+[Multi-Objective Counterfactual Explanations](https://arxiv.org/pdf/2004.11165.pdf), PPSN 2020
+
 [Towards Realistic Individual Recourse and Actionable Explanations in Black-Box Decision Making Systems](https://arxiv.org/pdf/1907.09615.pdf), Arxiv preprint 2019
 
 [Generative Counterfactual Introspection for Explainable Deep Learning](https://arxiv.org/abs/1907.03077), Arxiv preprint 2019
@@ -27,6 +31,8 @@ This task mainly targets to find an explanation of a given instance, such that t
 [Interpretable Counterfactual Explanations Guided by Prototypes](https://arxiv.org/pdf/1907.02584.pdf), Arxiv preprint 2019
 
 [Issues with post-hoc counterfactual explanations: a discussion](https://arxiv.org/abs/1906.04774), Arxiv preprint 2019
+
+[Preserving Causal Constraints in Counterfactual Explanations for Machine Learning Classifiers](https://arxiv.org/abs/1912.03277), NeurIPS Workshop 2019
 
 [Actionable Recourse in Linear Classification](https://dl.acm.org/doi/pdf/10.1145/3287560.3287566), ACM Facct 2019
 
@@ -45,3 +51,7 @@ This task mainly targets to find an explanation of a given instance, such that t
 [Interpretable Predictions of Tree-based Ensembles via Actionable Feature Tweaking](https://arxiv.org/pdf/1706.06691.pdf), KDD 2017
 
 [Generalized Inverse Classification](https://epubs.siam.org/doi/pdf/10.1137/1.9781611974973.19), SIAM 2017
+
+### Github Repos
+
+Dice: [https://github.com/interpretml/DiCE.git](https://github.com/interpretml/DiCE.git), Pytorch, TensorFlow
