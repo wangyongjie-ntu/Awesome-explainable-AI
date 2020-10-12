@@ -61,7 +61,23 @@ A  collection of research materials on explainable AI
 
 [Counterfactual Explanation](https://github.com/wangyongjie-ntu/Awesome-explainable-AI/tree/master/cf)
 
-### Model/Instance Explanation
+## Model/Instance Explanation
+
+[Towards Interpretable Natural Language Understanding with Explanations as Latent Variables](), NeurIPS 2020
+
+[Learning identifiable and interpretable latent models of high-dimensional neural activity using pi-VAE](), NeurIPS 2020
+
+[How does this interaction affect me? Interpretable attribution for feature interactions](https://arxiv.org/abs/2006.10965), NeurIPS 2020
+
+[ICAM: Interpretable Classification via Disentangled Representations and Feature Attribution Mapping](https://arxiv.org/abs/2006.08287), NeurIPS 2020
+
+[Generative causal explanations of black-box classifiers](https://arxiv.org/abs/2006.13913), NeurIPS 2020
+
+[What went wrong and when? Instance-wise Feature Importance for Time-series Models](https://arxiv.org/abs/2003.02821), NeurIPS 2020
+
+[Learning Global Transparent Models from Local Contrastive Explanations](https://arxiv.org/abs/2002.08247), NeurIPS 2020
+
+[Learning outside the Black-Box: The pursuit of interpretable models](), NeurIPS 2020
 
 [Explaining Machine Learning Classifiers through Diverse Counterfactual Explanations](https://arxiv.org/abs/1905.07697), ACM FACCT 2020
 
