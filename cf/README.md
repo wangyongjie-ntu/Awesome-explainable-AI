@@ -2,6 +2,12 @@
 
 This task mainly targets to find an explanation of a given instance, such that the explanation can change the prediction(Ususally from an undesirable outcome to an ideal one). The explanation itself is also a valid instance, or changing of current instance(can reduce to another instance implicitly) in the feature space. This task simply extracts knowledge from the black-box models. This task belongs to the instance-level explanation. Quite interesting to dive deeper!!!
 
+[Decisions, Counterfactual Explanations and Strategic Behavior](https://arxiv.org/abs/2002.04333), NeurIPS 2020
+
+[Actionable Recourse Summaries: Uncovering Biases and Disparities in Recourse](), NeurIPS 2020
+
+[Decisions, Counterfactual Explanations and Strategic Behavior](https://arxiv.org/abs/2002.04333), Arxiv preprint 2020
+
 [Interpretable and Interactive Summaries of Actionable Recourses](https://arxiv.org/abs/2009.07165), Arxiv preprint 2020
 
 [Counterfactual Explanation Based on Gradual Construction for Deep Networks](https://arxiv.org/abs/2008.01897), Arxiv preprint 2020
