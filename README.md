@@ -105,6 +105,8 @@ Blur integrated gradient: [Attribution in Scale and Space](https://arxiv.org/pdf
 
 [Visualizing Deep Networks by Optimizing with Integrated Gradients](https://aaai.org/Papers/AAAI/2020GB/AAAI-QiZ.4029.pdf), AAAI 2020
 
+[Relative Attributing Propagation: Interpreting the Comparative Contributions of Individual Units in Deep Neural Networks](https://arxiv.org/pdf/1904.00605.pdf), AAAI 2020
+
 [Sanity Checks for Saliency Metrics](https://arxiv.org/abs/1912.01451), AAAI 2020
 
 NeuronConductance, [How important is a neuron?](http://arxiv.org/abs/1805.12233), ICLR 2019
@@ -176,6 +178,8 @@ TCAV: [Interpretability Beyond Feature Attribution: Quantitative Testing with Co
 [On the Robustness of Interpretability Methods](https://arxiv.org/abs/1806.08049), ICML 2018 workshop
 
 [Learning to Explain: An Information-Theoretic Perspective on Model Interpretation](http://proceedings.mlr.press/v80/chen18j/chen18j.pdf), ICML 2018
+
+[Interpretable Basis Decomposition for Visual Explanation](https://openaccess.thecvf.com/content_ECCV_2018/papers/Antonio_Torralba_Interpretable_Basis_Decomposition_ECCV_2018_paper.pdf), 2018 ECCV
 
 InternalInfluence, [Influence-Directed Explanations for Deep Convolutional Networks](http://arxiv.org/abs/1802.03788), IEEE International Test Conference 2018
 
