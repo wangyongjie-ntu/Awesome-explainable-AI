@@ -2,6 +2,14 @@
 
 This task mainly targets to find an explanation of a given instance, such that the explanation can change the prediction(Ususally from an undesirable outcome to an ideal one). The explanation itself is also a valid instance, or changing of current instance(can reduce to another instance implicitly) in the feature space. This task simply extracts knowledge from the black-box models. This task belongs to the instance-level explanation. Quite interesting to dive deeper!!!
 
+### Survey papers on Counterfactual Explanation
+
+[A survey of algorithmic recourse: definitions, formulations, solutions, and prospects](https://arxiv.org/abs/2010.04050), Arxiv preprint 2020
+
+[On the computation of counterfactual explanations -- A survey](https://arxiv.org/abs/1911.07749), Arxiv preprint 2019
+
+### papers
+
 [Decisions, Counterfactual Explanations and Strategic Behavior](https://arxiv.org/abs/2002.04333), NeurIPS 2020
 
 [Actionable Recourse Summaries: Uncovering Biases and Disparities in Recourse](), NeurIPS 2020
