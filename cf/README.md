@@ -14,11 +14,17 @@ This task mainly targets to find an explanation of a given instance, such that t
 
 [Actionable Recourse Summaries: Uncovering Biases and Disparities in Recourse](), NeurIPS 2020
 
+[Model extraction from counterfactual explanations](https://arxiv.org/pdf/2009.01884.pdf), Arxiv 2020
+
 [Decisions, Counterfactual Explanations and Strategic Behavior](https://arxiv.org/abs/2002.04333), Arxiv preprint 2020
 
 [Interpretable and Interactive Summaries of Actionable Recourses](https://arxiv.org/abs/2009.07165), Arxiv preprint 2020
 
 [Counterfactual Explanation Based on Gradual Construction for Deep Networks](https://arxiv.org/abs/2008.01897), Arxiv preprint 2020
+
+[CounteRGAN: Generating Realistic Counterfactuals with Residual Generative Adversarial Nets](https://arxiv.org/pdf/2009.05199.pdf), Arxiv preprint 2020
+
+[On the Fairness of Causal Algorithmic Recourse](https://arxiv.org/pdf/2010.06529.pdf), Arxiv preprint 2020
 
 [Algorithmic recourse under imperfect causal knowledge a probabilistic approach](https://arxiv.org/abs/2006.06831), NeurIPS 2020
 
@@ -35,6 +41,10 @@ This task mainly targets to find an explanation of a given instance, such that t
 [The philosophical basis of algorithmic recourse](https://dl.acm.org/doi/abs/10.1145/3351095.3372876), ACM Facct 2020
 
 [CRUDS: Counterfactual Recourse Using Disentangled Subspaces](https://finale.seas.harvard.edu/files/finale/files/cruds-_counterfactual_recourse_using_disentangled_subspaces.pdf), ICML 2020 Workshop
+
+[PRINCE: Provider-side Interpretability with Counterfactual Explanations in Recommender Systems](https://arxiv.org/pdf/1911.08378.pdf), WSDM 2020
+
+[CoCoX: Generating Conceptual and Counterfactual Explanations via Fault-Lines](https://aaai.org/ojs/index.php/AAAI/article/view/5643/5499), AAAI 2020
 
 [Multi-Objective Counterfactual Explanations](https://arxiv.org/pdf/2004.11165.pdf), PPSN 2020
 
