@@ -46,6 +46,8 @@ The two use cases of counterfactual explanations:
 
 [CRUDS: Counterfactual Recourse Using Disentangled Subspaces](https://finale.seas.harvard.edu/files/finale/files/cruds-_counterfactual_recourse_using_disentangled_subspaces.pdf), ICML 2020 Workshop
 
+[DACE: Distribution-Aware Counterfactual Explanation by Mixed-Integer Linear Optimization](https://www.ijcai.org/Proceedings/2020/0395.pdf), IJCAI 2020
+
 [PRINCE: Provider-side Interpretability with Counterfactual Explanations in Recommender Systems](https://arxiv.org/pdf/1911.08378.pdf), WSDM 2020
 
 [CoCoX: Generating Conceptual and Counterfactual Explanations via Fault-Lines](https://aaai.org/ojs/index.php/AAAI/article/view/5643/5499), AAAI 2020
