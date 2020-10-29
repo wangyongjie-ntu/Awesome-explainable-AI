@@ -2,9 +2,9 @@
 
 This task mainly targets to find an explanation of a given instance, such that the explanation can change the prediction(Ususally from an undesirable outcome to an ideal one). The explanation itself is also a valid instance, or changing of current instance(can reduce to another instance implicitly) in the feature space. This task simply extracts knowledge from the black-box models. This task belongs to the instance-level explanation. Quite interesting to dive deeper!!!
 
-The use cases of counterfactual explanations
+The two use cases of counterfactual explanations:
 
-![Counterfactual explanations](https://github.com/iversonicter/awesome-explainable-AI/blob/master/fig/cf.png)
+![counterfactual explanations](https://github.com/iversonicter/awesome-explainable-ai/blob/master/fig/cf.png)
 
 ### Survey papers on Counterfactual Explanation
 
