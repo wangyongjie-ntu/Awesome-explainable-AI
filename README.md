@@ -282,8 +282,8 @@ explainx: [https://github.com/explainX/explainx](https://github.com/explainX/exp
 
 ## Acknowledge
 
-Currently all papers are almost piled together, and I am working to build a taxonomy which divides all papers into several groups with clear research boundary. The branch "recourse/counterfactual explanation" is born!
+Currently all papers are almost piled together, and I am working to build a taxonomy which divides all papers into several groups with clear research boundary. Need your help to re-organize and refine current taxonomy. Thanks very very much!
 
-I appreciate it very much if you could add more materials related to XAI/XML to this repo! 
+I appreciate it very much if you could add more works related to XAI/XML to this repo, archive uncategoried papers or anything to enrich this repo.
 
 If any questions, feel free to contact me(yongjie.wang@ntu.edu.sg). Welcome to discuss together.
