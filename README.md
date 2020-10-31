@@ -4,7 +4,7 @@ This repository contains the frontier research on explainable AI(XAI) which is a
 
 ![Trends](https://github.com/iversonicter/awesome-explainable-AI/blob/master/fig/Trend_Xai.png)
 
-The figure below illustrates several use cases of XAI. Here we also divide the publications into serveal categories based on this figure. It is challenges to organise these papers well. It is good to hear your voice.  
+The figure below illustrates several use cases of XAI. Here we also divide the publications into serveal categories based on this figure. It is challenging to organise these papers well. Good to hear your voice! 
 
 ![Use cases](https://github.com/iversonicter/awesome-explainable-AI/blob/master/fig/use_cases.png)
 
