@@ -67,7 +67,7 @@ The figure below illustrates several use cases of XAI. Here we also divide the p
 
 ### Counterfactual Explanation (Actionable Recourse)
 
-[Counterfactual Explanation](https://github.com/wangyongjie-ntu/Awesome-explainable-AI/tree/master/cf)
+[Counterfactual Explanation](https://github.com/wangyongjie-ntu/Awesome-explainable-AI/tree/master/counterfactuals)
 
 ### Feature Attribution/Importance (Saliency Map)
 
