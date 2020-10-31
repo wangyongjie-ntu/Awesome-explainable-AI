@@ -1,6 +1,12 @@
 # Awesome-explainable-AI
-A  collection of research materials on explainable AI
-![Open the BlackBox](https://github.com/iversonicter/awesome-explainable-AI/blob/master/fig/blackbox.png)
+
+This repository contains the frontier research on explainable AI(XAI) which is a hot topic recently. From the figure below we can see the trend of interpretable/explainable AI. The publications on this topic are booming.
+
+![Trends](https://github.com/iversonicter/awesome-explainable-AI/blob/master/fig/Trend_Xai.png)
+
+The figure below illustrates several use cases of XAI. Here we also divide the publications into serveal categories based on this figure. It is challenges to organise these papers well. It is good to hear your voice.  
+
+![Use cases](https://github.com/iversonicter/awesome-explainable-AI/blob/master/fig/use_cases.png)
 
 ## Surveys
 
@@ -13,6 +19,8 @@ A  collection of research materials on explainable AI
 [Visual Analytics in Deep Learning: An Interrogative Survey for the Next Frontiers](https://ieeexplore.ieee.org/document/8371286), IEEE Transactions on Visualization and Computer Graphics, 2019
 
 [Explainable Explainable Artificial Intelligence (XAI): Concepts, taxonomies, opportunities and challenges toward responsible AI](http://arxiv.org/abs/1910.10045), Information Fusion, 2019
+
+[Evaluating Explanation Without Ground Truth in Interpretable Machine Learning](https://arxiv.org/pdf/1907.06831v1.pdf), Arxiv preprint 2019
 
 [A survey of methods for explaining black box models](http://arxiv.org/abs/1802.01933), ACM Computing Surveys, 2018
 
