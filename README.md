@@ -32,6 +32,8 @@ The figure below illustrates several use cases of XAI. Here we also divide the p
 
 [Explainable Artificial Intelligence: Understanding, Visualizing and Interpreting Deep Learning Models](https://arxiv.org/abs/1708.08296), Arxiv 2017
 
+[Towards A Rigorous Science of Interpretable Machine Learning](https://arxiv.org/pdf/1702.08608.pdf), Arxiv preprint 2017
+
 [Explaining Explanation, Part 1: Theoretical Foundations](https://ieeexplore.ieee.org/abstract/document/7933919), IEEE Intelligent System 2017
 
 [Explaining Explanation, Part 2: Empirical Foundations](https://ieeexplore.ieee.org/abstract/document/8012316), IEEE Intelligent System 2017
@@ -111,7 +113,6 @@ The figure below illustrates several use cases of XAI. Here we also divide the p
 
 [Explaining Knowledge Distillation by Quantifying the Knowledge](https://openaccess.thecvf.com/content_CVPR_2020/papers/Cheng_Explaining_Knowledge_Distillation_by_Quantifying_the_Knowledge_CVPR_2020_paper.pdf), CVPR 2020
 
-
 [Visualizing the Impact of Feature Attribution Baselines](https://distill.pub/2020/attribution-baselines/), Distill 2020
 
 [Explaining the Explainer: A First Theoretical Analysis of LIME](http://arxiv.org/abs/2001.03447), arxiv preprint 2020
@@ -123,7 +124,6 @@ The figure below illustrates several use cases of XAI. Here we also divide the p
 NeuronConductance, [How important is a neuron?](http://arxiv.org/abs/1805.12233), ICLR 2019
 
 [Explaining Image Classifiers by Counterfactual Generation](https://arxiv.org/pdf/1807.08024.pdf), ICLR 2019
-
 
 [On the (In)fidelity and Sensitivity for Explanations](https://arxiv.org/abs/1901.09392v4), NIPS 2019
 
@@ -145,24 +145,17 @@ NeuronConductance, [How important is a neuron?](http://arxiv.org/abs/1805.12233)
 
 [Interpretation of Neural Networks is Fragile](https://arxiv.org/abs/1710.10547), AAAI 2019
 
-
 [The Many Shapley Values for Model Explanation](https://arxiv.org/pdf/1908.08474.pdf), arxiv preprint 2019
 
 [Generating Contrastive Explanations with Monotonic Attribute Functions](https://arxiv.org/pdf/1905.12698.pdf), arxiv preprint 2019
 
 [Interpretml: A unified framework for machine learning interpretability](https://arxiv.org/abs/1909.09223), arxiv preprint 2019
 
-
 [Faithful and Customizable Explanations of Black Box Models](https://dl.acm.org/doi/pdf/10.1145/3306618.3314229), ACM AIES 2019
 
 [All Models are Wrong, but Many are Useful: Learning a Variable’s Importance by Studying an Entire Class of Prediction Models Simultaneously](https://arxiv.org/pdf/1801.01489.pdf), JMLR 2019
 
 [Improving Simple Models with Confidence Profiles](https://papers.nips.cc/paper/8231-improving-simple-models-with-confidence-profiles.pdf), NIPS 2018
-
-[Interpretable Convolutional Neural Networks](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Interpretable_Convolutional_Neural_CVPR_2018_paper.pdf), CVPR 2018
-
-[A Theoretical Explanation for Perplexing Behaviors of Backpropagation-based Visualizations](http://proceedings.mlr.press/v80/nie18a/nie18a.pdf), ICML 2018
-
 
 [Noise-adding Methods of Saliency Map as Series of Higher Order Partial Derivative](https://arxiv.org/pdf/1806.03000.pdf), ICML 2018 workshop
 
@@ -172,35 +165,18 @@ NeuronConductance, [How important is a neuron?](http://arxiv.org/abs/1805.12233)
 
 [Interpretable Basis Decomposition for Visual Explanation](https://openaccess.thecvf.com/content_ECCV_2018/papers/Antonio_Torralba_Interpretable_Basis_Decomposition_ECCV_2018_paper.pdf), 2018 ECCV
 
-
 [Right for the Right Reasons: Training Differentiable Models by Constraining their Explanations](https://arxiv.org/pdf/1703.03717.pdf), arxiv preprint 2017
-
 Anchors, [Anchors: High-Precision Model-Agnostic Explanations](https://homes.cs.washington.edu/~marcotcr/aaai18.pdf), AAAI 2018
 
 [The Mythos of Model Interpretability](https://dl.acm.org/doi/pdf/10.1145/3236386.3241340), ACM Queue 2018
-
 
 [Real Time Image Saliency for Black Box Classifiers](https://papers.nips.cc/paper/7272-real-time-image-saliency-for-black-box-classifiers.pdf), NIPS 2017
 
 [Understanding Black-box Predictions via Influence Functions](https://arxiv.org/pdf/1703.04730.pdf), ICML 2017
 
-
 [Visualizing deep neural network decisions: Prediction difference analysis](https://arxiv.org/pdf/1702.04595.pdf), ICLR 2017
 
-[Explaining nonlinear classification decisions with deep Taylor decomposition](https://www.sciencedirect.com/science/article/pii/S0031320316303582), Pattern Recognition 2017
-
-[Interpretable Explanations of Black Boxes by Meaningful Perturbation](https://arxiv.org/pdf/1704.03296.pdf), ICCV 2017
-
-[Hide-and-Seek: Forcing a Network to be Meticulous for Weakly-Supervised Object and Action Localization](https://ieeexplore.ieee.org/abstract/document/8237643), ICCV 2017
-
-[Network Dissection: Quantifying Interpretability of Deep Visual Representations](https://arxiv.org/pdf/1704.05796.pdf), CVPR 2017
-
 [Object Region Mining With Adversarial Erasing: A Simple Classification to Semantic Segmentation Approach](https://openaccess.thecvf.com/content_cvpr_2017/papers/Wei_Object_Region_Mining_CVPR_2017_paper.pdf), CVPR 2017
-
-
-[Visualizing deep neural net- work decisions: Prediction difference analysis](https://arxiv.org/abs/1702.04595), arxiv preprint 2017
-
-[Towards A Rigorous Science of Interpretable Machine Learning](https://arxiv.org/pdf/1702.08608.pdf), arxiv preprint 2017
 
 LOCO, [Distribution-Free Predictive Inference For Regression](https://arxiv.org/pdf/1604.04173.pdf), Arxiv preprint 2016
 
@@ -210,12 +186,7 @@ LOCO, [Distribution-Free Predictive Inference For Regression](https://arxiv.org/
 
 Shapley sampling values: [Explaining prediction models and individual predictions with feature contributions](https://dl.acm.org/doi/10.1007/s10115-013-0679-x), ACM Knowledge and Information Systems 2014
 
-
 [Bounding the Estimation Error of Sampling-based Shapley Value Approximation](https://arxiv.org/pdf/1306.4265.pdf), arxiv preprint 2013
-
-[Making machine learning models interpretable](https://pdfs.semanticscholar.org/ce0b/8b6fca7dc089548cc2e9aaac3bae82bb19da.pdf), ESANN 2012
-
-[Review and comparison of methods to study the contribution of variables in artificial neural network models](https://www.sciencedirect.com/science/article/abs/pii/S0304380002002570), Ecological Modelling 2003
 
 
 ### Evaluation methods

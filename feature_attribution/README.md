@@ -35,6 +35,8 @@ Neuron Integrated Gradients: [Computationally Efficient Measures of Internal Neu
 
 TCAV: [Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV)](https://arxiv.org/abs/1711.11279), ICML 2018
 
+[A Theoretical Explanation for Perplexing Behaviors of Backpropagation-based Visualizations](http://proceedings.mlr.press/v80/nie18a/nie18a.pdf), ICML 2018
+
 InternalInfluence, [Influence-Directed Explanations for Deep Convolutional Networks](http://arxiv.org/abs/1802.03788), IEEE International Test Conference 2018
 
 [Top-down neural attention by excitation backprop](https://link.springer.com/article/10.1007/s11263-017-1059-x), IJCV 2018, (ECCV 2016)
@@ -43,11 +45,21 @@ InternalInfluence, [Influence-Directed Explanations for Deep Convolutional Netwo
 
 Shap: [A unified approach to interpreting model predictions](http://arxiv.org/abs/1705.07874), NIPS 2017
 
+[Explaining nonlinear classification decisions with deep Taylor decomposition](https://www.sciencedirect.com/science/article/pii/S0031320316303582), Pattern Recognition 2017
+
+[Interpretable Explanations of Black Boxes by Meaningful Perturbation](https://arxiv.org/pdf/1704.03296.pdf), ICCV 2017
+
+[Hide-and-Seek: Forcing a Network to be Meticulous for Weakly-Supervised Object and Action Localization](https://ieeexplore.ieee.org/abstract/document/8237643), ICCV 2017
+
+[Network Dissection: Quantifying Interpretability of Deep Visual Representations](https://arxiv.org/pdf/1704.05796.pdf), CVPR 2017
+
 DeepLIFT: [Learning important features through propagating activation differences](http://arxiv.org/abs/1704.02685), ICML 2017
 
 Integrated Gradients: [Axiomatic attribution for deep networks](http://arxiv.org/abs/1703.01365), ICML 2017
 
-SmoothGard: [SmoothGrad: removing noise by adding noise](http://arxiv.org/abs/1706.03825), preprint 2017
+SmoothGard: [SmoothGrad: removing noise by adding noise](http://arxiv.org/abs/1706.03825), ICML 2017
+
+[Visualizing deep neural net- work decisions: Prediction difference analysis](https://arxiv.org/abs/1702.04595), arxiv preprint 2017
 
 Lime: ["Why Should I Trust You?": Explaining the Predictions of Any Classifier](http://arxiv.org/abs/1602.04938), SIGKDD 2016
 
@@ -86,3 +98,5 @@ Deconvnet: [Visualizing and Understanding Convolutional Networks](http://arxiv.o
 [How to explain individual classification decisions](http://arxiv.org/abs/0912.1128), Journal of Machine Learning Research 2010
 
 [An Efficient Explanation of Individual Classifications using Game Theory](https://www.jmlr.org/papers/volume11/strumbelj10a/strumbelj10a.pdf), Journal of Machine Learning Research 2010
+
+[Review and comparison of methods to study the contribution of variables in artificial neural network models](https://www.sciencedirect.com/science/article/abs/pii/S0304380002002570), Ecological Modelling 2003
