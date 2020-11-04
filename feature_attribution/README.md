@@ -39,6 +39,10 @@ TCAV: [Interpretability Beyond Feature Attribution: Quantitative Testing with Co
 
 InternalInfluence, [Influence-Directed Explanations for Deep Convolutional Networks](http://arxiv.org/abs/1802.03788), IEEE International Test Conference 2018
 
+[Interpretable Basis Decomposition for Visual Explanation](https://openaccess.thecvf.com/content_ECCV_2018/papers/Antonio_Torralba_Interpretable_Basis_Decomposition_ECCV_2018_paper.pdf), 2018 ECCV
+
+[Grounding Visual Explanations](https://arxiv.org/abs/1807.09685), ECCV 2018
+
 [Top-down neural attention by excitation backprop](https://link.springer.com/article/10.1007/s11263-017-1059-x), IJCV 2018, (ECCV 2016)
 
 [RISE: Randomized Input Sampling for Explanation of Black-box Models](http://bmvc2018.org/contents/papers/1064.pdf), BMVC 2018

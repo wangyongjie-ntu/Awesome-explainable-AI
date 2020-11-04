@@ -62,6 +62,8 @@ The two use cases of counterfactual explanations:
 
 [Issues with post-hoc counterfactual explanations: a discussion](https://arxiv.org/abs/1906.04774), Arxiv preprint 2019
 
+[Counterfactual Explanation Algorithms for Behavioral and Textual Data](https://arxiv.org/abs/1912.01819), Arxiv preprint 2019
+
 [Preserving Causal Constraints in Counterfactual Explanations for Machine Learning Classifiers](https://arxiv.org/abs/1912.03277), NeurIPS Workshop 2019
 
 [Actionable Recourse in Linear Classification](https://dl.acm.org/doi/pdf/10.1145/3287560.3287566), ACM Facct 2019
@@ -81,6 +83,8 @@ The two use cases of counterfactual explanations:
 [Interpretable Predictions of Tree-based Ensembles via Actionable Feature Tweaking](https://arxiv.org/pdf/1706.06691.pdf), KDD 2017
 
 [Generalized Inverse Classification](https://epubs.siam.org/doi/pdf/10.1137/1.9781611974973.19), SIAM 2017
+
+[Explaining Data-Driven Document Classifications](http://pages.stern.nyu.edu/~fprovost/Papers/MartensProvost_Explaining.pdf), MIS Quarterly 2014
 
 ### Github Repos
 
