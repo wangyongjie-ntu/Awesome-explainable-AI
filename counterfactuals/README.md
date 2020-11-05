@@ -12,11 +12,11 @@ The two use cases of counterfactual explanations:
 
 [A survey of algorithmic recourse: definitions, formulations, solutions, and prospects](https://arxiv.org/abs/2010.04050), Arxiv preprint 2020
 
+[Decisions, Counterfactual Explanations and Strategic Behavior](https://arxiv.org/abs/2002.04333), NeurIPS 2020
+
 [On the computation of counterfactual explanations -- A survey](https://arxiv.org/abs/1911.07749), Arxiv preprint 2019
 
 ### papers
-
-[Decisions, Counterfactual Explanations and Strategic Behavior](https://arxiv.org/abs/2002.04333), NeurIPS 2020
 
 [Actionable Recourse Summaries: Uncovering Biases and Disparities in Recourse](), NeurIPS 2020
 
