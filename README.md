@@ -8,9 +8,11 @@ The figure below illustrates several use cases of XAI. Here we also divide the p
 
 ![Use cases](https://github.com/iversonicter/awesome-explainable-AI/blob/master/fig/use_cases.png)
 
-## Surveys
+## Survey Papers
 
 [Explainable Machine Learning in Deployment](https://dl.acm.org/doi/pdf/10.1145/3351095.3375624), FAT 2020
+
+[A brief survey of visualization methods for deep learning models from the perspective of Explainable AI](https://www.macs.hw.ac.uk/~ic14/IoannisChalkiadakis_RRR.pdf), Information Visualization 2020
 
 [Machine learning interpretability: A survey on methods and metrics](https://www.mdpi.com/2079-9292/8/8/832), Electronics, 2019
 
@@ -30,6 +32,8 @@ The figure below illustrates several use cases of XAI. Here we also divide the p
 
 [Explainable artificial intelligence: A survey](https://ieeexplore.ieee.org/document/8400040/), MIPRO, 2018
 
+[HOW CONVOLUTIONAL NEURAL NETWORKS SEE THE WORLD — A SURVEY OF CONVOLUTIONAL NEURAL NETWORK VISUALIZATION METHODS(https://arxiv.org/pdf/1804.11191.pdf), Mathematical Foundations of Computing 2018
+
 [Explainable Artificial Intelligence: Understanding, Visualizing and Interpreting Deep Learning Models](https://arxiv.org/abs/1708.08296), Arxiv 2017
 
 [Towards A Rigorous Science of Interpretable Machine Learning](https://arxiv.org/pdf/1702.08608.pdf), Arxiv preprint 2017
@@ -46,7 +50,6 @@ The figure below illustrates several use cases of XAI. Here we also divide the p
 
 [Review and comparison of methods to study the contribution of variables in artificial neural network models](http://sovan.lek.free.fr/publi/160-3%20Gevrey.pdf), Ecological Modelling 2003
 
-
 ## Books
 
 [Explainable Artificial Intelligence (xAI) Approaches and Deep Meta-Learning Models](https://www.intechopen.com/online-first/explainable-artificial-intelligence-xai-approaches-and-deep-meta-learning-models),  Advances in Deep Learning Chapter 2020
@@ -54,6 +57,8 @@ The figure below illustrates several use cases of XAI. Here we also divide the p
 [Explainable AI: Interpreting, Explaining and Visualizing Deep Learning](http://link.springer.com/10.1007/978-3-030-28954-6), Springer 2019
 
 [Explanation in Artificial Intelligence: Insights from the Social Sciences](https://arxiv.org/pdf/1706.07269.pdf), 2017 arxiv preprint
+
+[Visualizations of Deep Neural Networks in Computer Vision: A Survey](https://link.springer.com/chapter/10.1007/978-3-319-54024-5_6), Springer Transparent Data Mining for Big and Small Data 2017
 
 [Explanatory Model Analysis Explore, Explain and Examine Predictive Models](https://pbiecek.github.io/ema/)
 
@@ -199,6 +204,10 @@ Shapley sampling values: [Explaining prediction models and individual prediction
 
 
 ## Python Libraries
+
+Lucid: [https://github.com/tensorflow/lucid](https://github.com/tensorflow/lucid), Tensorflow
+
+pytorch-cnn-visualizations: [https://github.com/utkuozbulak/pytorch-cnn-visualizations](https://github.com/utkuozbulak/pytorch-cnn-visualizations), Pytorch
 
 Saliency: [https://github.com/PAIR-code/saliency](https://github.com/PAIR-code/saliency), Tensorflow
 
