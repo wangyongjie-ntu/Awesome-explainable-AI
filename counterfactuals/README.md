@@ -8,6 +8,8 @@ The two use cases of counterfactual explanations:
 
 ### Survey papers on Counterfactual Explanation
 
+[Counterfactual Explanations for Machine Learning: A Review](https://arxiv.org/pdf/2010.10596.pdf), Arxiv preprint 2020
+
 [A survey of algorithmic recourse: definitions, formulations, solutions, and prospects](https://arxiv.org/abs/2010.04050), Arxiv preprint 2020
 
 [On the computation of counterfactual explanations -- A survey](https://arxiv.org/abs/1911.07749), Arxiv preprint 2019
