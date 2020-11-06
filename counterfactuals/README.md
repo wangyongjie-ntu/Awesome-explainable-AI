@@ -24,13 +24,21 @@ The two use cases of counterfactual explanations:
 
 [Decisions, Counterfactual Explanations and Strategic Behavior](https://arxiv.org/abs/2002.04333), Arxiv preprint 2020
 
+[FOCUS: Flexible Optimizable Counterfactual Explanations for Tree Ensembles](https://arxiv.org/abs/1911.12199), Arxiv preprint 2020
+
 [Interpretable and Interactive Summaries of Actionable Recourses](https://arxiv.org/abs/2009.07165), Arxiv preprint 2020
 
 [Counterfactual Explanation Based on Gradual Construction for Deep Networks](https://arxiv.org/abs/2008.01897), Arxiv preprint 2020
 
 [CounteRGAN: Generating Realistic Counterfactuals with Residual Generative Adversarial Nets](https://arxiv.org/pdf/2009.05199.pdf), Arxiv preprint 2020
 
+[Model-Agnostic Counterfactual Explanations for Consequential Decisions](https://arxiv.org/abs/1905.11190), Arxiv preprint 2020
+
+[Explaining Data-Driven Decisions made by AI Systems: The Counterfactual Approach](https://arxiv.org/pdf/2001.07417.pdf), Arxiv preprint 2020
+
 [On the Fairness of Causal Algorithmic Recourse](https://arxiv.org/pdf/2010.06529.pdf), Arxiv preprint 2020
+
+[On Counterfactual Explanations under Predictive Multiplicity](http://proceedings.mlr.press/v124/pawelczyk20a.html), UAI 2020
 
 [Algorithmic recourse under imperfect causal knowledge a probabilistic approach](https://arxiv.org/abs/2006.06831), NeurIPS 2020
 
@@ -56,6 +64,12 @@ The two use cases of counterfactual explanations:
 
 [Multi-Objective Counterfactual Explanations](https://arxiv.org/pdf/2004.11165.pdf), PPSN 2020
 
+[Random forest explainability using counterfactual sets](https://doi.org/10.1016/j.inffus.2020.07.001), Information Fusion 2020
+
+[Counterfactuals in Explainable Artificial Intelligence (XAI): Evidence from Human Reasoning](https://www.ijcai.org/Proceedings/2019/0876.pdf), IJCAI 2019
+
+[Model Agnostic Contrastive Explanations for Structured Data](https://arxiv.org/pdf/1906.00117.pdf), Arxiv preprint 2019
+
 [Towards Realistic Individual Recourse and Actionable Explanations in Black-Box Decision Making Systems](https://arxiv.org/pdf/1907.09615.pdf), Arxiv preprint 2019
 
 [Generative Counterfactual Introspection for Explainable Deep Learning](https://arxiv.org/abs/1907.03077), Arxiv preprint 2019
@@ -65,6 +79,10 @@ The two use cases of counterfactual explanations:
 [Issues with post-hoc counterfactual explanations: a discussion](https://arxiv.org/abs/1906.04774), Arxiv preprint 2019
 
 [Counterfactual Explanation Algorithms for Behavioral and Textual Data](https://arxiv.org/abs/1912.01819), Arxiv preprint 2019
+
+[Synthesizing Action Sequences for Modifying Model Decisions](https://arxiv.org/pdf/1910.00057.pdf), Arxiv preprint 2019
+
+[Measurable Counterfactual Local Explanations for Any Classifier](https://arxiv.org/pdf/1908.03020.pdf), Arxiv preprint 2019
 
 [Preserving Causal Constraints in Counterfactual Explanations for Machine Learning Classifiers](https://arxiv.org/abs/1912.03277), NeurIPS Workshop 2019
 
@@ -79,6 +97,8 @@ The two use cases of counterfactual explanations:
 [Counterfactual Explanations without Opening the Black Box: Automated Decisions and the GDPR](https://arxiv.org/abs/1711.00399), Hardvard Journal of Law & Technology 2018 (strong recommend)
 
 [Explanations based on the Missing: Towards Contrastive Explanations with Pertinent Negatives](https://papers.nips.cc/paper/7340-explanations-based-on-the-missing-towards-contrastive-explanations-with-pertinent-negatives), NIPS 2018
+
+[Interpretable Credit Application Predictions With Counterfactual Explanations](https://arxiv.org/abs/1811.05245), Arxiv preprint 2018
 
 [Inverse Classification for Comparison-based Interpretability in Machine Learning](https://arxiv.org/pdf/1712.08443.pdf), Arxiv 2017
 
