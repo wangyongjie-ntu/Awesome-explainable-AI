@@ -104,6 +104,8 @@ The two use cases of counterfactual explanations:
 
 [Interpretable Credit Application Predictions With Counterfactual Explanations](https://arxiv.org/abs/1811.05245), Arxiv preprint 2018
 
+[Comparison-based Inverse Classification for Interpretability in Machine Learning](https://hal.sorbonne-universite.fr/hal-01905982/document), IPMU 2018
+
 [Inverse Classification for Comparison-based Interpretability in Machine Learning](https://arxiv.org/pdf/1712.08443.pdf), Arxiv 2017
 
 [Interpretable Predictions of Tree-based Ensembles via Actionable Feature Tweaking](https://arxiv.org/pdf/1706.06691.pdf), KDD 2017
