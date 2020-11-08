@@ -9,3 +9,5 @@
 [Learning Explanatory Rules from Noisy Data](https://arxiv.org/abs/1711.04574), Journal of Artifical Intelligence Research 2018 
 
 [The Mythos of Model Interpretability](https://dl.acm.org/doi/pdf/10.1145/3236386.3241340), ACM Queue 2018
+
+[An empirical evaluation of the comprehensibility of decision table, tree and rule based predictive models](https://dl.acm.org/doi/10.1016/j.dss.2010.12.003), Decision Support Systems, 2011
