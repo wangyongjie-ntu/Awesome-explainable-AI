@@ -84,6 +84,10 @@ The figure below illustrates several use cases of XAI. Here we also divide the p
 
 [Transparent Model](https://github.com/wangyongjie-ntu/Awesome-explainable-AI/tree/master/transparent_model)
 
+### Model explanations
+
+[Model Explanation](https://github.com/wangyongjie-ntu/Awesome-explainable-AI/tree/master/model_explanation)
+
 ### Uncategorized Papers on Model/Instance Explanation
 
 [Towards Interpretable Natural Language Understanding with Explanations as Latent Variables](), NeurIPS 2020
