@@ -32,7 +32,7 @@ The figure below illustrates several use cases of XAI. Here we also divide the p
 
 [Explainable artificial intelligence: A survey](https://ieeexplore.ieee.org/document/8400040/), MIPRO, 2018
 
-[HOW CONVOLUTIONAL NEURAL NETWORKS SEE THE WORLD — A SURVEY OF CONVOLUTIONAL NEURAL NETWORK VISUALIZATION METHODS(https://arxiv.org/pdf/1804.11191.pdf), Mathematical Foundations of Computing 2018
+[How Convolutional Neural Networks See the World — A Survey of Convolutional Neural Network Visualization Methods](https://arxiv.org/pdf/1804.11191.pdf), Mathematical Foundations of Computing 2018
 
 [Explainable Artificial Intelligence: Understanding, Visualizing and Interpreting Deep Learning Models](https://arxiv.org/abs/1708.08296), Arxiv 2017
 
