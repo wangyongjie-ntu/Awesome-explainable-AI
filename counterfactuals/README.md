@@ -68,6 +68,10 @@ The two use cases of counterfactual explanations:
 
 [Counterfactuals in Explainable Artificial Intelligence (XAI): Evidence from Human Reasoning](https://www.ijcai.org/Proceedings/2019/0876.pdf), IJCAI 2019
 
+[The Dangers of Post-hoc Interpretability: Unjustified Counterfactual Explanations](https://www.ijcai.org/proceedings/2019/388), IJCAI 2019
+
+[Unjustified Classification Regions and Counterfactual Explanations In Machine Learning](https://ecmlpkdd2019.org/downloads/paper/226.pdf), ECML-PDKK 2019
+
 [Model Agnostic Contrastive Explanations for Structured Data](https://arxiv.org/pdf/1906.00117.pdf), Arxiv preprint 2019
 
 [Towards Realistic Individual Recourse and Actionable Explanations in Black-Box Decision Making Systems](https://arxiv.org/pdf/1907.09615.pdf), Arxiv preprint 2019
