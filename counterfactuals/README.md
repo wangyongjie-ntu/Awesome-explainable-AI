@@ -14,13 +14,33 @@ The two use cases of counterfactual explanations:
 
 [On the computation of counterfactual explanations -- A survey](https://arxiv.org/abs/1911.07749), Arxiv preprint 2019
 
+[Issues with post-hoc counterfactual explanations: a discussion](https://arxiv.org/abs/1906.04774), Arxiv preprint 2019
+
 ### papers
+
+[An ASP-Based Approach to Counterfactual Explanations for Classification](https://arxiv.org/pdf/2004.13237.pdf), RuleML + PR 2020
+
+[DECE: Decision Explorer with Counterfactual Explanations for Machine Learning Models](https://arxiv.org/pdf/2008.08353.pdf), TVCG 2020
+
+[Good Counterfactuals and Where to Find Them: A Case-Based Technique for Generating Counterfactuals for Explainable AI (XAI)](https://arxiv.org/pdf/2005.13997.pdf), ICCBR 2020
 
 [Decisions, Counterfactual Explanations and Strategic Behavior](https://arxiv.org/abs/2002.04333), NeurIPS 2020
 
 [Actionable Recourse Summaries: Uncovering Biases and Disparities in Recourse](), NeurIPS 2020
 
+[Model extraction from counterfactual explanations](https://arxiv.org/pdf/2009.01884.pdf), Arxiv preprint 2020
+
+[Efficient computation of counterfactual explanations of LVQ models](https://arxiv.org/pdf/1908.00735.pdf), Arxiv preprint 2020
+
+[Convex Density Constraints for Computing Plausible Counterfactual Explanations](https://arxiv.org/pdf/2002.04862.pdf), Arxiv preprint 2020
+
+[Plausible Counterfactuals: Auditing Deep Learning Classifiers with Realistic Adversarial Examples](https://arxiv.org/pdf/2003.11323.pdf), Arxiv preprint 2020
+
+[ViCE: Visual Counterfactual Explanations for Machine Learning Models](https://arxiv.org/pdf/2003.02428.pdf), Arxiv preprint 2020
+
 [Model extraction from counterfactual explanations](https://arxiv.org/pdf/2009.01884.pdf), Arxiv 2020
+
+[PermuteAttack: Counterfactual Explanation of Machine Learning Credit Scorecards](https://arxiv.org/pdf/2008.10138.pdf), Arxiv preprint 2020
 
 [Decisions, Counterfactual Explanations and Strategic Behavior](https://arxiv.org/abs/2002.04333), Arxiv preprint 2020
 
@@ -56,6 +76,8 @@ The two use cases of counterfactual explanations:
 
 [The philosophical basis of algorithmic recourse](https://dl.acm.org/doi/abs/10.1145/3351095.3372876), ACM Facct 2020
 
+[Why Does My Model Fail? Contrastive Local Explanations for Retail Forecasting](https://arxiv.org/pdf/1908.00085.pdf), ACM Facct 2020
+
 [Fast Real-time Counterfactual Explanations](https://arxiv.org/pdf/2007.05684.pdf), ICML 2020 Workshop
 
 [CRUDS: Counterfactual Recourse Using Disentangled Subspaces](https://finale.seas.harvard.edu/files/finale/files/cruds-_counterfactual_recourse_using_disentangled_subspaces.pdf), ICML 2020 Workshop
@@ -78,15 +100,19 @@ The two use cases of counterfactual explanations:
 
 [Unjustified Classification Regions and Counterfactual Explanations In Machine Learning](https://ecmlpkdd2019.org/downloads/paper/226.pdf), ECML-PDKK 2019
 
+[EMAP: Explanation by Minimal Adversarial Perturbation](https://arxiv.org/pdf/1912.00872.pdf), Arxiv preprint 2019
+
 [Model Agnostic Contrastive Explanations for Structured Data](https://arxiv.org/pdf/1906.00117.pdf), Arxiv preprint 2019
 
 [Towards Realistic Individual Recourse and Actionable Explanations in Black-Box Decision Making Systems](https://arxiv.org/pdf/1907.09615.pdf), Arxiv preprint 2019
 
 [Generative Counterfactual Introspection for Explainable Deep Learning](https://arxiv.org/abs/1907.03077), Arxiv preprint 2019
 
+[Generating Counterfactual and Contrastive Explanations using SHAP](https://arxiv.org/pdf/1906.09293.pdf), Arxiv preprint 2019
+
 [Interpretable Counterfactual Explanations Guided by Prototypes](https://arxiv.org/pdf/1907.02584.pdf), Arxiv preprint 2019
 
-[Issues with post-hoc counterfactual explanations: a discussion](https://arxiv.org/abs/1906.04774), Arxiv preprint 2019
+[Counterfactual Visual Explanations](https://arxiv.org/pdf/1904.07451.pdf), ICML 2019
 
 [Counterfactual Explanation Algorithms for Behavioral and Textual Data](https://arxiv.org/abs/1912.01819), Arxiv preprint 2019
 
@@ -127,6 +153,8 @@ The two use cases of counterfactual explanations:
 [Generalized Inverse Classification](https://epubs.siam.org/doi/pdf/10.1137/1.9781611974973.19), SIAM 2017
 
 [Explaining Data-Driven Document Classifications](http://pages.stern.nyu.edu/~fprovost/Papers/MartensProvost_Explaining.pdf), MIS Quarterly 2014
+
+[The Inverse Classification Problem](https://link.springer.com/article/10.1007/s11390-010-9337-x), Journal of Computer Science and Technology 2010
 
 ### Github Repos
 
