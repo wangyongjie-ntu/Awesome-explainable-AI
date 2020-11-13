@@ -254,6 +254,13 @@ BlackBoxAuditing: [https://github.com/algofairness/BlackBoxAuditing](https://git
 
 explainx: [https://github.com/explainX/explainx](https://github.com/explainX/explainx), xgboost, catboost
 
+modelStudio: [https://github.com/ModelOriented/modelStudio](https://github.com/ModelOriented/modelStudio), Keras, Tensorflow, xgboost, lightgbm, h2o
+
+Keras-vis: [https://github.com/raghakot/keras-vis](https://github.com/raghakot/keras-vis), Keras
+
+cnn-exposed: [https://github.com/idealo/cnn-exposed](https://github.com/idealo/cnn-exposed), Tensorflow
+
+path_explain: [https://github.com/suinleelab/path_explain](https://github.com/suinleelab/path_explain), Tensorflow
 
 ## Acknowledge
 
