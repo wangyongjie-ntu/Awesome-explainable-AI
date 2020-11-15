@@ -74,14 +74,14 @@ The figure below illustrates several use cases of XAI. Here we also divide the p
 
 We mainly follow the taxonomy in the [survey paper](http://arxiv.org/abs/1802.01933) and divide the XAI/XML papers into the several branches.
 
- * [Transparent Model Design](https://github.com/wangyongjie-ntu/Awesome-explainable-AI/tree/master/transparent_model)
- * [Post-Explanation](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
-   * [Model Explanation(Model-level)](https://github.com/wangyongjie-ntu/Awesome-explainable-AI/tree/master/model_explanation)
-   * [Model Inspection](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
-   * [Outcome Explanation(Instance-level)](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
-        * [Feature Attribution/Importance(Saliency Map)](https://github.com/wangyongjie-ntu/Awesome-explainable-AI/tree/master/feature_attribution)
-        * [Counterfactual Explanations(Recourse)](https://github.com/wangyongjie-ntu/Awesome-explainable-AI/tree/master/counterfactuals)
-		* [more]()
+ * [1. Transparent Model Design](https://github.com/wangyongjie-ntu/Awesome-explainable-AI/tree/master/transparent_model)
+ * [2. Post-Explanation](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
+   * [2.1 Model Explanation(Model-level)](https://github.com/wangyongjie-ntu/Awesome-explainable-AI/tree/master/model_explanation)
+   * [2.2 Model Inspection](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
+   * [2.3 Outcome Explanation(Instance-level)](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
+        * [2.3.1 Feature Attribution/Importance(Saliency Map)](https://github.com/wangyongjie-ntu/Awesome-explainable-AI/tree/master/feature_attribution)
+        * [2.3.2 Counterfactual Explanations(Recourse)](https://github.com/wangyongjie-ntu/Awesome-explainable-AI/tree/master/counterfactuals)
+		* [2.3.3 More]()
 
 ### Uncategorized Papers on Model/Instance Explanation
 
