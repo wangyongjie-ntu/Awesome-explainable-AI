@@ -72,6 +72,8 @@ The figure below illustrates several use cases of XAI. Here we also divide the p
 
 ## Papers
 
+We mainly follow the taxonomy in the [survey paper](http://arxiv.org/abs/1802.01933) and divide the XAI/XML papers into the several branches.
+
  * [Transparent Model Design](https://github.com/wangyongjie-ntu/Awesome-explainable-AI/tree/master/transparent_model)
  * [Post-Explanation](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
    * [Model Explanation(Model-level)](https://github.com/wangyongjie-ntu/Awesome-explainable-AI/tree/master/model_explanation)
@@ -79,7 +81,7 @@ The figure below illustrates several use cases of XAI. Here we also divide the p
    * [Outcome Explanation(Instance-level)](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
         * [Feature Attribution/Importance(Saliency Map)](https://github.com/wangyongjie-ntu/Awesome-explainable-AI/tree/master/feature_attribution)
         * [Counterfactual Explanations(Recourse)](https://github.com/wangyongjie-ntu/Awesome-explainable-AI/tree/master/counterfactuals)
-        * 
+		* [more]()
 
 ### Uncategorized Papers on Model/Instance Explanation
 
@@ -257,7 +259,7 @@ path_explain: [https://github.com/suinleelab/path_explain](https://github.com/su
 
 ## Acknowledge
 
-Currently all papers are almost piled together, and I am working to build a taxonomy which divides all papers into several groups with clear research boundary. Need your help to re-organize and refine current taxonomy. Thanks very very much!
+Need your help to re-organize and refine current taxonomy. Thanks very very much!
 
 I appreciate it very much if you could add more works related to XAI/XML to this repo, archive uncategoried papers or anything to enrich this repo.
 
