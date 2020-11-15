@@ -72,6 +72,15 @@ The figure below illustrates several use cases of XAI. Here we also divide the p
 
 ## Papers
 
+ * [Transparent Model Design](https://github.com/wangyongjie-ntu/Awesome-explainable-AI/tree/master/transparent_model)
+ * [Post-Explanation](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
+   * [Model Explanation](https://github.com/wangyongjie-ntu/Awesome-explainable-AI/tree/master/model_explanation)
+   * [Model Inspection](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
+   * [Outcome Explanation](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
+        * [Feature Attribution/Importance](https://github.com/wangyongjie-ntu/Awesome-explainable-AI/tree/master/feature_attribution)
+        * [Counterfactual Explanations](https://github.com/wangyongjie-ntu/Awesome-explainable-AI/tree/master/counterfactuals)
+        * 
+
 ### Counterfactual Explanation (Actionable Recourse)
 
 [Counterfactual Explanation](https://github.com/wangyongjie-ntu/Awesome-explainable-AI/tree/master/counterfactuals)
