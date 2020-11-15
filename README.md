@@ -74,28 +74,12 @@ The figure below illustrates several use cases of XAI. Here we also divide the p
 
  * [Transparent Model Design](https://github.com/wangyongjie-ntu/Awesome-explainable-AI/tree/master/transparent_model)
  * [Post-Explanation](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
-   * [Model Explanation](https://github.com/wangyongjie-ntu/Awesome-explainable-AI/tree/master/model_explanation)
+   * [Model Explanation(Model-level)](https://github.com/wangyongjie-ntu/Awesome-explainable-AI/tree/master/model_explanation)
    * [Model Inspection](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
-   * [Outcome Explanation](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
-        * [Feature Attribution/Importance](https://github.com/wangyongjie-ntu/Awesome-explainable-AI/tree/master/feature_attribution)
-        * [Counterfactual Explanations](https://github.com/wangyongjie-ntu/Awesome-explainable-AI/tree/master/counterfactuals)
+   * [Outcome Explanation(Instance-level)](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
+        * [Feature Attribution/Importance(Saliency Map)](https://github.com/wangyongjie-ntu/Awesome-explainable-AI/tree/master/feature_attribution)
+        * [Counterfactual Explanations(Recourse)](https://github.com/wangyongjie-ntu/Awesome-explainable-AI/tree/master/counterfactuals)
         * 
-
-### Counterfactual Explanation (Actionable Recourse)
-
-[Counterfactual Explanation](https://github.com/wangyongjie-ntu/Awesome-explainable-AI/tree/master/counterfactuals)
-
-### Feature Attribution/Importance (Saliency Map)
-
-[Feature Attribution/Importance](https://github.com/wangyongjie-ntu/Awesome-explainable-AI/tree/master/feature_attribution)
-
-### Transparent/Interpretable Model
-
-[Transparent Model](https://github.com/wangyongjie-ntu/Awesome-explainable-AI/tree/master/transparent_model)
-
-### Model explanations
-
-[Model Explanation](https://github.com/wangyongjie-ntu/Awesome-explainable-AI/tree/master/model_explanation)
 
 ### Uncategorized Papers on Model/Instance Explanation
 
