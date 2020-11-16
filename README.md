@@ -203,6 +203,10 @@ pytorch-cnn-visualizations: [https://github.com/utkuozbulak/pytorch-cnn-visualiz
 
 Saliency: [https://github.com/PAIR-code/saliency](https://github.com/PAIR-code/saliency), Tensorflow
 
+What-if-tool: [https://github.com/PAIR-code/what-if-tool](https://github.com/PAIR-code/what-if-tool), Tensorflow
+
+LIT: [https://github.com/PAIR-code/lit](https://github.com/PAIR-code/lit), Tensorflow, specified for NLP Task
+
 Captum: [https://github.com/pytorch/captum](https://github.com/pytorch/captum), Pytorch
 
 SHAP: [https://github.com/slundberg/shap](https://github.com/slundberg/shap), Nearly all platform on Python
