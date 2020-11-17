@@ -9,6 +9,8 @@ Blur integrated gradient: [Attribution in Scale and Space](https://arxiv.org/pdf
 
 [Visualizing Deep Networks by Optimizing with Integrated Gradients](https://aaai.org/Papers/AAAI/2020GB/AAAI-QiZ.4029.pdf), AAAI 2020
 
+[Robust and Stable Black Box Explanations](https://proceedings.icml.cc/static/paper_files/icml/2020/5945-Paper.pdf), ICML 2020
+
 FullGrad, [Full-Gradient Representation for Neural Network Visualization](https://papers.nips.cc/paper/8666-full-gradient-representation-for-neural-network-visualization.pdf), NIPS 2019
 
 [XRAI: Better Attributions Through Regions](http://openaccess.thecvf.com/content_ICCV_2019/papers/Kapishnikov_XRAI_Better_Attributions_Through_Regions_ICCV_2019_paper.pdf), ICCV 2019

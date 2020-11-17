@@ -26,7 +26,7 @@ The two use cases of counterfactual explanations:
 
 [Decisions, Counterfactual Explanations and Strategic Behavior](https://arxiv.org/abs/2002.04333), NeurIPS 2020
 
-[Actionable Recourse Summaries: Uncovering Biases and Disparities in Recourse](), NeurIPS 2020
+[Beyond Individualized Recourse: Interpretable and Interactive Summaries of Actionable Recourses](https://arxiv.org/abs/2009.07165), NeurIPS 2020
 
 [Model extraction from counterfactual explanations](https://arxiv.org/pdf/2009.01884.pdf), Arxiv preprint 2020
 

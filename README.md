@@ -85,9 +85,11 @@ We mainly follow the taxonomy in the [survey paper](http://arxiv.org/abs/1802.01
 
 ### Uncategorized Papers on Model/Instance Explanation
 
-[Towards Interpretable Natural Language Understanding with Explanations as Latent Variables](), NeurIPS 2020
+[Incorporating Interpretable Output Constraints in Bayesian Neural Networks](https://arxiv.org/abs/2010.10969), NeuIPS 2020
 
-[Learning identifiable and interpretable latent models of high-dimensional neural activity using pi-VAE](), NeurIPS 2020
+[Towards Interpretable Natural Language Understanding with Explanations as Latent Variables](https://arxiv.org/abs/2011.05268), NeurIPS 2020
+
+[Learning identifiable and interpretable latent models of high-dimensional neural activity using pi-VAE](https://arxiv.org/abs/2011.04798), NeurIPS 2020
 
 [How does this interaction affect me? Interpretable attribution for feature interactions](https://arxiv.org/abs/2006.10965), NeurIPS 2020
 
@@ -99,7 +101,7 @@ We mainly follow the taxonomy in the [survey paper](http://arxiv.org/abs/1802.01
 
 [Learning Global Transparent Models from Local Contrastive Explanations](https://arxiv.org/abs/2002.08247), NeurIPS 2020
 
-[Learning outside the Black-Box: The pursuit of interpretable models](), NeurIPS 2020
+[Learning outside the Black-Box: The pursuit of interpretable models](https://proceedings.neurips.cc//paper/2020/file/ce758408f6ef98d7c7a7b786eca7b3a8-Paper.pdf), NeurIPS 2020
 
 [Explaining Machine Learning Classifiers through Diverse Counterfactual Explanations](https://arxiv.org/abs/1905.07697), ACM FACCT 2020
 
