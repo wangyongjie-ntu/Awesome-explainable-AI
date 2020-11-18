@@ -233,6 +233,8 @@ PDPbox: [https://github.com/SauceCat/PDPbox](https://github.com/SauceCat/PDPbox)
 
 Alibi: [https://github.com/SeldonIO/alibi](https://github.com/SeldonIO/alibi)
 
+Alibi-detect: [https://github.com/SeldonIO/alibi-detect](https://github.com/SeldonIO/alibi-detect)
+
 TCAV: [https://github.com/tensorflow/tcav](https://github.com/tensorflow/tcav), Tensorflow, scikit-learn
 
 PyCEbox: [https://github.com/AustinRochford/PyCEbox](https://github.com/AustinRochford/PyCEbox)
