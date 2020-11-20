@@ -28,6 +28,10 @@ The two use cases of counterfactual explanations:
 
 [Beyond Individualized Recourse: Interpretable and Interactive Summaries of Actionable Recourses](https://arxiv.org/abs/2009.07165), NeurIPS 2020
 
+[Learning What Makes a Difference from Counterfactual Examples and Gradient Supervision](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123550579.pdf), ECCV 2020
+
+[Counterfactual Vision-and-Language Navigation via Adversarial Path Sampler](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510069.pdf), ECCV 2020
+
 [Model extraction from counterfactual explanations](https://arxiv.org/pdf/2009.01884.pdf), Arxiv preprint 2020
 
 [Efficient computation of counterfactual explanations of LVQ models](https://arxiv.org/pdf/1908.00735.pdf), Arxiv preprint 2020
@@ -83,6 +87,8 @@ The two use cases of counterfactual explanations:
 [CRUDS: Counterfactual Recourse Using Disentangled Subspaces](https://finale.seas.harvard.edu/files/finale/files/cruds-_counterfactual_recourse_using_disentangled_subspaces.pdf), ICML 2020 Workshop
 
 [DACE: Distribution-Aware Counterfactual Explanation by Mixed-Integer Linear Optimization](https://www.ijcai.org/Proceedings/2020/0395.pdf), IJCAI 2020
+
+[Relation-Based Counterfactual Explanations for Bayesian Network Classifiers](https://www.ijcai.org/Proceedings/2020/63), IJCAI 2020
 
 [PRINCE: Provider-side Interpretability with Counterfactual Explanations in Recommender Systems](https://arxiv.org/pdf/1911.08378.pdf), WSDM 2020
 

@@ -123,6 +123,8 @@ We mainly follow the taxonomy in the [survey paper](http://arxiv.org/abs/1802.01
 
 [Explaining the Explainer: A First Theoretical Analysis of LIME](http://arxiv.org/abs/2001.03447), arxiv preprint 2020
 
+[Interpretable Models for Understanding Immersive Simulations](https://www.ijcai.org/Proceedings/2020/0321.pdf), IJCAI 2020
+
 [Relative Attributing Propagation: Interpreting the Comparative Contributions of Individual Units in Deep Neural Networks](https://arxiv.org/pdf/1904.00605.pdf), AAAI 2020
 
 [Sanity Checks for Saliency Metrics](https://arxiv.org/abs/1912.01451), AAAI 2020
@@ -187,6 +189,8 @@ Shapley sampling values: [Explaining prediction models and individual prediction
 
 
 ### Evaluation methods
+
+[Evaluating and Aggregating Feature-based Model Explanations](https://arxiv.org/abs/2005.00631), IJCAI 2020
 
 [Sanity Checks for Saliency Metrics](https://aaai.org/ojs/index.php/AAAI/article/view/6064), AAAI 2020
 
