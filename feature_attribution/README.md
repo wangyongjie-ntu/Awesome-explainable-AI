@@ -3,6 +3,8 @@
 
 ## Papers
 
+[Towards Visually Explaining Variational Autoencoders](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Towards_Visually_Explaining_Variational_Autoencoders_CVPR_2020_paper.pdf), CVPR 2020
+
 Blur integrated gradient: [Attribution in Scale and Space](https://arxiv.org/pdf/2004.03383.pdf), CVPR 2020
 
 [Understanding Integrated Gradients with SmoothTaylor for Deep Neural Network Attribution](https://arxiv.org/pdf/2004.10484.pdf) arxiv preprint 2020

@@ -4,9 +4,9 @@ This family of models is self-explained and transparent to users.
 
 ## Papers
 
-[Transparent Classification with Multilayer Logical Perceptrons and Random Binarization](https://arxiv.org/abs/1912.04695), AAAI 2020
+[Training Interpretable Convolutional Neural Networks by Differentiating Class-specific Filters](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470613.pdf), ECCV 2020
 
-[Learning Explanatory Rules from Noisy Data](https://arxiv.org/abs/1711.04574), Journal of Artifical Intelligence Research 2018 
+[Transparent Classification with Multilayer Logical Perceptrons and Random Binarization](https://arxiv.org/abs/1912.04695), AAAI 2020
 
 [Interpretable Convolutional Neural Networks](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Interpretable_Convolutional_Neural_CVPR_2018_paper.pdf), CVPR 2018
 
