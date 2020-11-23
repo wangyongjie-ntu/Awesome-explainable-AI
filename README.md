@@ -141,6 +141,8 @@ NeuronConductance, [How important is a neuron?](http://arxiv.org/abs/1805.12233)
 
 [Efficient Search for Diverse Coherent Explanations](https://arxiv.org/pdf/1901.04909.pdf), ACM FAT 2019
 
+[Explaining Deep Neural Networks with a Polynomial Time Algorithm for Shapley Value Approximation](http://proceedings.mlr.press/v97/ancona19a/ancona19a.pdf), ICML 2019
+
 [Bias also matters: Bias attribution for deep neural network explanation](http://proceedings.mlr.press/v97/wang19p.html), ICML 2019
 
 [Understanding Impacts of High-Order Loss Approximations and Features in Deep Learning Interpretation](https://arxiv.org/pdf/1902.00407.pdf), ICML 2019

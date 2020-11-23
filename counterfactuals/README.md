@@ -26,6 +26,8 @@ The two use cases of counterfactual explanations:
 
 [Decisions, Counterfactual Explanations and Strategic Behavior](https://arxiv.org/abs/2002.04333), NeurIPS 2020
 
+[Algorithmic recourse under imperfect causal knowledge a probabilistic approach](https://arxiv.org/abs/2006.06831), NeurIPS 2020
+
 [Beyond Individualized Recourse: Interpretable and Interactive Summaries of Actionable Recourses](https://arxiv.org/abs/2009.07165), NeurIPS 2020
 
 [Learning What Makes a Difference from Counterfactual Examples and Gradient Supervision](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123550579.pdf), ECCV 2020
@@ -66,7 +68,7 @@ The two use cases of counterfactual explanations:
 
 [On Counterfactual Explanations under Predictive Multiplicity](http://proceedings.mlr.press/v124/pawelczyk20a.html), UAI 2020
 
-[Algorithmic recourse under imperfect causal knowledge a probabilistic approach](https://arxiv.org/abs/2006.06831), NeurIPS 2020
+[EXPLANATION BY PROGRESSIVE EXAGGERATION](https://iclr.cc/virtual_2020/poster_H1xFWgrFPS.html), ICLR 2020
 
 [Algorithmic Recourse: from Counterfactual Explanations to Interventions](https://arxiv.org/abs/2002.06278), Arxiv preprint 2020
 
