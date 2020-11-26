@@ -1,3 +1,8 @@
+[![Awesome](fig/awesome.svg)](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
+![GitHub](https://img.shields.io/badge/Release-PROD-yellow.svg)
+![GitHub](https://img.shields.io/badge/Languages-MULTI-blue.svg)
+![GitHub](https://img.shields.io/badge/License-MIT-lightgrey.svg)
+
 # Awesome-explainable-AI
 
 This repository contains the frontier research on explainable AI(XAI) which is a hot topic recently. From the figure below we can see the trend of interpretable/explainable AI. The publications on this topic are booming.
@@ -270,6 +275,10 @@ Keras-vis: [https://github.com/raghakot/keras-vis](https://github.com/raghakot/k
 cnn-exposed: [https://github.com/idealo/cnn-exposed](https://github.com/idealo/cnn-exposed), Tensorflow
 
 path_explain: [https://github.com/suinleelab/path_explain](https://github.com/suinleelab/path_explain), Tensorflow
+
+Anchor: [https://github.com/marcotcr/anchor](https://github.com/marcotcr/anchor), scikit-learn
+
+casme: [https://github.com/kondiz/casme](https://github.com/kondiz/casme), Pytorch
 
 ## Acknowledge
 
