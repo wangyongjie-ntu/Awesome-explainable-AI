@@ -1,10 +1,10 @@
 [![Awesome](fig/awesome.svg)](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://github.com/wangyongjie-ntu/Awesome-explainable-AI/graphs/commit-activity)
 ![](https://img.shields.io/github/license/wangyongjie-ntu/Awesome-explainable-AI)
-[![GitHub stars](https://img.shields.io/github/stars/wangyongjie-ntu/Awesome-explainable-AI?color=blue&style=social)](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
+[![GitHub stars](https://img.shields.io/github/stars/wangyongjie-ntu/Awesome-explainable-AI?color=blue&style=social)](https://github.com/wangyongjie-ntu/Awesome-explainable-AI/stargazers)
 [![GitHub watchers](https://img.shields.io/github/watchers/wangyongjie-ntu/Awesome-explainable-AI?color=yellow&style=social)](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
-[![GitHub forks](https://img.shields.io/github/forks/wangyongjie-ntu/Awesome-explainable-AI?color=red&style=social)](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/wangyongjie-ntu/Awesome-explainable-AI?color=green&style=social)](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
+[![GitHub forks](https://img.shields.io/github/forks/wangyongjie-ntu/Awesome-explainable-AI?color=red&style=social)](https://github.com/wangyongjie-ntu/Awesome-explainable-AI/watchers)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/wangyongjie-ntu/Awesome-explainable-AI?color=green&style=social)](https://github.com/wangyongjie-ntu/Awesome-explainable-AI/network/members)
 
 # Awesome-explainable-AI
 
