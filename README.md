@@ -208,77 +208,77 @@ Shapley sampling values: [Explaining prediction models and individual prediction
 [Evaluating the visualization of what a Deep Neural Network has learned](http://arxiv.org/abs/1509.06321), IEEE Transactions on Neural Networks and Learning Systems 2015
 
 
-## Python Libraries
+## Python Libraries(sort in alphabeta order)
 
-Lucid: [https://github.com/tensorflow/lucid](https://github.com/tensorflow/lucid), Tensorflow
+AIX360: [https://github.com/IBM/AIX360](https://github.com/IBM/AIX360), ![](https://img.shields.io/github/stars/IBM/AIX360.svg?style=social)
 
-pytorch-cnn-visualizations: [https://github.com/utkuozbulak/pytorch-cnn-visualizations](https://github.com/utkuozbulak/pytorch-cnn-visualizations), Pytorch
+Anchor: [https://github.com/marcotcr/anchor](https://github.com/marcotcr/anchor), scikit-learn ![](https://img.shields.io/github/stars/marcotcr/anchor?style=social) 
 
-Saliency: [https://github.com/PAIR-code/saliency](https://github.com/PAIR-code/saliency), Tensorflow
-
-What-if-tool: [https://github.com/PAIR-code/what-if-tool](https://github.com/PAIR-code/what-if-tool), Tensorflow
-
-LIT: [https://github.com/PAIR-code/lit](https://github.com/PAIR-code/lit), Tensorflow, specified for NLP Task
-
-Captum: [https://github.com/pytorch/captum](https://github.com/pytorch/captum), Pytorch
-
-SHAP: [https://github.com/slundberg/shap](https://github.com/slundberg/shap), Nearly all platform on Python
-
-Lime: [https://github.com/marcotcr/lime](https://github.com/marcotcr/lime), Nearly all platform on Python
-
-Pytorch-grad-cam: [https://github.com/jacobgil/pytorch-grad-cam](https://github.com/jacobgil/pytorch-grad-cam), Pytorch
-
-Keras-grad-cam: [https://github.com/jacobgil/keras-grad-cam](https://github.com/jacobgil/keras-grad-cam), Keras
-
-Grad-cam-Tensorflow: [https://github.com/insikk/Grad-CAM-tensorflow](https://github.com/insikk/Grad-CAM-tensorflow), Tensorflow
-
-Deeplift: [https://github.com/kundajelab/deeplift](https://github.com/kundajelab/deeplift), Tensorflow, Keras
-
-Eli5: [https://github.com/TeamHG-Memex/eli5](https://github.com/TeamHG-Memex/eli5), Scikit-learn, Keras, xgboost, lightGBM, catboost etc.
-
-Skater: [https://github.com/oracle/Skater](https://github.com/oracle/Skater)
-
-Innvestigate: [https://github.com/albermax/innvestigate](https://github.com/albermax/innvestigate), tensorflow, theano, cntk, Keras
-
-PDPbox: [https://github.com/SauceCat/PDPbox](https://github.com/SauceCat/PDPbox), Scikit-learn
-
-Alibi: [https://github.com/SeldonIO/alibi](https://github.com/SeldonIO/alibi)
+Alibi: [https://github.com/SeldonIO/alibi](https://github.com/SeldonIO/alibi) ![](https://img.shields.io/github/stars/SeldonIO/alibi.svg?style=social)
 
 Alibi-detect: [https://github.com/SeldonIO/alibi-detect](https://github.com/SeldonIO/alibi-detect)
 
-TCAV: [https://github.com/tensorflow/tcav](https://github.com/tensorflow/tcav), Tensorflow, scikit-learn
+BlackBoxAuditing: [https://github.com/algofairness/BlackBoxAuditing](https://github.com/algofairness/BlackBoxAuditing), scikit-learn ![](https://img.shields.io/github/stars/algofairness/BlackBoxAuditing?style=social)
 
-PyCEbox: [https://github.com/AustinRochford/PyCEbox](https://github.com/AustinRochford/PyCEbox)
+casme: [https://github.com/kondiz/casme](https://github.com/kondiz/casme), Pytorch ![](https://img.shields.io/github/stars/kondiz/casme?style=social)
+
+Captum: [https://github.com/pytorch/captum](https://github.com/pytorch/captum), Pytorch, ![](https://img.shields.io/github/stars/pytorch/captum.svg?style=social)
+
+cnn-exposed: [https://github.com/idealo/cnn-exposed](https://github.com/idealo/cnn-exposed), Tensorflow ![](https://img.shields.io/github/stars/idealo/cnn-exposed?style=social)
+
+Deeplift: [https://github.com/kundajelab/deeplift](https://github.com/kundajelab/deeplift), Tensorflow, Keras![](https://img.shields.io/github/stars/kundajelab/deeplift.svg?style=social)
 
 DeepExplain: [https://github.com/marcoancona/DeepExplain](https://github.com/marcoancona/DeepExplain), Tensorflow, Keras
 
+Eli5: [https://github.com/TeamHG-Memex/eli5](https://github.com/TeamHG-Memex/eli5), Scikit-learn, Keras, xgboost, lightGBM, catboost etc.![](https://img.shields.io/github/stars/TeamHG-Memex/eli5.svg?style=social)
+
+explainx: [https://github.com/explainX/explainx](https://github.com/explainX/explainx), xgboost, catboost ![](https://img.shields.io/github/stars/explainX/explainx?style=social)
+
+Grad-cam-Tensorflow: [https://github.com/insikk/Grad-CAM-tensorflow](https://github.com/insikk/Grad-CAM-tensorflow), Tensorflow
+
+Innvestigate: [https://github.com/albermax/innvestigate](https://github.com/albermax/innvestigate), tensorflow, theano, cntk, Keras ![](https://img.shields.io/github/stars/albermax/innvestigate.svg?style=social)
+
+InterpretML: [https://github.com/interpretml/interpret](https://github.com/interpretml/interpret) ![](https://img.shields.io/github/stars/InterpretML/interpret.svg?style=social)
+
+Keras-grad-cam: [https://github.com/jacobgil/keras-grad-cam](https://github.com/jacobgil/keras-grad-cam), Keras
+
+Keras-vis: [https://github.com/raghakot/keras-vis](https://github.com/raghakot/keras-vis), Keras ![](https://img.shields.io/github/stars/raghakot/keras-vis?style=social)
+
+Lucid: [https://github.com/tensorflow/lucid](https://github.com/tensorflow/lucid), Tensorflow ![](https://img.shields.io/github/stars/tensorflow/lucid.svg?style=social) 
+
+LIT: [https://github.com/PAIR-code/lit](https://github.com/PAIR-code/lit), Tensorflow, specified for NLP Task
+
+Lime: [https://github.com/marcotcr/lime](https://github.com/marcotcr/lime), Nearly all platform on Python ![](https://img.shields.io/github/stars/marcotcr/lime.svg?style=social)
+
+modelStudio: [https://github.com/ModelOriented/modelStudio](https://github.com/ModelOriented/modelStudio), Keras, Tensorflow, xgboost, lightgbm, h2o ![](https://img.shields.io/github/stars/ModelOriented/modelStudio?style=social)
+
+pytorch-cnn-visualizations: [https://github.com/utkuozbulak/pytorch-cnn-visualizations](https://github.com/utkuozbulak/pytorch-cnn-visualizations), Pytorch
+
+Pytorch-grad-cam: [https://github.com/jacobgil/pytorch-grad-cam](https://github.com/jacobgil/pytorch-grad-cam), Pytorch
+
+PDPbox: [https://github.com/SauceCat/PDPbox](https://github.com/SauceCat/PDPbox), Scikit-learn
+
+PyCEbox: [https://github.com/AustinRochford/PyCEbox](https://github.com/AustinRochford/PyCEbox)
+
+path_explain: [https://github.com/suinleelab/path_explain](https://github.com/suinleelab/path_explain), Tensorflow ![](https://img.shields.io/github/stars/suinleelab/path_explain?style=social)
+
+Saliency: [https://github.com/PAIR-code/saliency](https://github.com/PAIR-code/saliency), Tensorflow
+
+SHAP: [https://github.com/slundberg/shap](https://github.com/slundberg/shap), Nearly all platform on Python  ![](https://img.shields.io/github/stars/slundberg/shap.svg?style=social)
+
+Skater: [https://github.com/oracle/Skater](https://github.com/oracle/Skater) ![](https://img.shields.io/github/stars/datascienceinc/Skater.svg?style=social)
+
+TCAV: [https://github.com/tensorflow/tcav](https://github.com/tensorflow/tcav), Tensorflow, scikit-learn
+
 TensorWatch: [https://github.com/microsoft/tensorwatch.git](https://github.com/microsoft/tensorwatch.git), Tensorflow
 
-InterpretML: [https://github.com/interpretml/interpret](https://github.com/interpretml/interpret)
+tf-explain: [https://github.com/sicara/tf-explain](https://github.com/sicara/tf-explain), Tensorflow ![](https://img.shields.io/github/stars/sicara/tf-explain?style=social)
 
-AIX360: [https://github.com/IBM/AIX360](https://github.com/IBM/AIX360)
+WeightWatcher: [https://github.com/CalculatedContent/WeightWatcher](https://github.com/CalculatedContent/WeightWatcher), Keras, Pytorch ![](https://img.shields.io/github/stars/CalculatedContent/WeightWatcher?style=social)
 
-XAI: [https://github.com/EthicalML/xai](https://github.com/EthicalML/xai)
+What-if-tool: [https://github.com/PAIR-code/what-if-tool](https://github.com/PAIR-code/what-if-tool), Tensorflow![](https://img.shields.io/github/stars/tensorflow/tensorboard.svg?style=social)
 
-tf-explain: [https://github.com/sicara/tf-explain](https://github.com/sicara/tf-explain), Tensorflow
-
-WeightWatcher: [https://github.com/CalculatedContent/WeightWatcher](https://github.com/CalculatedContent/WeightWatcher), Keras, Pytorch
-
-BlackBoxAuditing: [https://github.com/algofairness/BlackBoxAuditing](https://github.com/algofairness/BlackBoxAuditing), scikit-learn
-
-explainx: [https://github.com/explainX/explainx](https://github.com/explainX/explainx), xgboost, catboost
-
-modelStudio: [https://github.com/ModelOriented/modelStudio](https://github.com/ModelOriented/modelStudio), Keras, Tensorflow, xgboost, lightgbm, h2o
-
-Keras-vis: [https://github.com/raghakot/keras-vis](https://github.com/raghakot/keras-vis), Keras
-
-cnn-exposed: [https://github.com/idealo/cnn-exposed](https://github.com/idealo/cnn-exposed), Tensorflow
-
-path_explain: [https://github.com/suinleelab/path_explain](https://github.com/suinleelab/path_explain), Tensorflow
-
-Anchor: [https://github.com/marcotcr/anchor](https://github.com/marcotcr/anchor), scikit-learn
-
-casme: [https://github.com/kondiz/casme](https://github.com/kondiz/casme), Pytorch ![](https://img.shields.io/github/stars/kondiz/casme?style=social)
+XAI: [https://github.com/EthicalML/xai](https://github.com/EthicalML/xai), scikit-learn ![](https://img.shields.io/github/stars/EthicalML/xai?style=social)
 
 ## Acknowledge
 
