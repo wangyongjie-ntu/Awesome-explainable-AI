@@ -278,7 +278,7 @@ path_explain: [https://github.com/suinleelab/path_explain](https://github.com/su
 
 Anchor: [https://github.com/marcotcr/anchor](https://github.com/marcotcr/anchor), scikit-learn
 
-casme: [https://github.com/kondiz/casme](https://github.com/kondiz/casme), Pytorch
+casme: [https://github.com/kondiz/casme](https://github.com/kondiz/casme), Pytorch ![](https://img.shields.io/github/stars/kondiz/casme?style=social)
 
 ## Acknowledge
 
