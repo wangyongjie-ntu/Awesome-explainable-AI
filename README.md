@@ -1,8 +1,7 @@
 [![Awesome](fig/awesome.svg)](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
-[![GitHub stars](https://img.shields.io/github/stars/tterb/playmusic.svg?style=social&label=Star)](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
-[![GitHub watchers](https://img.shields.io/github/watchers/tterb/playmusic.svg?style=social&label=Watch)](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
-[![GitHub forks](https://img.shields.io/github/forks/wangyongjie-ntu/Awesome-explainable-AI)](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
-[![GitHub followers](https://img.shields.io/github/followers/tterb.svg?style=social&label=Follow)](https://github.com/wangyongjie-ntu/Awesome-explainable-AI) 
+[![GitHub stars](https://img.shields.io/github/stars/wangyongjie-ntu/Awesome-explainable-AI?color=blue&style=social)](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
+[![GitHub watchers](https://img.shields.io/github/watchers/wangyongjie-ntu/Awesome-explainable-AI?color=yellow&style=social)](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
+[![GitHub forks](https://img.shields.io/github/forks/wangyongjie-ntu/Awesome-explainable-AI?color=red&style=social)](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
 
 # Awesome-explainable-AI
 
