@@ -230,6 +230,8 @@ Deeplift: [https://github.com/kundajelab/deeplift](https://github.com/kundajelab
 
 DeepExplain: [https://github.com/marcoancona/DeepExplain](https://github.com/marcoancona/DeepExplain), Tensorflow, Keras ![](https://img.shields.io/github/stars/marcoancona/DeepExplain?style=social)
 
+Deep Visualization Toolbox: [https://github.com/yosinski/deep-visualization-toolbox](https://github.com/yosinski/deep-visualization-toolbox), Caffe, ![](https://img.shields.io/github/stars/yosinski/deep-visualization-toolbox?style=social)
+
 Eli5: [https://github.com/TeamHG-Memex/eli5](https://github.com/TeamHG-Memex/eli5), Scikit-learn, Keras, xgboost, lightGBM, catboost etc.![](https://img.shields.io/github/stars/TeamHG-Memex/eli5.svg?style=social)
 
 explainx: [https://github.com/explainX/explainx](https://github.com/explainX/explainx), xgboost, catboost ![](https://img.shields.io/github/stars/explainX/explainx?style=social)
@@ -240,6 +242,8 @@ Innvestigate: [https://github.com/albermax/innvestigate](https://github.com/albe
 
 InterpretML: [https://github.com/interpretml/interpret](https://github.com/interpretml/interpret) ![](https://img.shields.io/github/stars/InterpretML/interpret.svg?style=social)
 
+Integrated-Gradients: [https://github.com/ankurtaly/Integrated-Gradients](https://github.com/ankurtaly/Integrated-Gradients), Tensorflow ![](https://img.shields.io/github/stars/ankurtaly/Integrated-Gradients?style=social)
+
 Keras-grad-cam: [https://github.com/jacobgil/keras-grad-cam](https://github.com/jacobgil/keras-grad-cam), Keras ![](https://img.shields.io/github/stars/jacobgil/keras-grad-cam?style=social)
 
 Keras-vis: [https://github.com/raghakot/keras-vis](https://github.com/raghakot/keras-vis), Keras ![](https://img.shields.io/github/stars/raghakot/keras-vis?style=social)
@@ -249,6 +253,8 @@ Lucid: [https://github.com/tensorflow/lucid](https://github.com/tensorflow/lucid
 LIT: [https://github.com/PAIR-code/lit](https://github.com/PAIR-code/lit), Tensorflow, specified for NLP Task ![](https://img.shields.io/github/stars/PAIR-code/lit?style=social)
 
 Lime: [https://github.com/marcotcr/lime](https://github.com/marcotcr/lime), Nearly all platform on Python ![](https://img.shields.io/github/stars/marcotcr/lime.svg?style=social)
+
+LOFO: [https://github.com/aerdem4/lofo-importance](https://github.com/aerdem4/lofo-importance), scikit-learn ![](https://img.shields.io/github/stars/aerdem4/lofo-importance?style=social)
 
 modelStudio: [https://github.com/ModelOriented/modelStudio](https://github.com/ModelOriented/modelStudio), Keras, Tensorflow, xgboost, lightgbm, h2o ![](https://img.shields.io/github/stars/ModelOriented/modelStudio?style=social)
 
@@ -273,6 +279,8 @@ TCAV: [https://github.com/tensorflow/tcav](https://github.com/tensorflow/tcav), 
 TensorWatch: [https://github.com/microsoft/tensorwatch.git](https://github.com/microsoft/tensorwatch.git), Tensorflow ![](https://img.shields.io/github/stars/microsoft/tensorwatch?style=social)
 
 tf-explain: [https://github.com/sicara/tf-explain](https://github.com/sicara/tf-explain), Tensorflow ![](https://img.shields.io/github/stars/sicara/tf-explain?style=social)
+
+Treeinterpreter: [https://github.com/andosa/treeinterpreter](https://github.com/andosa/treeinterpreter), scikit-learn, ![](https://img.shields.io/github/stars/andosa/treeinterpreter?style=social)
 
 WeightWatcher: [https://github.com/CalculatedContent/WeightWatcher](https://github.com/CalculatedContent/WeightWatcher), Keras, Pytorch ![](https://img.shields.io/github/stars/CalculatedContent/WeightWatcher?style=social)
 

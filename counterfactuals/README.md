@@ -166,4 +166,6 @@ The two use cases of counterfactual explanations:
 
 ### Github Repos
 
-Dice: [https://github.com/interpretml/DiCE.git](https://github.com/interpretml/DiCE.git), Pytorch, TensorFlow
+Dice: [https://github.com/interpretml/DiCE.git](https://github.com/interpretml/DiCE.git), Pytorch, TensorFlow ![](https://img.shields.io/github/stars/interpretml/DiCE?style=social)
+
+ContrastiveExplanation: [https://github.com/MarcelRobeer/ContrastiveExplanation](https://github.com/MarcelRobeer/ContrastiveExplanation), scikit-learn, ![](https://img.shields.io/github/stars/MarcelRobeer/ContrastiveExplanation?style=social)
