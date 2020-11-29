@@ -87,7 +87,7 @@ We mainly follow the taxonomy in the [survey paper](http://arxiv.org/abs/1802.01
  * [1. Transparent Model Design](https://github.com/wangyongjie-ntu/Awesome-explainable-AI/tree/master/transparent_model)
  * [2. Post-Explanation](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
    * [2.1 Model Explanation(Model-level)](https://github.com/wangyongjie-ntu/Awesome-explainable-AI/tree/master/model_explanation)
-   * [2.2 Model Inspection](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
+   * [2.2 Model Inspection](https://github.com/wangyongjie-ntu/Awesome-explainable-AI/tree/master/model_inspection)
    * [2.3 Outcome Explanation(Instance-level)](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
         * [2.3.1 Feature Attribution/Importance(Saliency Map)](https://github.com/wangyongjie-ntu/Awesome-explainable-AI/tree/master/feature_attribution)
         * [2.3.2 Counterfactual Explanations(Recourse)](https://github.com/wangyongjie-ntu/Awesome-explainable-AI/tree/master/counterfactuals)
