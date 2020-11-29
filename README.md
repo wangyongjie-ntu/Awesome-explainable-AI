@@ -101,35 +101,21 @@ We mainly follow the taxonomy in the [survey paper](http://arxiv.org/abs/1802.01
 
 [Learning identifiable and interpretable latent models of high-dimensional neural activity using pi-VAE](https://arxiv.org/abs/2011.04798), NeurIPS 2020
 
-[How does this interaction affect me? Interpretable attribution for feature interactions](https://arxiv.org/abs/2006.10965), NeurIPS 2020
-
 [ICAM: Interpretable Classification via Disentangled Representations and Feature Attribution Mapping](https://arxiv.org/abs/2006.08287), NeurIPS 2020
 
 [Generative causal explanations of black-box classifiers](https://arxiv.org/abs/2006.13913), NeurIPS 2020
 
-[What went wrong and when? Instance-wise Feature Importance for Time-series Models](https://arxiv.org/abs/2003.02821), NeurIPS 2020
-
-[Learning Global Transparent Models from Local Contrastive Explanations](https://arxiv.org/abs/2002.08247), NeurIPS 2020
-
 [Learning outside the Black-Box: The pursuit of interpretable models](https://proceedings.neurips.cc//paper/2020/file/ce758408f6ef98d7c7a7b786eca7b3a8-Paper.pdf), NeurIPS 2020
 
-[Explaining Machine Learning Classifiers through Diverse Counterfactual Explanations](https://arxiv.org/abs/1905.07697), ACM FACCT 2020
-
-[Evaluations and Methods for Explanation through Robustness Analysis](https://arxiv.org/pdf/2006.00442.pdf), arxiv preprint 2020
 
 [Explaining Explanations: Axiomatic Feature Interactions for Deep Networks](https://arxiv.org/pdf/2002.04138.pdf), arxiv preprint 2020
 
-[FEATURE INTERACTION INTERPRETABILITY: A CASE FOR EXPLAINING AD-RECOMMENDATION SYSTEMS VIA NEURAL INTERACTION DETECTION](https://openreview.net/pdf?id=BkgnhTEtDS), ICLR 2020
-
 [Explaining Groups of Points in Low-Dimensional Representations](https://arxiv.org/pdf/2003.01640.pdf), ICML 2020
 
-[There and Back Again: Revisiting Backpropagation Saliency Methods](https://openaccess.thecvf.com/content_CVPR_2020/papers/Rebuffi_There_and_Back_Again_Revisiting_Backpropagation_Saliency_Methods_CVPR_2020_paper.pdf), CVPR 2020
 
 [Towards Visually Explaining Variational Autoencoders](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Towards_Visually_Explaining_Variational_Autoencoders_CVPR_2020_paper.pdf), CVPR 2020
 
 [Explaining Knowledge Distillation by Quantifying the Knowledge](https://openaccess.thecvf.com/content_CVPR_2020/papers/Cheng_Explaining_Knowledge_Distillation_by_Quantifying_the_Knowledge_CVPR_2020_paper.pdf), CVPR 2020
-
-[Visualizing the Impact of Feature Attribution Baselines](https://distill.pub/2020/attribution-baselines/), Distill 2020
 
 [Explaining the Explainer: A First Theoretical Analysis of LIME](http://arxiv.org/abs/2001.03447), arxiv preprint 2020
 
@@ -137,11 +123,7 @@ We mainly follow the taxonomy in the [survey paper](http://arxiv.org/abs/1802.01
 
 [Relative Attributing Propagation: Interpreting the Comparative Contributions of Individual Units in Deep Neural Networks](https://arxiv.org/pdf/1904.00605.pdf), AAAI 2020
 
-[Sanity Checks for Saliency Metrics](https://arxiv.org/abs/1912.01451), AAAI 2020
-
 NeuronConductance, [How important is a neuron?](http://arxiv.org/abs/1805.12233), ICLR 2019
-
-[Explaining Image Classifiers by Counterfactual Generation](https://arxiv.org/pdf/1807.08024.pdf), ICLR 2019
 
 [On the (In)fidelity and Sensitivity for Explanations](https://arxiv.org/abs/1901.09392v4), NIPS 2019
 
@@ -149,25 +131,13 @@ NeuronConductance, [How important is a neuron?](http://arxiv.org/abs/1805.12233)
 
 [Explaining Explanations in AI](https://arxiv.org/pdf/1811.01439.pdf), ACM FAT 2019
 
-[Efficient Search for Diverse Coherent Explanations](https://arxiv.org/pdf/1901.04909.pdf), ACM FAT 2019
-
 [Explaining Deep Neural Networks with a Polynomial Time Algorithm for Shapley Value Approximation](http://proceedings.mlr.press/v97/ancona19a/ancona19a.pdf), ICML 2019
-
-[Bias also matters: Bias attribution for deep neural network explanation](http://proceedings.mlr.press/v97/wang19p.html), ICML 2019
-
-[Understanding Impacts of High-Order Loss Approximations and Features in Deep Learning Interpretation](https://arxiv.org/pdf/1902.00407.pdf), ICML 2019
 
 [On the Connection Between Adversarial Robustness and Saliency Map Interpretability](https://arxiv.org/pdf/1905.04172.pdf), ICML 2019
 
 [Axiomatic Interpretability for Multiclass Additive Models](https://dl.acm.org/doi/pdf/10.1145/3292500.3330898), KDD 2019
 
-[The Dangers of Post-hoc Interpretability: Unjustified Counterfactual Explanations](https://www.ijcai.org/Proceedings/2019/0388.pdf), IJCAI 2019
-
-[Interpretation of Neural Networks is Fragile](https://arxiv.org/abs/1710.10547), AAAI 2019
-
 [The Many Shapley Values for Model Explanation](https://arxiv.org/pdf/1908.08474.pdf), arxiv preprint 2019
-
-[Generating Contrastive Explanations with Monotonic Attribute Functions](https://arxiv.org/pdf/1905.12698.pdf), arxiv preprint 2019
 
 [Interpretml: A unified framework for machine learning interpretability](https://arxiv.org/abs/1909.09223), arxiv preprint 2019
 
@@ -175,17 +145,11 @@ NeuronConductance, [How important is a neuron?](http://arxiv.org/abs/1805.12233)
 
 [Improving Simple Models with Confidence Profiles](https://papers.nips.cc/paper/8231-improving-simple-models-with-confidence-profiles.pdf), NIPS 2018
 
-[Noise-adding Methods of Saliency Map as Series of Higher Order Partial Derivative](https://arxiv.org/pdf/1806.03000.pdf), ICML 2018 workshop
-
 [On the Robustness of Interpretability Methods](https://arxiv.org/abs/1806.08049), ICML 2018 workshop
 
 Anchors, [Anchors: High-Precision Model-Agnostic Explanations](https://homes.cs.washington.edu/~marcotcr/aaai18.pdf), AAAI 2018
 
-[Real Time Image Saliency for Black Box Classifiers](https://papers.nips.cc/paper/7272-real-time-image-saliency-for-black-box-classifiers.pdf), NIPS 2017
-
 [Understanding Black-box Predictions via Influence Functions](https://arxiv.org/pdf/1703.04730.pdf), ICML 2017
-
-[Visualizing deep neural network decisions: Prediction difference analysis](https://arxiv.org/pdf/1702.04595.pdf), ICLR 2017
 
 [Object Region Mining With Adversarial Erasing: A Simple Classification to Semantic Segmentation Approach](https://openaccess.thecvf.com/content_cvpr_2017/papers/Wei_Object_Region_Mining_CVPR_2017_paper.pdf), CVPR 2017
 
@@ -201,6 +165,8 @@ Shapley sampling values: [Explaining prediction models and individual prediction
 
 
 ### Evaluation methods
+
+[Evaluations and Methods for Explanation through Robustness Analysis](https://arxiv.org/pdf/2006.00442.pdf), arxiv preprint 2020
 
 [Evaluating and Aggregating Feature-based Model Explanations](https://arxiv.org/abs/2005.00631), IJCAI 2020
 

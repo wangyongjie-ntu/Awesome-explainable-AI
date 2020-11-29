@@ -2,6 +2,10 @@
 
 ## Papers
 
+[How does this interaction affect me? Interpretable attribution for feature interactions](https://arxiv.org/abs/2006.10965), NeurIPS 2020
+
+[FEATURE INTERACTION INTERPRETABILITY: A CASE FOR EXPLAINING AD-RECOMMENDATION SYSTEMS VIA NEURAL INTERACTION DETECTION](https://openreview.net/pdf?id=BkgnhTEtDS), ICLR 2020
+
 ALE: [Visualizing the Effects of Predictor Variables in Black Box Supervised Learning Models](https://arxiv.org/abs/1612.08468), Journal of the Royal Statistical Society Series B (Statistical Methodology) 2020
 
 [Causal Interpretations of Black-Box Models](https://www.tandfonline.com/doi/full/10.1080/07350015.2019.1624293), Journal of Business & Economic Statistics 2019

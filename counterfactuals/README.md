@@ -24,6 +24,8 @@ The two use cases of counterfactual explanations:
 
 [Good Counterfactuals and Where to Find Them: A Case-Based Technique for Generating Counterfactuals for Explainable AI (XAI)](https://arxiv.org/pdf/2005.13997.pdf), ICCBR 2020
 
+[Learning Global Transparent Models from Local Contrastive Explanations](https://arxiv.org/abs/2002.08247), NeurIPS 2020
+
 [Decisions, Counterfactual Explanations and Strategic Behavior](https://arxiv.org/abs/2002.04333), NeurIPS 2020
 
 [Algorithmic recourse under imperfect causal knowledge a probabilistic approach](https://arxiv.org/abs/2006.06831), NeurIPS 2020
@@ -127,6 +129,8 @@ The two use cases of counterfactual explanations:
 [Synthesizing Action Sequences for Modifying Model Decisions](https://arxiv.org/pdf/1910.00057.pdf), Arxiv preprint 2019
 
 [Measurable Counterfactual Local Explanations for Any Classifier](https://arxiv.org/pdf/1908.03020.pdf), Arxiv preprint 2019
+
+[Generating Contrastive Explanations with Monotonic Attribute Functions](https://arxiv.org/pdf/1905.12698.pdf), arxiv preprint 2019
 
 [The What-If Tool: Interactive Probing of Machine Learning Models](https://arxiv.org/pdf/1907.04135v2.pdf), TVCG 2019
 

@@ -3,6 +3,12 @@
 
 ## Papers
 
+[What went wrong and when? Instance-wise Feature Importance for Time-series Models](https://arxiv.org/abs/2003.02821), NeurIPS 2020
+
+[Visualizing the Impact of Feature Attribution Baselines](https://distill.pub/2020/attribution-baselines/), Distill 2020
+
+[There and Back Again: Revisiting Backpropagation Saliency Methods](https://openaccess.thecvf.com/content_CVPR_2020/papers/Rebuffi_There_and_Back_Again_Revisiting_Backpropagation_Saliency_Methods_CVPR_2020_paper.pdf), CVPR 2020
+
 [Towards Visually Explaining Variational Autoencoders](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Towards_Visually_Explaining_Variational_Autoencoders_CVPR_2020_paper.pdf), CVPR 2020
 
 Blur integrated gradient: [Attribution in Scale and Space](https://arxiv.org/pdf/2004.03383.pdf), CVPR 2020
@@ -15,7 +21,13 @@ Blur integrated gradient: [Attribution in Scale and Space](https://arxiv.org/pdf
 
 [TOWARDS HIERARCHICAL IMPORTANCE ATTRIBUTION: EXPLAINING COMPOSITIONAL SEMANTICS FOR NEURAL SEQUENCE MODELS](https://iclr.cc/virtual_2020/poster_BkxRRkSKwr.html), ICLR 2020
 
+[Bias also matters: Bias attribution for deep neural network explanation](http://proceedings.mlr.press/v97/wang19p.html), ICML 2019
+
+[Understanding Impacts of High-Order Loss Approximations and Features in Deep Learning Interpretation](https://arxiv.org/pdf/1902.00407.pdf), ICML 2019
+
 FullGrad, [Full-Gradient Representation for Neural Network Visualization](https://papers.nips.cc/paper/8666-full-gradient-representation-for-neural-network-visualization.pdf), NIPS 2019
+
+[Interpretation of Neural Networks is Fragile](https://arxiv.org/abs/1710.10547), AAAI 2019
 
 [XRAI: Better Attributions Through Regions](http://openaccess.thecvf.com/content_ICCV_2019/papers/Kapishnikov_XRAI_Better_Attributions_Through_Regions_ICCV_2019_paper.pdf), ICCV 2019
 
@@ -43,6 +55,8 @@ TCAV: [Interpretability Beyond Feature Attribution: Quantitative Testing with Co
 
 [A Theoretical Explanation for Perplexing Behaviors of Backpropagation-based Visualizations](http://proceedings.mlr.press/v80/nie18a/nie18a.pdf), ICML 2018
 
+[Noise-adding Methods of Saliency Map as Series of Higher Order Partial Derivative](https://arxiv.org/pdf/1806.03000.pdf), ICML 2018 workshop
+
 InternalInfluence, [Influence-Directed Explanations for Deep Convolutional Networks](http://arxiv.org/abs/1802.03788), IEEE International Test Conference 2018
 
 [Interpretable Basis Decomposition for Visual Explanation](https://openaccess.thecvf.com/content_ECCV_2018/papers/Antonio_Torralba_Interpretable_Basis_Decomposition_ECCV_2018_paper.pdf), 2018 ECCV
@@ -54,6 +68,8 @@ InternalInfluence, [Influence-Directed Explanations for Deep Convolutional Netwo
 [RISE: Randomized Input Sampling for Explanation of Black-box Models](http://bmvc2018.org/contents/papers/1064.pdf), BMVC 2018
 
 Shap: [A unified approach to interpreting model predictions](http://arxiv.org/abs/1705.07874), NIPS 2017
+
+[Real Time Image Saliency for Black Box Classifiers](https://papers.nips.cc/paper/7272-real-time-image-saliency-for-black-box-classifiers.pdf), NIPS 2017
 
 [Explaining nonlinear classification decisions with deep Taylor decomposition](https://www.sciencedirect.com/science/article/pii/S0031320316303582), Pattern Recognition 2017
 
@@ -68,6 +84,8 @@ DeepLIFT: [Learning important features through propagating activation difference
 Integrated Gradients: [Axiomatic attribution for deep networks](http://arxiv.org/abs/1703.01365), ICML 2017
 
 SmoothGard: [SmoothGrad: removing noise by adding noise](http://arxiv.org/abs/1706.03825), ICML 2017
+
+[Visualizing deep neural network decisions: Prediction difference analysis](https://arxiv.org/pdf/1702.04595.pdf), ICLR 2017
 
 [Visualizing deep neural net- work decisions: Prediction difference analysis](https://arxiv.org/abs/1702.04595), arxiv preprint 2017
 
