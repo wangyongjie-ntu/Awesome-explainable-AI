@@ -2,6 +2,7 @@
 
 
 ## Papers
+[ICAM: Interpretable Classification via Disentangled Representations and Feature Attribution Mapping](https://arxiv.org/abs/2006.08287), NeurIPS 2020
 
 [What went wrong and when? Instance-wise Feature Importance for Time-series Models](https://arxiv.org/abs/2003.02821), NeurIPS 2020
 
@@ -25,7 +26,11 @@ Blur integrated gradient: [Attribution in Scale and Space](https://arxiv.org/pdf
 
 [Understanding Impacts of High-Order Loss Approximations and Features in Deep Learning Interpretation](https://arxiv.org/pdf/1902.00407.pdf), ICML 2019
 
+[On the Connection Between Adversarial Robustness and Saliency Map Interpretability](https://arxiv.org/pdf/1905.04172.pdf), ICML 2019
+
 FullGrad, [Full-Gradient Representation for Neural Network Visualization](https://papers.nips.cc/paper/8666-full-gradient-representation-for-neural-network-visualization.pdf), NIPS 2019
+
+[On the (In)fidelity and Sensitivity for Explanations](https://arxiv.org/abs/1901.09392v4), NIPS 2019
 
 [Interpretation of Neural Networks is Fragile](https://arxiv.org/abs/1710.10547), AAAI 2019
 

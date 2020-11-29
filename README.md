@@ -101,19 +101,15 @@ We mainly follow the taxonomy in the [survey paper](http://arxiv.org/abs/1802.01
 
 [Learning identifiable and interpretable latent models of high-dimensional neural activity using pi-VAE](https://arxiv.org/abs/2011.04798), NeurIPS 2020
 
-[ICAM: Interpretable Classification via Disentangled Representations and Feature Attribution Mapping](https://arxiv.org/abs/2006.08287), NeurIPS 2020
 
 [Generative causal explanations of black-box classifiers](https://arxiv.org/abs/2006.13913), NeurIPS 2020
 
 [Learning outside the Black-Box: The pursuit of interpretable models](https://proceedings.neurips.cc//paper/2020/file/ce758408f6ef98d7c7a7b786eca7b3a8-Paper.pdf), NeurIPS 2020
 
-
 [Explaining Explanations: Axiomatic Feature Interactions for Deep Networks](https://arxiv.org/pdf/2002.04138.pdf), arxiv preprint 2020
 
 [Explaining Groups of Points in Low-Dimensional Representations](https://arxiv.org/pdf/2003.01640.pdf), ICML 2020
 
-
-[Towards Visually Explaining Variational Autoencoders](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Towards_Visually_Explaining_Variational_Autoencoders_CVPR_2020_paper.pdf), CVPR 2020
 
 [Explaining Knowledge Distillation by Quantifying the Knowledge](https://openaccess.thecvf.com/content_CVPR_2020/papers/Cheng_Explaining_Knowledge_Distillation_by_Quantifying_the_Knowledge_CVPR_2020_paper.pdf), CVPR 2020
 
@@ -125,15 +121,11 @@ We mainly follow the taxonomy in the [survey paper](http://arxiv.org/abs/1802.01
 
 NeuronConductance, [How important is a neuron?](http://arxiv.org/abs/1805.12233), ICLR 2019
 
-[On the (In)fidelity and Sensitivity for Explanations](https://arxiv.org/abs/1901.09392v4), NIPS 2019
-
 [Towards Automatic Concept-based Explanations](https://arxiv.org/pdf/1902.03129.pdf), NIPS 2019
 
 [Explaining Explanations in AI](https://arxiv.org/pdf/1811.01439.pdf), ACM FAT 2019
 
 [Explaining Deep Neural Networks with a Polynomial Time Algorithm for Shapley Value Approximation](http://proceedings.mlr.press/v97/ancona19a/ancona19a.pdf), ICML 2019
-
-[On the Connection Between Adversarial Robustness and Saliency Map Interpretability](https://arxiv.org/pdf/1905.04172.pdf), ICML 2019
 
 [Axiomatic Interpretability for Multiclass Additive Models](https://dl.acm.org/doi/pdf/10.1145/3292500.3330898), KDD 2019
 
