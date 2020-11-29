@@ -106,8 +106,6 @@ We mainly follow the taxonomy in the [survey paper](http://arxiv.org/abs/1802.01
 
 [Learning outside the Black-Box: The pursuit of interpretable models](https://proceedings.neurips.cc//paper/2020/file/ce758408f6ef98d7c7a7b786eca7b3a8-Paper.pdf), NeurIPS 2020
 
-[Explaining Explanations: Axiomatic Feature Interactions for Deep Networks](https://arxiv.org/pdf/2002.04138.pdf), arxiv preprint 2020
-
 [Explaining Groups of Points in Low-Dimensional Representations](https://arxiv.org/pdf/2003.01640.pdf), ICML 2020
 
 
@@ -116,8 +114,6 @@ We mainly follow the taxonomy in the [survey paper](http://arxiv.org/abs/1802.01
 [Explaining the Explainer: A First Theoretical Analysis of LIME](http://arxiv.org/abs/2001.03447), arxiv preprint 2020
 
 [Interpretable Models for Understanding Immersive Simulations](https://www.ijcai.org/Proceedings/2020/0321.pdf), IJCAI 2020
-
-[Relative Attributing Propagation: Interpreting the Comparative Contributions of Individual Units in Deep Neural Networks](https://arxiv.org/pdf/1904.00605.pdf), AAAI 2020
 
 NeuronConductance, [How important is a neuron?](http://arxiv.org/abs/1805.12233), ICLR 2019
 
@@ -146,8 +142,6 @@ Anchors, [Anchors: High-Precision Model-Agnostic Explanations](https://homes.cs.
 [Object Region Mining With Adversarial Erasing: A Simple Classification to Semantic Segmentation Approach](https://openaccess.thecvf.com/content_cvpr_2017/papers/Wei_Object_Region_Mining_CVPR_2017_paper.pdf), CVPR 2017
 
 LOCO, [Distribution-Free Predictive Inference For Regression](https://arxiv.org/pdf/1604.04173.pdf), Arxiv preprint 2016
-
-[Examples are not enough, learn to criticize! Criticism for interpretability](https://papers.nips.cc/paper/6300-examples-are-not-enough-learn-to-criticize-criticism-for-interpretability), NIPS 2016
 
 [Explaining data-driven document classifications](https://www.jstor.org/stable/26554869), MIS Quarterly 2014
 
