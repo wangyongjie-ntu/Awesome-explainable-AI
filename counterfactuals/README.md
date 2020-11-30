@@ -170,6 +170,8 @@ The two use cases of counterfactual explanations:
 
 ### Github Repos
 
+CEML: [https://github.com/andreArtelt/ceml](https://github.com/andreArtelt/ceml), Pytorch, Keras, Tensorflow, Scikit-Learn ![](https://img.shields.io/github/stars/andreArtelt/ceml?style=social)
+
 Dice: [https://github.com/interpretml/DiCE.git](https://github.com/interpretml/DiCE.git), Pytorch, TensorFlow ![](https://img.shields.io/github/stars/interpretml/DiCE?style=social)
 
 ContrastiveExplanation: [https://github.com/MarcelRobeer/ContrastiveExplanation](https://github.com/MarcelRobeer/ContrastiveExplanation), scikit-learn, ![](https://img.shields.io/github/stars/MarcelRobeer/ContrastiveExplanation?style=social)
