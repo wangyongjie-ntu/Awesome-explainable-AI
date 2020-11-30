@@ -185,6 +185,8 @@ Captum: [https://github.com/pytorch/captum](https://github.com/pytorch/captum), 
 
 cnn-exposed: [https://github.com/idealo/cnn-exposed](https://github.com/idealo/cnn-exposed), Tensorflow ![](https://img.shields.io/github/stars/idealo/cnn-exposed?style=social)
 
+DALEX: [https://github.com/ModelOriented/DALEX](https://github.com/ModelOriented/DALEX), ![](https://img.shields.io/github/stars/ModelOriented/DALEX.svg?style=social)
+
 Deeplift: [https://github.com/kundajelab/deeplift](https://github.com/kundajelab/deeplift), Tensorflow, Keras![](https://img.shields.io/github/stars/kundajelab/deeplift.svg?style=social)
 
 DeepExplain: [https://github.com/marcoancona/DeepExplain](https://github.com/marcoancona/DeepExplain), Tensorflow, Keras ![](https://img.shields.io/github/stars/marcoancona/DeepExplain?style=social)
