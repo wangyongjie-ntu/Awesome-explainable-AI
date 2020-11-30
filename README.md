@@ -243,7 +243,7 @@ Treeinterpreter: [https://github.com/andosa/treeinterpreter](https://github.com/
 
 WeightWatcher: [https://github.com/CalculatedContent/WeightWatcher](https://github.com/CalculatedContent/WeightWatcher), Keras, Pytorch ![](https://img.shields.io/github/stars/CalculatedContent/WeightWatcher?style=social)
 
-What-if-tool: [https://github.com/PAIR-code/what-if-tool](https://github.com/PAIR-code/what-if-tool), Tensorflow![](https://img.shields.io/github/stars/tensorflow/tensorboard.svg?style=social)
+What-if-tool: [https://github.com/PAIR-code/what-if-tool](https://github.com/PAIR-code/what-if-tool), Tensorflow![](https://img.shields.io/github/stars/PAIR-code/what-if-tool?style=social)
 
 XAI: [https://github.com/EthicalML/xai](https://github.com/EthicalML/xai), scikit-learn ![](https://img.shields.io/github/stars/EthicalML/xai?style=social)
 
