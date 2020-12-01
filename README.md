@@ -247,6 +247,16 @@ What-if-tool: [https://github.com/PAIR-code/what-if-tool](https://github.com/PAI
 
 XAI: [https://github.com/EthicalML/xai](https://github.com/EthicalML/xai), scikit-learn ![](https://img.shields.io/github/stars/EthicalML/xai?style=social)
 
+## Related Repositories
+
+[https://github.com/jphall663/awesome-machine-learning-interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability), ![](https://img.shields.io/github/stars/jphall663/awesome-machine-learning-interpretability?style=social)
+
+[https://github.com/lopusz/awesome-interpretable-machine-learning](https://github.com/lopusz/awesome-interpretable-machine-learning), ![](https://img.shields.io/github/stars/lopusz/awesome-interpretable-machine-learning?style=social)
+
+[https://github.com/pbiecek/xai_resources](https://github.com/pbiecek/xai_resources), ![](https://img.shields.io/github/stars/pbiecek/xai_resources?style=social)
+
+
+
 ## Acknowledge
 
 Need your help to re-organize and refine current taxonomy. Thanks very very much!
