@@ -36,6 +36,15 @@ The two use cases of counterfactual explanations:
 
 [Counterfactual Vision-and-Language Navigation via Adversarial Path Sampler](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510069.pdf), ECCV 2020
 
+<<<<<<< HEAD
+=======
+[CERTIFAI: Counterfactual Explanations for Robustness, Transparency, Interpretability, and Fairness of Artificial Intelligence models](https://arxiv.org/pdf/1905.07857.pdf), Arxiv preprint 2020
+
+[Instance-Based Counterfactual Explanations for Time Series Classification](https://arxiv.org/pdf/2009.13211.pdf), Arxiv preprint 2020
+
+[Model extraction from counterfactual explanations](https://arxiv.org/pdf/2009.01884.pdf), Arxiv preprint 2020
+
+>>>>>>> 42b07f4689e090d8c9867cb484fa0824c1b2b5ba
 [Efficient computation of counterfactual explanations of LVQ models](https://arxiv.org/pdf/1908.00735.pdf), Arxiv preprint 2020
 
 [Convex Density Constraints for Computing Plausible Counterfactual Explanations](https://arxiv.org/pdf/2002.04862.pdf), Arxiv preprint 2020
