@@ -14,7 +14,7 @@ The two use cases of counterfactual explanations:
 
 [On the computation of counterfactual explanations -- A survey](https://arxiv.org/abs/1911.07749), Arxiv preprint 2019
 
-[Issues with post-hoc counterfactual explanations: a discussion](https://arxiv.org/abs/1906.04774), Arxiv preprint 2019
+[Issues with post-hoc counterfactual explanations: a discussion](https://arxiv.org/abs/1906.04774), ICML Workshop 2019
 
 ### papers
 
@@ -35,8 +35,6 @@ The two use cases of counterfactual explanations:
 [Learning What Makes a Difference from Counterfactual Examples and Gradient Supervision](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123550579.pdf), ECCV 2020
 
 [Counterfactual Vision-and-Language Navigation via Adversarial Path Sampler](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510069.pdf), ECCV 2020
-
-[Model extraction from counterfactual explanations](https://arxiv.org/pdf/2009.01884.pdf), Arxiv preprint 2020
 
 [Efficient computation of counterfactual explanations of LVQ models](https://arxiv.org/pdf/1908.00735.pdf), Arxiv preprint 2020
 
