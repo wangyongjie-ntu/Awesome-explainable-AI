@@ -1,6 +1,6 @@
 ## Counterfactual Explanation (Actionable Recourse)
 
-This task mainly targets to find an explanation of a given instance, such that the explanation can change the prediction(Ususally from an undesirable outcome to an ideal one). The explanation itself is also a valid instance, or changing of current instance(can reduce to another instance implicitly) in the feature space. This task simply extracts knowledge from the black-box models. This task belongs to the instance-level explanation. Quite interesting to dive deeper!!!
+Counterfactual explanations mainly target to find the mimimum perturbation which changes the original prediction(Ususlly from an undesirable prediction to ideal one). The perturbation itself is a valid instance following the real data distribution as the training samples. It has broad applications, E.g., finance, education, health care ect. Specifically, what should I do to get the credit card approved if I received the rejection. This task can be viewed as extracting knowledge/solutions from the black-box models. It belongs to the instance-level explanation. Quite interesting to dive deeper!!!
 
 The two use cases of counterfactual explanations:
 
