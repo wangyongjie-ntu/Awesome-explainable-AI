@@ -181,3 +181,9 @@ CEML: [https://github.com/andreArtelt/ceml](https://github.com/andreArtelt/ceml)
 Dice: [https://github.com/interpretml/DiCE.git](https://github.com/interpretml/DiCE.git), Pytorch, TensorFlow ![](https://img.shields.io/github/stars/interpretml/DiCE?style=social)
 
 ContrastiveExplanation: [https://github.com/MarcelRobeer/ContrastiveExplanation](https://github.com/MarcelRobeer/ContrastiveExplanation), scikit-learn, ![](https://img.shields.io/github/stars/MarcelRobeer/ContrastiveExplanation?style=social)
+
+cf-feasibility: [https://github.com/divyat09/cf-feasibility](https://github.com/divyat09/cf-feasibility), Pytorch, Tensorflow, Scikit-Learn, ![](https://img.shields.io/github/stars/divyat09/cf-feasibility?style=social)
+
+Mace: [https://github.com/amirhk/mace](https://github.com/amirhk/mace), Scikit-Learn, ![](https://img.shields.io/github/stars/amirhk/mace?style=social)
+
+Strategic-Decisions: [https://github.com/Networks-Learning/strategic-decisions](https://github.com/Networks-Learning/strategic-decisions), Scikit-learn ![](https://img.shields.io/github/stars/Networks-Learning/strategic-decisions?style=social)
