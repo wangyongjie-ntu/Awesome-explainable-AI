@@ -16,6 +16,8 @@ The two use cases of counterfactual explanations:
 
 [Issues with post-hoc counterfactual explanations: a discussion](https://arxiv.org/abs/1906.04774), ICML Workshop 2019
 
+[Counterfactuals in Explainable Artificial Intelligence (XAI): Evidence from Human Reasoning](https://www.ijcai.org/Proceedings/2019/0876.pdf), IJCAI 2019
+
 ## Papers
 
 [An ASP-Based Approach to Counterfactual Explanations for Classification](https://arxiv.org/pdf/2004.13237.pdf), RuleML + PR 2020
@@ -109,8 +111,6 @@ The two use cases of counterfactual explanations:
 [EMAP: Explanation by Minimal Adversarial Perturbation](https://arxiv.org/pdf/1912.00872.pdf), AAAI 2020
 
 [Random forest explainability using counterfactual sets](https://doi.org/10.1016/j.inffus.2020.07.001), Information Fusion 2020
-
-[Counterfactuals in Explainable Artificial Intelligence (XAI): Evidence from Human Reasoning](https://www.ijcai.org/Proceedings/2019/0876.pdf), IJCAI 2019
 
 [The Dangers of Post-hoc Interpretability: Unjustified Counterfactual Explanations](https://www.ijcai.org/proceedings/2019/388), IJCAI 2019
 
