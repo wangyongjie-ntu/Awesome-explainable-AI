@@ -1,4 +1,4 @@
-## Counterfactual Explanation (Actionable Recourse)
+# Counterfactual Explanation (Actionable Recourse)
 
 Counterfactual explanations mainly target to find the mimimum perturbation which changes the original prediction(Ususlly from an undesirable prediction to ideal one). The perturbation itself is a valid instance following the real data distribution as the training samples. It has broad applications, E.g., finance, education, health care ect. Specifically, what should I do to get the credit card approved if I received the rejection. This task can be viewed as extracting knowledge/solutions from the black-box models. It belongs to the instance-level explanation. Quite interesting to dive deeper!!!
 
@@ -6,7 +6,7 @@ The two use cases of counterfactual explanations:
 
 ![counterfactual explanations](https://github.com/iversonicter/awesome-explainable-ai/blob/master/fig/cf.png)
 
-### Survey papers on Counterfactual Explanation
+## Survey papers 
 
 [Counterfactual Explanations for Machine Learning: A Review](https://arxiv.org/pdf/2010.10596.pdf), Arxiv preprint 2020
 
@@ -16,7 +16,7 @@ The two use cases of counterfactual explanations:
 
 [Issues with post-hoc counterfactual explanations: a discussion](https://arxiv.org/abs/1906.04774), ICML Workshop 2019
 
-### papers
+## Papers
 
 [An ASP-Based Approach to Counterfactual Explanations for Classification](https://arxiv.org/pdf/2004.13237.pdf), RuleML + PR 2020
 
@@ -106,6 +106,8 @@ The two use cases of counterfactual explanations:
 
 [Multi-Objective Counterfactual Explanations](https://arxiv.org/pdf/2004.11165.pdf), PPSN 2020
 
+[EMAP: Explanation by Minimal Adversarial Perturbation](https://arxiv.org/pdf/1912.00872.pdf), AAAI 2020
+
 [Random forest explainability using counterfactual sets](https://doi.org/10.1016/j.inffus.2020.07.001), Information Fusion 2020
 
 [Counterfactuals in Explainable Artificial Intelligence (XAI): Evidence from Human Reasoning](https://www.ijcai.org/Proceedings/2019/0876.pdf), IJCAI 2019
@@ -114,7 +116,6 @@ The two use cases of counterfactual explanations:
 
 [Unjustified Classification Regions and Counterfactual Explanations In Machine Learning](https://ecmlpkdd2019.org/downloads/paper/226.pdf), ECML-PDKK 2019
 
-[EMAP: Explanation by Minimal Adversarial Perturbation](https://arxiv.org/pdf/1912.00872.pdf), Arxiv preprint 2019
 
 [Model Agnostic Contrastive Explanations for Structured Data](https://arxiv.org/pdf/1906.00117.pdf), Arxiv preprint 2019
 
@@ -172,7 +173,7 @@ The two use cases of counterfactual explanations:
 
 [The Inverse Classification Problem](https://link.springer.com/article/10.1007/s11390-010-9337-x), Journal of Computer Science and Technology 2010
 
-### Github Repos
+## Github Repos
 
 actionable-recourse: [https://github.com/ustunb/actionable-recourse](https://github.com/ustunb/actionable-recourse), Scikit-Learn ![](https://img.shields.io/github/stars/ustunb/actionable-recourse?style=social)
 
