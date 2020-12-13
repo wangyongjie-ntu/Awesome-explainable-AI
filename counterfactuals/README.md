@@ -175,6 +175,8 @@ The two use cases of counterfactual explanations:
 
 ## Github Repos
 
+Alibi: [https://github.com/SeldonIO/alibi](https://github.com/SeldonIO/alibi) ![](https://img.shields.io/github/stars/SeldonIO/alibi.svg?style=social)
+
 actionable-recourse: [https://github.com/ustunb/actionable-recourse](https://github.com/ustunb/actionable-recourse), Scikit-Learn ![](https://img.shields.io/github/stars/ustunb/actionable-recourse?style=social)
 
 CEML: [https://github.com/andreArtelt/ceml](https://github.com/andreArtelt/ceml), Pytorch, Keras, Tensorflow, Scikit-Learn ![](https://img.shields.io/github/stars/andreArtelt/ceml?style=social)
