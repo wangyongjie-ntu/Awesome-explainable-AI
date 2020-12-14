@@ -90,13 +90,13 @@ We mainly follow the taxonomy in the [survey paper](http://arxiv.org/abs/1802.01
  * [2. Post-Explanation](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
    * [2.1 Model Explanation(Model-level)](https://github.com/wangyongjie-ntu/Awesome-explainable-AI/tree/master/model_explanation)
    * [2.2 Model Inspection](https://github.com/wangyongjie-ntu/Awesome-explainable-AI/tree/master/model_inspection)
-   * [2.3 Outcome Explanation(Instance-level)](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
+   * [2.3 Outcome Explanation](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
         * [2.3.1 Feature Attribution/Importance(Saliency Map)](https://github.com/wangyongjie-ntu/Awesome-explainable-AI/tree/master/feature_attribution)
-   * [2.4 Neuron Importance]()
-   * [2.5 Example-based Explanations]()
+   * [2.4 Neuron Importance](https://github.com/wangyongjie-ntu/Awesome-explainable-AI/tree/master/neuron_importance)
+   * [2.5 Example-based Explanations](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
         * [2.3.2 Counterfactual Explanations(Recourse)](https://github.com/wangyongjie-ntu/Awesome-explainable-AI/tree/master/counterfactuals)
-		* [2.3.3 Influential Instances]()
-		* [2.3.4 Prototypes&Criticisms]()
+		* [2.3.3 Influential Instances](https://github.com/wangyongjie-ntu/Awesome-explainable-AI/tree/master/influential_instances)
+		* [2.3.4 Prototypes&Criticisms](https://github.com/wangyongjie-ntu/Awesome-explainable-AI/tree/master/prototype_criticisms)
 
 ### Uncategorized Papers on Model/Instance Explanation
 
@@ -135,8 +135,6 @@ We mainly follow the taxonomy in the [survey paper](http://arxiv.org/abs/1802.01
 [Improving Simple Models with Confidence Profiles](https://papers.nips.cc/paper/8231-improving-simple-models-with-confidence-profiles.pdf), NIPS 2018
 
 [On the Robustness of Interpretability Methods](https://arxiv.org/abs/1806.08049), ICML 2018 workshop
-
-Anchors, [Anchors: High-Precision Model-Agnostic Explanations](https://homes.cs.washington.edu/~marcotcr/aaai18.pdf), AAAI 2018
 
 [Object Region Mining With Adversarial Erasing: A Simple Classification to Semantic Segmentation Approach](https://openaccess.thecvf.com/content_cvpr_2017/papers/Wei_Object_Region_Mining_CVPR_2017_paper.pdf), CVPR 2017
 
