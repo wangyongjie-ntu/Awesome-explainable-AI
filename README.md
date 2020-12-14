@@ -94,9 +94,9 @@ We mainly follow the taxonomy in the [survey paper](http://arxiv.org/abs/1802.01
         * [2.3.1 Feature Attribution/Importance(Saliency Map)](https://github.com/wangyongjie-ntu/Awesome-explainable-AI/tree/master/feature_attribution)
    * [2.4 Neuron Importance](https://github.com/wangyongjie-ntu/Awesome-explainable-AI/tree/master/neuron_importance)
    * [2.5 Example-based Explanations](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
-        * [2.3.2 Counterfactual Explanations(Recourse)](https://github.com/wangyongjie-ntu/Awesome-explainable-AI/tree/master/counterfactuals)
-		* [2.3.3 Influential Instances](https://github.com/wangyongjie-ntu/Awesome-explainable-AI/tree/master/influential_instances)
-		* [2.3.4 Prototypes&Criticisms](https://github.com/wangyongjie-ntu/Awesome-explainable-AI/tree/master/prototype_criticisms)
+        * [2.5.1 Counterfactual Explanations(Recourse)](https://github.com/wangyongjie-ntu/Awesome-explainable-AI/tree/master/counterfactuals)
+		* [2.5.2 Influential Instances](https://github.com/wangyongjie-ntu/Awesome-explainable-AI/tree/master/influential_instances)
+		* [2.5.3 Prototypes&Criticisms](https://github.com/wangyongjie-ntu/Awesome-explainable-AI/tree/master/prototype_criticisms)
 
 ### Uncategorized Papers on Model/Instance Explanation
 
