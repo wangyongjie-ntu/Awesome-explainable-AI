@@ -54,6 +54,10 @@ The two use cases of counterfactual explanations:
 
 [Model extraction from counterfactual explanations](https://arxiv.org/pdf/2009.01884.pdf), Arxiv 2020
 
+[On the Fairness of Causal Algorithmic Recourse](https://arxiv.org/pdf/2010.06529.pdf), Arxiv preprint 2020
+
+[Scaling Guarantees for Nearest Counterfactual Explanations](https://arxiv.org/abs/2010.04965), Arxiv preprint 2020
+
 [PermuteAttack: Counterfactual Explanation of Machine Learning Credit Scorecards](https://arxiv.org/pdf/2008.10138.pdf), Arxiv preprint 2020
 
 [Decisions, Counterfactual Explanations and Strategic Behavior](https://arxiv.org/abs/2002.04333), Arxiv preprint 2020
@@ -68,7 +72,7 @@ The two use cases of counterfactual explanations:
 
 [EXPLAINABLE IMAGE CLASSIFICATION WITH EVIDENCE COUNTERFACTUAL](https://arxiv.org/pdf/2004.07511.pdf), Arxiv preprint 2020
 
-[Model-Agnostic Counterfactual Explanations for Consequential Decisions](https://arxiv.org/abs/1905.11190), Arxiv preprint 2020
+[Model-Agnostic Counterfactual Explanations for Consequential Decisions](https://arxiv.org/abs/1905.11190), AISTATS 2020
 
 [Explaining Data-Driven Decisions made by AI Systems: The Counterfactual Approach](https://arxiv.org/pdf/2001.07417.pdf), Arxiv preprint 2020
 
