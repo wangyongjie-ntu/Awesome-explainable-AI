@@ -92,8 +92,11 @@ We mainly follow the taxonomy in the [survey paper](http://arxiv.org/abs/1802.01
    * [2.2 Model Inspection](https://github.com/wangyongjie-ntu/Awesome-explainable-AI/tree/master/model_inspection)
    * [2.3 Outcome Explanation(Instance-level)](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
         * [2.3.1 Feature Attribution/Importance(Saliency Map)](https://github.com/wangyongjie-ntu/Awesome-explainable-AI/tree/master/feature_attribution)
+   * [2.4 Neuron Importance]()
+   * [2.5 Example-based Explanations]()
         * [2.3.2 Counterfactual Explanations(Recourse)](https://github.com/wangyongjie-ntu/Awesome-explainable-AI/tree/master/counterfactuals)
-		* [2.3.3 More]()
+		* [2.3.3 Influential Instances]()
+		* [2.3.4 Prototypes&Criticisms]()
 
 ### Uncategorized Papers on Model/Instance Explanation
 
@@ -103,21 +106,17 @@ We mainly follow the taxonomy in the [survey paper](http://arxiv.org/abs/1802.01
 
 [Learning identifiable and interpretable latent models of high-dimensional neural activity using pi-VAE](https://arxiv.org/abs/2011.04798), NeurIPS 2020
 
-
 [Generative causal explanations of black-box classifiers](https://arxiv.org/abs/2006.13913), NeurIPS 2020
 
 [Learning outside the Black-Box: The pursuit of interpretable models](https://proceedings.neurips.cc//paper/2020/file/ce758408f6ef98d7c7a7b786eca7b3a8-Paper.pdf), NeurIPS 2020
 
 [Explaining Groups of Points in Low-Dimensional Representations](https://arxiv.org/pdf/2003.01640.pdf), ICML 2020
 
-
 [Explaining Knowledge Distillation by Quantifying the Knowledge](https://openaccess.thecvf.com/content_CVPR_2020/papers/Cheng_Explaining_Knowledge_Distillation_by_Quantifying_the_Knowledge_CVPR_2020_paper.pdf), CVPR 2020
 
 [Explaining the Explainer: A First Theoretical Analysis of LIME](http://arxiv.org/abs/2001.03447), arxiv preprint 2020
 
 [Interpretable Models for Understanding Immersive Simulations](https://www.ijcai.org/Proceedings/2020/0321.pdf), IJCAI 2020
-
-NeuronConductance, [How important is a neuron?](http://arxiv.org/abs/1805.12233), ICLR 2019
 
 [Towards Automatic Concept-based Explanations](https://arxiv.org/pdf/1902.03129.pdf), NIPS 2019
 
@@ -138,8 +137,6 @@ NeuronConductance, [How important is a neuron?](http://arxiv.org/abs/1805.12233)
 [On the Robustness of Interpretability Methods](https://arxiv.org/abs/1806.08049), ICML 2018 workshop
 
 Anchors, [Anchors: High-Precision Model-Agnostic Explanations](https://homes.cs.washington.edu/~marcotcr/aaai18.pdf), AAAI 2018
-
-[Understanding Black-box Predictions via Influence Functions](https://arxiv.org/pdf/1703.04730.pdf), ICML 2017
 
 [Object Region Mining With Adversarial Erasing: A Simple Classification to Semantic Segmentation Approach](https://openaccess.thecvf.com/content_cvpr_2017/papers/Wei_Object_Region_Mining_CVPR_2017_paper.pdf), CVPR 2017
 
