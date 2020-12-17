@@ -28,7 +28,9 @@ The figure below illustrates several use cases of XAI. Here we also divide the p
 
 [Machine learning interpretability: A survey on methods and metrics](https://www.mdpi.com/2079-9292/8/8/832), Electronics, 2019
 
-[A Survey on Explainable Artificial Intelligence (XAI): Towards Medical XAI](http://arxiv.org/abs/1907.07374), Preprinted, 2019
+[A Survey on Explainable Artificial Intelligence (XAI): Towards Medical XAI](http://arxiv.org/abs/1907.07374), Arxiv preprint 2019
+
+[Interpretable machine learning: definitions, methods, and applications](https://arxiv.org/pdf/1901.04592.pdf), Arxiv preprint 2019
 
 [Visual Analytics in Deep Learning: An Interrogative Survey for the Next Frontiers](https://ieeexplore.ieee.org/document/8371286), IEEE Transactions on Visualization and Computer Graphics, 2019
 
@@ -128,6 +130,8 @@ We mainly follow the taxonomy in the [survey paper](http://arxiv.org/abs/1802.01
 
 [The Many Shapley Values for Model Explanation](https://arxiv.org/pdf/1908.08474.pdf), arxiv preprint 2019
 
+[Stop Explaining Black Box Machine Learning Models for High Stakes Decisions and Use Interpretable Models Instead](https://arxiv.org/pdf/1811.10154.pdf), Nature Machine Intelligence 2019
+
 [Interpretml: A unified framework for machine learning interpretability](https://arxiv.org/abs/1909.09223), arxiv preprint 2019
 
 [All Models are Wrong, but Many are Useful: Learning a Variable’s Importance by Studying an Entire Class of Prediction Models Simultaneously](https://arxiv.org/pdf/1801.01489.pdf), JMLR 2019
@@ -135,6 +139,8 @@ We mainly follow the taxonomy in the [survey paper](http://arxiv.org/abs/1802.01
 [Improving Simple Models with Confidence Profiles](https://papers.nips.cc/paper/8231-improving-simple-models-with-confidence-profiles.pdf), NIPS 2018
 
 [On the Robustness of Interpretability Methods](https://arxiv.org/abs/1806.08049), ICML 2018 workshop
+
+[Towards A Rigorous Science of Interpretable Machine Learning](https://arxiv.org/pdf/1702.08608.pdf), Arxiv preprint 2017
 
 [Object Region Mining With Adversarial Erasing: A Simple Classification to Semantic Segmentation Approach](https://openaccess.thecvf.com/content_cvpr_2017/papers/Wei_Object_Region_Mining_CVPR_2017_paper.pdf), CVPR 2017
 
@@ -196,6 +202,8 @@ Grad-cam-Tensorflow: [https://github.com/insikk/Grad-CAM-tensorflow](https://git
 
 Innvestigate: [https://github.com/albermax/innvestigate](https://github.com/albermax/innvestigate), tensorflow, theano, cntk, Keras ![](https://img.shields.io/github/stars/albermax/innvestigate.svg?style=social)
 
+imodels: [https://github.com/csinva/imodels](https://github.com/csinva/imodels), ![](https://img.shields.io/github/stars/csinva/imodels.svg?style=social)
+
 InterpretML: [https://github.com/interpretml/interpret](https://github.com/interpretml/interpret) ![](https://img.shields.io/github/stars/InterpretML/interpret.svg?style=social)
 
 Integrated-Gradients: [https://github.com/ankurtaly/Integrated-Gradients](https://github.com/ankurtaly/Integrated-Gradients), Tensorflow ![](https://img.shields.io/github/stars/ankurtaly/Integrated-Gradients?style=social)
@@ -223,6 +231,8 @@ PDPbox: [https://github.com/SauceCat/PDPbox](https://github.com/SauceCat/PDPbox)
 PyCEbox: [https://github.com/AustinRochford/PyCEbox](https://github.com/AustinRochford/PyCEbox) ![](https://img.shields.io/github/stars/AustinRochford/PyCEbox?style=social)
 
 path_explain: [https://github.com/suinleelab/path_explain](https://github.com/suinleelab/path_explain), Tensorflow ![](https://img.shields.io/github/stars/suinleelab/path_explain?style=social)
+
+rulefit: [https://github.com/christophM/rulefit](https://github.com/christophM/rulefit), ![](https://img.shields.io/github/stars/christophM/rulefit?style=social)
 
 Saliency: [https://github.com/PAIR-code/saliency](https://github.com/PAIR-code/saliency), Tensorflow ![](https://img.shields.io/github/stars/PAIR-code/saliency?style=social)
 
