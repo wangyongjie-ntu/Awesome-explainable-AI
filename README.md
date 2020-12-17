@@ -242,6 +242,8 @@ Skater: [https://github.com/oracle/Skater](https://github.com/oracle/Skater) ![]
 
 TCAV: [https://github.com/tensorflow/tcav](https://github.com/tensorflow/tcav), Tensorflow, scikit-learn ![](https://img.shields.io/github/stars/tensorflow/tcav?style=social)
 
+skope-rules: [https://github.com/scikit-learn-contrib/skope-rules](https://github.com/scikit-learn-contrib/skope-rules), Scikit-learn ![](https://img.shields.io/github/stars/scikit-learn-contrib/skope-rules?style=social)
+
 TensorWatch: [https://github.com/microsoft/tensorwatch.git](https://github.com/microsoft/tensorwatch.git), Tensorflow ![](https://img.shields.io/github/stars/microsoft/tensorwatch?style=social)
 
 tf-explain: [https://github.com/sicara/tf-explain](https://github.com/sicara/tf-explain), Tensorflow ![](https://img.shields.io/github/stars/sicara/tf-explain?style=social)
