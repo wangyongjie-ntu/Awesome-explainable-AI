@@ -134,8 +134,6 @@ We mainly follow the taxonomy in the [survey paper](http://arxiv.org/abs/1802.01
 
 [All Models are Wrong, but Many are Useful: Learning a Variable’s Importance by Studying an Entire Class of Prediction Models Simultaneously](https://arxiv.org/pdf/1801.01489.pdf), JMLR 2019
 
-[Improving Simple Models with Confidence Profiles](https://papers.nips.cc/paper/8231-improving-simple-models-with-confidence-profiles.pdf), NIPS 2018
-
 [On the Robustness of Interpretability Methods](https://arxiv.org/abs/1806.08049), ICML 2018 workshop
 
 [Towards A Rigorous Science of Interpretable Machine Learning](https://arxiv.org/pdf/1702.08608.pdf), Arxiv preprint 2017
