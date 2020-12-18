@@ -8,7 +8,13 @@ This family of models is self-explained and transparent to users.
 
 [Transparent Classification with Multilayer Logical Perceptrons and Random Binarization](https://arxiv.org/abs/1912.04695), AAAI 2020
 
+[Generalized Linear Rule Models](http://proceedings.mlr.press/v97/wei19a/wei19a.pdf), ICML 2019
+
 [Interpretable Convolutional Neural Networks](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Interpretable_Convolutional_Neural_CVPR_2018_paper.pdf), CVPR 2018
+
+[Boolean Decision Rules via Column Generation](https://papers.nips.cc/paper/2018/file/743394beff4b1282ba735e5e3723ed74-Paper.pdf), NIPS 2018
+
+[Towards Robust Interpretability with Self-Explaining Neural Networks](https://papers.nips.cc/paper/2018/file/3e9f0fc9b2f89e043bc6233994dfcf76-Paper.pdf), NIPS 2018
 
 [Interpretable classifiers using rules and Bayesian analysis: Building a better stroke prediction model](https://arxiv.org/abs/1511.01644), The Annals of Applied Statistics 2015
 

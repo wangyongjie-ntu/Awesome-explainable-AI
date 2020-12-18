@@ -26,6 +26,8 @@ The figure below illustrates several use cases of XAI. Here we also divide the p
 
 [A brief survey of visualization methods for deep learning models from the perspective of Explainable AI](https://www.macs.hw.ac.uk/~ic14/IoannisChalkiadakis_RRR.pdf), Information Visualization 2020
 
+[Explaining Explanations in AI](https://arxiv.org/pdf/1811.01439.pdf), ACM FAT 2019
+
 [Machine learning interpretability: A survey on methods and metrics](https://www.mdpi.com/2079-9292/8/8/832), Electronics, 2019
 
 [A Survey on Explainable Artificial Intelligence (XAI): Towards Medical XAI](http://arxiv.org/abs/1907.07374), Arxiv preprint 2019
@@ -122,13 +124,9 @@ We mainly follow the taxonomy in the [survey paper](http://arxiv.org/abs/1802.01
 
 [Towards Automatic Concept-based Explanations](https://arxiv.org/pdf/1902.03129.pdf), NIPS 2019
 
-[Explaining Explanations in AI](https://arxiv.org/pdf/1811.01439.pdf), ACM FAT 2019
-
 [Explaining Deep Neural Networks with a Polynomial Time Algorithm for Shapley Value Approximation](http://proceedings.mlr.press/v97/ancona19a/ancona19a.pdf), ICML 2019
 
 [Axiomatic Interpretability for Multiclass Additive Models](https://dl.acm.org/doi/pdf/10.1145/3292500.3330898), KDD 2019
-
-[The Many Shapley Values for Model Explanation](https://arxiv.org/pdf/1908.08474.pdf), arxiv preprint 2019
 
 [Stop Explaining Black Box Machine Learning Models for High Stakes Decisions and Use Interpretable Models Instead](https://arxiv.org/pdf/1811.10154.pdf), Nature Machine Intelligence 2019
 
@@ -147,11 +145,6 @@ We mainly follow the taxonomy in the [survey paper](http://arxiv.org/abs/1802.01
 LOCO, [Distribution-Free Predictive Inference For Regression](https://arxiv.org/pdf/1604.04173.pdf), Arxiv preprint 2016
 
 [Explaining data-driven document classifications](https://www.jstor.org/stable/26554869), MIS Quarterly 2014
-
-Shapley sampling values: [Explaining prediction models and individual predictions with feature contributions](https://dl.acm.org/doi/10.1007/s10115-013-0679-x), ACM Knowledge and Information Systems 2014
-
-[Bounding the Estimation Error of Sampling-based Shapley Value Approximation](https://arxiv.org/pdf/1306.4265.pdf), arxiv preprint 2013
-
 
 ### Evaluation methods
 

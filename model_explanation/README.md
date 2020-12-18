@@ -4,6 +4,8 @@
 
 [Learning to Explain: An Information-Theoretic Perspective on Model Interpretation](http://proceedings.mlr.press/v80/chen18j/chen18j.pdf), ICML 2018
 
+[Improving Simple Models with Confidence Profiles](https://papers.nips.cc/paper/2018/file/972cda1e62b72640cb7ac702714a115f-Paper.pdf), NIPS 2018
+
 [Right for the Right Reasons: Training Differentiable Models by Constraining their Explanations](https://arxiv.org/pdf/1703.03717.pdf), arxiv preprint 2017
 
 [Learning Explanatory Rules from Noisy Data](https://arxiv.org/abs/1711.04574), Journal of Artifical Intelligence Research 2018 
