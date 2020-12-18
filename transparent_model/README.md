@@ -10,6 +10,8 @@ This family of models is self-explained and transparent to users.
 
 [Generalized Linear Rule Models](http://proceedings.mlr.press/v97/wei19a/wei19a.pdf), ICML 2019
 
+[Axiomatic Interpretability for Multiclass Additive Models](https://dl.acm.org/doi/pdf/10.1145/3292500.3330898), KDD 2019
+
 [Interpretable Convolutional Neural Networks](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Interpretable_Convolutional_Neural_CVPR_2018_paper.pdf), CVPR 2018
 
 [Boolean Decision Rules via Column Generation](https://papers.nips.cc/paper/2018/file/743394beff4b1282ba735e5e3723ed74-Paper.pdf), NIPS 2018
