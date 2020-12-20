@@ -155,6 +155,8 @@ LOCO, [Distribution-Free Predictive Inference For Regression](https://arxiv.org/
 
 ## Python Libraries(sort in alphabeta order)
 
+AIF360: [https://github.com/Trusted-AI/AIF360](https://github.com/Trusted-AI/AIF360), ![](https://img.shields.io/github/stars/Trusted-AI/AIF360.svg?style=social)
+
 AIX360: [https://github.com/IBM/AIX360](https://github.com/IBM/AIX360), ![](https://img.shields.io/github/stars/IBM/AIX360.svg?style=social)
 
 Anchor: [https://github.com/marcotcr/anchor](https://github.com/marcotcr/anchor), scikit-learn ![](https://img.shields.io/github/stars/marcotcr/anchor?style=social) 
