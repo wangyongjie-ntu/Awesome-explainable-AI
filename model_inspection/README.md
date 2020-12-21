@@ -6,6 +6,8 @@
 
 [How does this interaction affect me? Interpretable attribution for feature interactions](https://arxiv.org/abs/2006.10965), NeurIPS 2020
 
+[Automated Dependence Plots](http://www.auai.org/uai2020/proceedings/503_main_paper.pdf), UAI 2020
+
 [FEATURE INTERACTION INTERPRETABILITY: A CASE FOR EXPLAINING AD-RECOMMENDATION SYSTEMS VIA NEURAL INTERACTION DETECTION](https://openreview.net/pdf?id=BkgnhTEtDS), ICLR 2020
 
 ALE: [Visualizing the Effects of Predictor Variables in Black Box Supervised Learning Models](https://arxiv.org/abs/1612.08468), Journal of the Royal Statistical Society Series B (Statistical Methodology) 2020
