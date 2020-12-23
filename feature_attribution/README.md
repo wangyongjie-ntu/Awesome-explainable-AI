@@ -76,6 +76,10 @@ InternalInfluence, [Influence-Directed Explanations for Deep Convolutional Netwo
 
 [Grounding Visual Explanations](https://arxiv.org/abs/1807.09685), ECCV 2018
 
+RuleMatrix: [RuleMatrix: Visualizing and Understanding Classifiers with Rules](https://arxiv.org/pdf/1807.06228.pdf), TVCG 2018
+
+Manifold: [Manifold: A Model-Agnostic Framework for Interpretation and Diagnosis of Machine Learning Models](https://arxiv.org/pdf/1808.00196.pdf), TVCG 2018
+
 [Top-down neural attention by excitation backprop](https://link.springer.com/article/10.1007/s11263-017-1059-x), IJCV 2018, (ECCV 2016)
 
 [RISE: Randomized Input Sampling for Explanation of Black-box Models](http://bmvc2018.org/contents/papers/1064.pdf), BMVC 2018
