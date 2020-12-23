@@ -54,7 +54,7 @@ The two use cases of counterfactual explanations:
 
 [Generating Contrastive Explanations with Monotonic Attribute Functions](https://arxiv.org/pdf/1905.12698.pdf), Arxiv preprint 2020
 
-[ViCE: Visual Counterfactual Explanations for Machine Learning Models](https://arxiv.org/pdf/2003.02428.pdf), Arxiv preprint 2020
+[ViCE: Visual Counterfactual Explanations for Machine Learning Models](https://arxiv.org/pdf/2003.02428.pdf), IUI 2020
 
 [Model extraction from counterfactual explanations](https://arxiv.org/pdf/2009.01884.pdf), Arxiv 2020
 
