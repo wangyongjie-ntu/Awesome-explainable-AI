@@ -221,6 +221,8 @@ path_explain: [https://github.com/suinleelab/path_explain](https://github.com/su
 
 rulefit: [https://github.com/christophM/rulefit](https://github.com/christophM/rulefit), ![](https://img.shields.io/github/stars/christophM/rulefit?style=social)
 
+rulematrix: [https://github.com/rulematrix/rule-matrix-py](https://github.com/rulematrix/rule-matrix-py), ![](https://img.shields.io/github/stars/rulematrix/rule-matrix-py?style=social)
+
 Saliency: [https://github.com/PAIR-code/saliency](https://github.com/PAIR-code/saliency), Tensorflow ![](https://img.shields.io/github/stars/PAIR-code/saliency?style=social)
 
 SHAP: [https://github.com/slundberg/shap](https://github.com/slundberg/shap), Nearly all platform on Python  ![](https://img.shields.io/github/stars/slundberg/shap.svg?style=social)
