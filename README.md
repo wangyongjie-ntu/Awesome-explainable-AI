@@ -199,6 +199,8 @@ Keras-grad-cam: [https://github.com/jacobgil/keras-grad-cam](https://github.com/
 
 Keras-vis: [https://github.com/raghakot/keras-vis](https://github.com/raghakot/keras-vis), Keras ![](https://img.shields.io/github/stars/raghakot/keras-vis?style=social)
 
+keract: [https://github.com/philipperemy/keract](https://github.com/philipperemy/keract), Keras ![](https://img.shields.io/github/stars/philipperemy/keract?style=social)
+
 Lucid: [https://github.com/tensorflow/lucid](https://github.com/tensorflow/lucid), Tensorflow ![](https://img.shields.io/github/stars/tensorflow/lucid.svg?style=social) 
 
 LIT: [https://github.com/PAIR-code/lit](https://github.com/PAIR-code/lit), Tensorflow, specified for NLP Task ![](https://img.shields.io/github/stars/PAIR-code/lit?style=social)
