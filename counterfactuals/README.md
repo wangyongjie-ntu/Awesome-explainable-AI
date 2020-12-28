@@ -48,8 +48,6 @@ The two use cases of counterfactual explanations:
 
 [Efficient computation of counterfactual explanations of LVQ models](https://arxiv.org/pdf/1908.00735.pdf), Arxiv preprint 2020
 
-[Convex Density Constraints for Computing Plausible Counterfactual Explanations](https://arxiv.org/pdf/2002.04862.pdf), Arxiv preprint 2020
-
 [Plausible Counterfactuals: Auditing Deep Learning Classifiers with Realistic Adversarial Examples](https://arxiv.org/pdf/2003.11323.pdf), Arxiv preprint 2020
 
 [Generating Contrastive Explanations with Monotonic Attribute Functions](https://arxiv.org/pdf/1905.12698.pdf), Arxiv preprint 2020
@@ -100,6 +98,8 @@ The two use cases of counterfactual explanations:
 
 [Why Does My Model Fail? Contrastive Local Explanations for Retail Forecasting](https://arxiv.org/pdf/1908.00085.pdf), ACM Facct 2020
 
+[Convex Density Constraints for Computing Plausible Counterfactual Explanations](https://arxiv.org/pdf/2002.04862.pdf), ICANN 2020
+
 [Fast Real-time Counterfactual Explanations](https://arxiv.org/pdf/2007.05684.pdf), ICML 2020 Workshop
 
 [CRUDS: Counterfactual Recourse Using Disentangled Subspaces](https://finale.seas.harvard.edu/files/finale/files/cruds-_counterfactual_recourse_using_disentangled_subspaces.pdf), ICML 2020 Workshop
@@ -122,10 +122,15 @@ The two use cases of counterfactual explanations:
 
 [The Dangers of Post-hoc Interpretability: Unjustified Counterfactual Explanations](https://www.ijcai.org/proceedings/2019/388), IJCAI 2019
 
+[Multimodal Explanations by Predicting Counterfactuality in Videos](https://arxiv.org/pdf/1812.01263.pdf), CVPR 2019
+
 [Unjustified Classification Regions and Counterfactual Explanations In Machine Learning](https://ecmlpkdd2019.org/downloads/paper/226.pdf), ECML-PDKK 2019
 
+[Factual and Counterfactual Explanations for Black Box Decision Making](https://ieeexplore.ieee.org/document/8920138), IEEE Intelligent Systems 2019
 
 [Model Agnostic Contrastive Explanations for Structured Data](https://arxiv.org/pdf/1906.00117.pdf), Arxiv preprint 2019
+
+[Counterfactuals uncover the modular structure of deep generative models](https://arxiv.org/pdf/1812.03253.pdf), Arxiv preprint 2019
 
 [Towards Realistic Individual Recourse and Actionable Explanations in Black-Box Decision Making Systems](https://arxiv.org/pdf/1907.09615.pdf), Arxiv preprint 2019
 
@@ -168,6 +173,8 @@ The two use cases of counterfactual explanations:
 [Interpretable Credit Application Predictions With Counterfactual Explanations](https://arxiv.org/abs/1811.05245), Arxiv preprint 2018
 
 [Comparison-based Inverse Classification for Interpretability in Machine Learning](https://hal.sorbonne-universite.fr/hal-01905982/document), IPMU 2018
+
+[Generating Counterfactual Explanations with Natural Language](https://arxiv.org/pdf/1806.09809.pdf), ICML 2018 Workshop
 
 [Inverse Classification for Comparison-based Interpretability in Machine Learning](https://arxiv.org/pdf/1712.08443.pdf), Arxiv 2017
 
