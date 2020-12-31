@@ -166,7 +166,7 @@ The two use cases of counterfactual explanations:
 
 [Counterfactual Explanations without Opening the Black Box: Automated Decisions and the GDPR](https://arxiv.org/abs/1711.00399), Hardvard Journal of Law & Technology 2018 (strong recommend)
 
-[Explanations based on the Missing: Towards Contrastive Explanations with Pertinent Negatives](https://papers.nips.cc/paper/7340-explanations-based-on-the-missing-towards-contrastive-explanations-with-pertinent-negatives), NIPS 2018
+[Explanations based on the Missing: Towards Contrastive Explanations with Pertinent Negatives](https://papers.nips.cc/paper/7340-explanations-based-on-the-missing-towards-contrastive-explanations-with-pertinent-negatives), NIPS 2018, [code](https://github.com/IBM/Contrastive-Explanation-Method)
 
 [Interpreting Neural Network Judgments via Minimal, Stable, and Symbolic Corrections](https://arxiv.org/pdf/1802.07384.pdf), NIPS 2018
 
@@ -205,3 +205,5 @@ cf-feasibility: [https://github.com/divyat09/cf-feasibility](https://github.com/
 Mace: [https://github.com/amirhk/mace](https://github.com/amirhk/mace), Scikit-Learn, ![](https://img.shields.io/github/stars/amirhk/mace?style=social)
 
 Strategic-Decisions: [https://github.com/Networks-Learning/strategic-decisions](https://github.com/Networks-Learning/strategic-decisions), Scikit-learn ![](https://img.shields.io/github/stars/Networks-Learning/strategic-decisions?style=social)
+
+Contrastive-Explanation-Method: [https://github.com/IBM/Contrastive-Explanation-Method](https://github.com/IBM/Contrastive-Explanation-Method), Tensorflow ![](https://img.shields.io/github/stars/IBM/Contrastive-Explanation-Method?style=social)
