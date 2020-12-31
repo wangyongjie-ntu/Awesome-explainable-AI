@@ -193,6 +193,8 @@ imodels: [https://github.com/csinva/imodels](https://github.com/csinva/imodels),
 
 InterpretML: [https://github.com/interpretml/interpret](https://github.com/interpretml/interpret) ![](https://img.shields.io/github/stars/InterpretML/interpret.svg?style=social)
 
+interpret-community: [https://github.com/interpretml/interpret-community](https://github.com/interpretml/interpret-community) ![](https://img.shields.io/github/stars/InterpretML/interpret-community.svg?style=social)
+
 Integrated-Gradients: [https://github.com/ankurtaly/Integrated-Gradients](https://github.com/ankurtaly/Integrated-Gradients), Tensorflow ![](https://img.shields.io/github/stars/ankurtaly/Integrated-Gradients?style=social)
 
 Keras-grad-cam: [https://github.com/jacobgil/keras-grad-cam](https://github.com/jacobgil/keras-grad-cam), Keras ![](https://img.shields.io/github/stars/jacobgil/keras-grad-cam?style=social)
