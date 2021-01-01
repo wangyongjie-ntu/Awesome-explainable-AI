@@ -86,7 +86,7 @@ The two use cases of counterfactual explanations:
 
 [Algorithmic Recourse: from Counterfactual Explanations to Interventions](https://arxiv.org/abs/2002.06278), Arxiv preprint 2020
 
-[Learning Model-Agnostic Counterfactual Explanations for Tabular Data](https://dl.acm.org/doi/abs/10.1145/3366423.3380087),  ACM WWW 2020
+[Learning Model-Agnostic Counterfactual Explanations for Tabular Data](https://dl.acm.org/doi/abs/10.1145/3366423.3380087),  ACM WWW 2020, [code](https://github.com/MartinPawel/c-chvae)
 
 [The hidden assumptions behind counterfactual explanations and principal reasons](https://arxiv.org/pdf/1912.04930.pdf), ACM Facct 2020
 
