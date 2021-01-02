@@ -30,7 +30,7 @@ The figure below illustrates several use cases of XAI. Here we also divide the p
 
 [Machine learning interpretability: A survey on methods and metrics](https://www.mdpi.com/2079-9292/8/8/832), Electronics, 2019
 
-[A Survey on Explainable Artificial Intelligence (XAI): Towards Medical XAI](http://arxiv.org/abs/1907.07374), Arxiv preprint 2019
+[A Survey on Explainable Artificial Intelligence (XAI): Towards Medical XAI](http://arxiv.org/abs/1907.07374), IEEE TNNLS 2020
 
 [Interpretable machine learning: definitions, methods, and applications](https://arxiv.org/pdf/1901.04592.pdf), Arxiv preprint 2019
 
@@ -166,6 +166,8 @@ Alibi: [https://github.com/SeldonIO/alibi](https://github.com/SeldonIO/alibi) ![
 Alibi-detect: [https://github.com/SeldonIO/alibi-detect](https://github.com/SeldonIO/alibi-detect) ![](https://img.shields.io/github/stars/SeldonIO/alibi-detect?style=social)
 
 BlackBoxAuditing: [https://github.com/algofairness/BlackBoxAuditing](https://github.com/algofairness/BlackBoxAuditing), scikit-learn ![](https://img.shields.io/github/stars/algofairness/BlackBoxAuditing?style=social)
+
+Boruta-Shap: [https://github.com/Ekeany/Boruta-Shap](https://github.com/Ekeany/Boruta-Shap), scikit-learn ![](https://img.shields.io/github/stars/Ekeany/Boruta-Shap?style=social)
 
 casme: [https://github.com/kondiz/casme](https://github.com/kondiz/casme), Pytorch ![](https://img.shields.io/github/stars/kondiz/casme?style=social)
 
