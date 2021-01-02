@@ -4,6 +4,8 @@ This family of models is self-explained and transparent to users.
 
 ## Papers
 
+[Neural additive models: Interpretable machine learning with neural nets](https://arxiv.org/pdf/2004.13912.pdf), Arxiv preprint 2020
+
 [Training Interpretable Convolutional Neural Networks by Differentiating Class-specific Filters](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470613.pdf), ECCV 2020
 
 [Transparent Classification with Multilayer Logical Perceptrons and Random Binarization](https://arxiv.org/abs/1912.04695), AAAI 2020
