@@ -259,6 +259,8 @@ XAI: [https://github.com/EthicalML/xai](https://github.com/EthicalML/xai), sciki
 
 [https://github.com/pbiecek/xai_resources](https://github.com/pbiecek/xai_resources), ![](https://img.shields.io/github/stars/pbiecek/xai_resources?style=social)
 
+[https://github.com/h2oai/mli-resources](https://github.com/h2oai/mli-resources), ![](https://img.shields.io/github/stars/h2oai/mli-resources?style=social)
+
 
 
 ## Acknowledge
