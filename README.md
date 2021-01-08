@@ -118,6 +118,12 @@ We mainly follow the taxonomy in the [survey paper](http://arxiv.org/abs/1802.01
 
 [Explaining Knowledge Distillation by Quantifying the Knowledge](https://openaccess.thecvf.com/content_CVPR_2020/papers/Cheng_Explaining_Knowledge_Distillation_by_Quantifying_the_Knowledge_CVPR_2020_paper.pdf), CVPR 2020
 
+[Fanoos: Multi-Resolution, Multi-Strength, Interactive Explanations for Learned Systems](https://arxiv.org/pdf/2006.12453.pdf), IJCAI 2020
+
+[Machine Learning Explainability for External Stakeholders](https://arxiv.org/abs/2007.05408), IJCAI 2020
+
+[Py-CIU: A Python Library for Explaining Machine Learning Predictions Using Contextual Importance and Utility](https://www.researchgate.net/publication/344154017_Py-CIU_A_Python_Library_for_Explaining_Machine_Learning_Predictions_Using_Contextual_Importance_and_Utility), IJCAI 2020
+
 [Machine Learning Explainability for External Stakeholders](https://arxiv.org/abs/2007.05408), IJCAI 2020
 
 [Interpretable Models for Understanding Immersive Simulations](https://www.ijcai.org/Proceedings/2020/0321.pdf), IJCAI 2020
@@ -222,6 +228,8 @@ pytorch-cnn-visualizations: [https://github.com/utkuozbulak/pytorch-cnn-visualiz
 Pytorch-grad-cam: [https://github.com/jacobgil/pytorch-grad-cam](https://github.com/jacobgil/pytorch-grad-cam), Pytorch ![](https://img.shields.io/github/stars/jacobgil/pytorch-grad-cam?style=social)
 
 PDPbox: [https://github.com/SauceCat/PDPbox](https://github.com/SauceCat/PDPbox), Scikit-learn ![](https://img.shields.io/github/stars/SauceCat/PDPbox?style=social)
+
+py-ciu: [https://github.com/TimKam/py-ciu/](https://github.com/TimKam/py-ciu/), ![](https://img.shields.io/github/stars/TimKam/py-ciu/?style=social)
 
 PyCEbox: [https://github.com/AustinRochford/PyCEbox](https://github.com/AustinRochford/PyCEbox) ![](https://img.shields.io/github/stars/AustinRochford/PyCEbox?style=social)
 
