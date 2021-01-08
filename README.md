@@ -118,6 +118,8 @@ We mainly follow the taxonomy in the [survey paper](http://arxiv.org/abs/1802.01
 
 [Explaining Knowledge Distillation by Quantifying the Knowledge](https://openaccess.thecvf.com/content_CVPR_2020/papers/Cheng_Explaining_Knowledge_Distillation_by_Quantifying_the_Knowledge_CVPR_2020_paper.pdf), CVPR 2020
 
+[Machine Learning Explainability for External Stakeholders](https://arxiv.org/abs/2007.05408), IJCAI 2020
+
 [Interpretable Models for Understanding Immersive Simulations](https://www.ijcai.org/Proceedings/2020/0321.pdf), IJCAI 2020
 
 [Towards Automatic Concept-based Explanations](https://arxiv.org/pdf/1902.03129.pdf), NIPS 2019
