@@ -229,7 +229,7 @@ Pytorch-grad-cam: [https://github.com/jacobgil/pytorch-grad-cam](https://github.
 
 PDPbox: [https://github.com/SauceCat/PDPbox](https://github.com/SauceCat/PDPbox), Scikit-learn ![](https://img.shields.io/github/stars/SauceCat/PDPbox?style=social)
 
-py-ciu: [https://github.com/TimKam/py-ciu/](https://github.com/TimKam/py-ciu/), ![](https://img.shields.io/github/stars/TimKam/py-ciu/?style=social)
+py-ciu:[https://github.com/TimKam/py-ciu/](https://github.com/TimKam/py-ciu/), ![](https://img.shields.io/github/stars/TimKam/py-ciu/?style=social)
 
 PyCEbox: [https://github.com/AustinRochford/PyCEbox](https://github.com/AustinRochford/PyCEbox) ![](https://img.shields.io/github/stars/AustinRochford/PyCEbox?style=social)
 
