@@ -194,6 +194,8 @@ The two use cases of counterfactual explanations:
 
 [The Inverse Classification Problem](https://link.springer.com/article/10.1007/s11390-010-9337-x), Journal of Computer Science and Technology 2010
 
+[The cost-minimizing inverse classification problem: a genetic algorithm approach](https://www.sciencedirect.com.remotexs.ntu.edu.sg/science/article/pii/S0167923600000774), Decision Support Systems 2000
+
 ## Github Repos
 
 Alibi: [https://github.com/SeldonIO/alibi](https://github.com/SeldonIO/alibi) ![](https://img.shields.io/github/stars/SeldonIO/alibi.svg?style=social)
