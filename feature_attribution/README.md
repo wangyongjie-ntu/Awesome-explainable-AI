@@ -2,6 +2,12 @@
 
 
 ## Papers
+[Scaling Symbolic Methods using Gradients for Neural Model Explanation](https://openreview.net/forum?id=V5j-jdoDDP), ICLR 2021
+
+[Rethinking the Role of Gradient-based Attribution Methods for Model Interpretability](https://openreview.net/forum?id=dYeAHXnpWJ4), ICLR 2021
+
+[Shapley explainability on the data manifold](https://openreview.net/forum?id=OPyWRrcjVQw), ICLR 2021
+
 [ICAM: Interpretable Classification via Disentangled Representations and Feature Attribution Mapping](https://arxiv.org/abs/2006.08287), NeurIPS 2020
 
 [What went wrong and when? Instance-wise Feature Importance for Time-series Models](https://arxiv.org/abs/2003.02821), NeurIPS 2020

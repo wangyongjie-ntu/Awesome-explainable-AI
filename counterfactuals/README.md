@@ -22,6 +22,10 @@ The two use cases of counterfactual explanations:
 
 ## Papers
 
+[Interpretability Through Invertibility: A Deep Convolutional Network With Ideal Counterfactuals And Isosurfaces](https://openreview.net/forum?id=8YFhXYe1Ps)
+
+[Learning "What-if" Explanations for Sequential Decision-Making](https://openreview.net/forum?id=h0de3QWtGG), ICLR 2021
+
 [An ASP-Based Approach to Counterfactual Explanations for Classification](https://arxiv.org/pdf/2004.13237.pdf), RuleML + PR 2020
 
 [DECE: Decision Explorer with Counterfactual Explanations for Machine Learning Models](https://arxiv.org/pdf/2008.08353.pdf), TVCG 2020
@@ -43,6 +47,8 @@ The two use cases of counterfactual explanations:
 [CERTIFAI: Counterfactual Explanations for Robustness, Transparency, Interpretability, and Fairness of Artificial Intelligence models](https://arxiv.org/pdf/1905.07857.pdf),  AAAI/AIES 2020
 
 [Instance-Based Counterfactual Explanations for Time Series Classification](https://arxiv.org/pdf/2009.13211.pdf), Arxiv preprint 2020
+
+[On Relating 'Why?' and 'Why Not?' Explanations](https://arxiv.org/abs/2012.11067), Arxiv preprint 2020
 
 [Model extraction from counterfactual explanations](https://arxiv.org/pdf/2009.01884.pdf), Arxiv preprint 2020
 
