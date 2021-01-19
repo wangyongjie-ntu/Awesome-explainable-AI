@@ -3,6 +3,8 @@
 
 ## Papers
 
+[Interpreting Deep Neural Networks with Relative Sectional Propagation by Analyzing Comparative Gradients and Hostile Activations](https://arxiv.org/pdf/2012.03434.pdf), AAAI 2021
+
 [Interpreting Graph Neural Networks for NLP With Differentiable Edge Masking](https://openreview.net/forum?id=WznmQa42ZAx), ICLR 2021
 
 [Scaling Symbolic Methods using Gradients for Neural Model Explanation](https://openreview.net/forum?id=V5j-jdoDDP), ICLR 2021
