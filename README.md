@@ -280,3 +280,7 @@ Need your help to re-organize and refine current taxonomy. Thanks very very much
 I appreciate it very much if you could add more works related to XAI/XML to this repo, archive uncategoried papers or anything to enrich this repo.
 
 If any questions, feel free to contact me(yongjie.wang@ntu.edu.sg) or discuss on [Gitter **Chat**](https://gitter.im/explainable_ai/community). Welcome to discuss together.
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/wangyongjie-ntu/Awesome-explainable-AI.svg)](https://starchart.cc/wangyongjie-ntu/Awesome-explainable-AI)
