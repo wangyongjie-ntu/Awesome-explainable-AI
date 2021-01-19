@@ -1,5 +1,7 @@
 # Model Explantion
 
+[Explaining by Imitating: Understanding Decisions by Interpretable Policy Learning](https://openreview.net/forum?id=unI5ucw_Jk), ICLR 2021
+
 [Look Ma, No Latent Variables: Accurate Cutset Networks via Compilation](http://proceedings.mlr.press/v97/rahman19a/rahman19a.pdf), ICML 2019
 
 [Faithful and Customizable Explanations of Black Box Models](https://dl.acm.org/doi/pdf/10.1145/3306618.3314229), ACM AIES 2019

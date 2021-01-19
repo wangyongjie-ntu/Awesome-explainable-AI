@@ -2,6 +2,9 @@
 
 
 ## Papers
+
+[Interpreting Graph Neural Networks for NLP With Differentiable Edge Masking](https://openreview.net/forum?id=WznmQa42ZAx), ICLR 2021
+
 [Scaling Symbolic Methods using Gradients for Neural Model Explanation](https://openreview.net/forum?id=V5j-jdoDDP), ICLR 2021
 
 [Rethinking the Role of Gradient-based Attribution Methods for Model Interpretability](https://openreview.net/forum?id=dYeAHXnpWJ4), ICLR 2021
