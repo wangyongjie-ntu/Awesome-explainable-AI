@@ -4,6 +4,12 @@ This family of models is self-explained and transparent to users.
 
 ## Papers
 
+[Explanation Consistency Training: Facilitating Consistency-Based Semi-Supervised Learning with Interpretability](), AAAI 2021
+
+[TabNet: Attentive Interpretable Tabular Learning](https://arxiv.org/pdf/1908.07442.pdf), AAAI 2021
+
+[Building Interpretable Interaction Trees for Deep NLP Mode](), AAAI 2021
+
 [Shapley Explanation Networks](https://openreview.net/forum?id=vsU0efpivw), ICLR 2021
 
 [Neural additive models: Interpretable machine learning with neural nets](https://arxiv.org/pdf/2004.13912.pdf), Arxiv preprint 2020

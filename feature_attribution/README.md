@@ -3,6 +3,18 @@
 
 ## Papers
 
+[If You Like Shapley Then You’ll Love the Core](), AAAI 2021
+
+[Interpreting Deep Neural Networks with Relative Sectional Propagation by Analyzing Comparative Gradients and Hostile Activations](https://arxiv.org/pdf/2012.03434.pdf), AAAI 2021
+
+[Explaining Convolutional Neural Networks through Attribution-Based Input Sampling and Block-Wise Feature Aggregation](https://arxiv.org/pdf/2010.00672.pdf), AAAI 2021
+
+[Explainable Models with Consistent Interpretations](), AAAI 2021
+
+[On the Tractability of SHAP Explanations](https://arxiv.org/abs/2009.08634), AAAI 2021
+
+[Interpreting Multivariate Shapley Interactions in DNNs](https://arxiv.org/abs/2010.05045), AAAI 2021
+
 [Interpreting Deep Neural Networks with Relative Sectional Propagation by Analyzing Comparative Gradients and Hostile Activations](https://arxiv.org/pdf/2012.03434.pdf), AAAI 2021
 
 [Interpreting Graph Neural Networks for NLP With Differentiable Edge Masking](https://openreview.net/forum?id=WznmQa42ZAx), ICLR 2021

@@ -22,6 +22,14 @@ The two use cases of counterfactual explanations:
 
 ## Papers
 
+[Generate Your Counterfactuals: Towards Controlled Counterfactual Generation for Text](https://arxiv.org/pdf/2012.04698.pdf), AAAI 2021
+
+[Counterfactual Fairness with Disentangled Causal Effect Variational Autoencoder](https://arxiv.org/pdf/2011.11878.pdf), AAAI 2021
+
+[Counterfactual Explanations for Oblique Decision Trees: Exact, Efficient Algorithms](), AAAI 2021
+
+[Ordered Counterfactual Explanation by Mixed-Integer Linear Optimization](https://arxiv.org/abs/2012.11782), AAAI 2021
+
 [Interpretability Through Invertibility: A Deep Convolutional Network With Ideal Counterfactuals And Isosurfaces](https://openreview.net/forum?id=8YFhXYe1Ps)
 
 [Learning "What-if" Explanations for Sequential Decision-Making](https://openreview.net/forum?id=h0de3QWtGG), ICLR 2021
