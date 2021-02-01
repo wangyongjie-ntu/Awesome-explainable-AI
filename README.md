@@ -80,6 +80,8 @@ The figure below illustrates several use cases of XAI. Here we also divide the p
 
 [Interpretable Machine Learning A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/)
 
+[Limitations of Interpretable Machine Learning Methods](Limitations of Interpretable Machine Learning Methods)
+
 [An Introduction to Machine Learning Interpretability An Applied Perspective on Fairness, Accountability, Transparency,and Explainable AI](https://www.h2o.ai/wp-content/uploads/2019/08/An-Introduction-to-Machine-Learning-Interpretability-Second-Edition.pdf)
 
 ## Open Courses
