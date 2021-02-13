@@ -1,5 +1,7 @@
 # Model Explantion
 
+[Interpretable Random Forests via Rule Extraction](), AAMAS 2021
+
 [Explaining by Imitating: Understanding Decisions by Interpretable Policy Learning](https://openreview.net/forum?id=unI5ucw_Jk), ICLR 2021
 
 [Look Ma, No Latent Variables: Accurate Cutset Networks via Compilation](http://proceedings.mlr.press/v97/rahman19a/rahman19a.pdf), ICML 2019
