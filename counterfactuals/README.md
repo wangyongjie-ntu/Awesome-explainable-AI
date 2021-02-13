@@ -24,6 +24,8 @@ The two use cases of counterfactual explanations:
 
 [GeCo: Quality Counterfactual Explanations in Real Time](https://arxiv.org/pdf/2101.01292.pdf), Arxiv preprint 2021
 
+[Generating Interpretable Counterfactual Explanations By Implicit Minimisation of Epistemic and Aleatoric Uncertainties](), AISTATS 2021
+
 [Generate Your Counterfactuals: Towards Controlled Counterfactual Generation for Text](https://arxiv.org/pdf/2012.04698.pdf), AAAI 2021
 
 [Counterfactual Fairness with Disentangled Causal Effect Variational Autoencoder](https://arxiv.org/pdf/2011.11878.pdf), AAAI 2021

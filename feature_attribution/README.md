@@ -3,6 +3,10 @@
 
 ## Papers
 
+[An Analysis of LIME for Text Data](https://arxiv.org/pdf/2010.12487.pdf), AISTATS 2021
+
+[Improving KernelSHAP: Practical Shapley Value Estimation Using Linear Regression](https://arxiv.org/pdf/2012.01536.pdf), AISTATS 2021
+
 [If You Like Shapley Then You’ll Love the Core](), AAAI 2021
 
 [Interpreting Deep Neural Networks with Relative Sectional Propagation by Analyzing Comparative Gradients and Hostile Activations](https://arxiv.org/pdf/2012.03434.pdf), AAAI 2021
