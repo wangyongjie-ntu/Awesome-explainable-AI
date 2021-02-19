@@ -1,6 +1,6 @@
 # Model Explantion
 
-[Interpretable Random Forests via Rule Extraction](), AAMAS 2021
+[Interpretable Random Forests via Rule Extraction](https://arxiv.org/pdf/2004.14841.pdf), AAMAS 2021
 
 [Explaining by Imitating: Understanding Decisions by Interpretable Policy Learning](https://openreview.net/forum?id=unI5ucw_Jk), ICLR 2021
 
