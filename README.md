@@ -249,6 +249,8 @@ Saliency: [https://github.com/PAIR-code/saliency](https://github.com/PAIR-code/s
 
 SHAP: [https://github.com/slundberg/shap](https://github.com/slundberg/shap), Nearly all platform on Python  ![](https://img.shields.io/github/stars/slundberg/shap.svg?style=social)
 
+Shapley: [https://github.com/benedekrozemberczki/shapley](https://github.com/benedekrozemberczki/shapley), ![](https://img.shields.io/github/stars/benedekrozemberczki/shapley.svg?style=social)
+
 Skater: [https://github.com/oracle/Skater](https://github.com/oracle/Skater) ![](https://img.shields.io/github/stars/datascienceinc/Skater.svg?style=social)
 
 TCAV: [https://github.com/tensorflow/tcav](https://github.com/tensorflow/tcav), Tensorflow, scikit-learn ![](https://img.shields.io/github/stars/tensorflow/tcav?style=social)
