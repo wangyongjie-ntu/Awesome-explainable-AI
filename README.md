@@ -106,7 +106,7 @@ We mainly follow the taxonomy in the [survey paper](http://arxiv.org/abs/1802.01
 
 ### Uncategorized Papers on Model/Instance Explanation
 
-[Have We Learned to Explain?[(), AISTATS 2021
+[Have We Learned to Explain?](), AISTATS 2021
 
 [Does Explainable Artificial Intelligence Improve Human Decision-Making?](https://arxiv.org/abs/2006.11194), AAAI 2021
 
