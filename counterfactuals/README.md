@@ -36,6 +36,8 @@ The two use cases of counterfactual explanations:
 
 [Interpretability Through Invertibility: A Deep Convolutional Network With Ideal Counterfactuals And Isosurfaces](https://openreview.net/forum?id=8YFhXYe1Ps)
 
+[Counterfactual Generative Networks](http://www.cvlibs.net/publications/Sauer2021ICLR.pdf), ICLR 2021, [code](https://github.com/autonomousvision/counterfactual_generative_networks)
+
 [Learning "What-if" Explanations for Sequential Decision-Making](https://openreview.net/forum?id=h0de3QWtGG), ICLR 2021
 
 [An ASP-Based Approach to Counterfactual Explanations for Classification](https://arxiv.org/pdf/2004.13237.pdf), RuleML + PR 2020
