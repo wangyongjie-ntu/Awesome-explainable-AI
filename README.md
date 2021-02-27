@@ -38,6 +38,8 @@ The figure below illustrates several use cases of XAI. Here we also divide the p
 
 [Explainable Explainable Artificial Intelligence (XAI): Concepts, taxonomies, opportunities and challenges toward responsible AI](http://arxiv.org/abs/1910.10045), Information Fusion, 2019
 
+[Explanation in artificial intelligence: Insights from the social sciences](https://www.sciencedirect.com/science/article/abs/pii/S0004370218305988), Artificial Intelligence 2019
+
 [Evaluating Explanation Without Ground Truth in Interpretable Machine Learning](https://arxiv.org/pdf/1907.06831v1.pdf), Arxiv preprint 2019
 
 [A survey of methods for explaining black box models](http://arxiv.org/abs/1802.01933), ACM Computing Surveys, 2018
