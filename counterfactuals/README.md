@@ -204,6 +204,8 @@ The two use cases of counterfactual explanations:
 
 [Interpretable Predictions of Tree-based Ensembles via Actionable Feature Tweaking](https://arxiv.org/pdf/1706.06691.pdf), KDD 2017
 
+[When Worlds Collide: Integrating Different Counterfactual Assumptions in Fairness](https://proceedings.neurips.cc/paper/2017/file/1271a7029c9df08643b631b02cf9e116-Paper.pdf), NeurIPS 2017
+
 [A budget-constrained inverse classification framework for smooth classifiers](https://arxiv.org/abs/1605.09068), ICDMW 2017
 
 [Generalized Inverse Classification](https://epubs.siam.org/doi/pdf/10.1137/1.9781611974973.19), SIAM 2017
