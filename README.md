@@ -20,6 +20,8 @@ The figure below illustrates several use cases of XAI. Here we also divide the p
 
 ## Survey Papers
 
+[Benchmarking and Survey of Explanation Methods for Black Box Models](https://arxiv.org/pdf/2102.13076.pdf), Arxiv preprint 2021
+
 [The elephant in the interpretability room: Why use attention as explanation when we have saliency methods](https://arxiv.org/abs/2010.05607), EMNLP Workshop 2020
 
 [Explainable Machine Learning in Deployment](https://dl.acm.org/doi/pdf/10.1145/3351095.3375624), FAT 2020

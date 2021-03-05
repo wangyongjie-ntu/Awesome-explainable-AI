@@ -22,6 +22,8 @@ The two use cases of counterfactual explanations:
 
 ## Papers
 
+[A Few Good Counterfactuals: Generating Interpretable, Plausible & Diverse Counterfactual Explanations](https://arxiv.org/pdf/2101.09056.pdf), Arxiv preprint 2021
+
 [GeCo: Quality Counterfactual Explanations in Real Time](https://arxiv.org/pdf/2101.01292.pdf), Arxiv preprint 2021
 
 [Generating Interpretable Counterfactual Explanations By Implicit Minimisation of Epistemic and Aleatoric Uncertainties](), AISTATS 2021
