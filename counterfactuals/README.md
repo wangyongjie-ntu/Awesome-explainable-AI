@@ -62,6 +62,8 @@ The two use cases of counterfactual explanations:
 
 [CERTIFAI: Counterfactual Explanations for Robustness, Transparency, Interpretability, and Fairness of Artificial Intelligence models](https://arxiv.org/pdf/1905.07857.pdf),  AAAI/AIES 2020
 
+[FACE: Feasible and Actionable Counterfactual Explanation](https://dl.acm.org/doi/abs/10.1145/3375627.3375850), AAAI/AIES 2020
+
 [Counterfactual Explanations & Adversarial Examples](https://arxiv.org/pdf/2009.05487.pdf), Arxiv preprint 2020
 
 [Instance-Based Counterfactual Explanations for Time Series Classification](https://arxiv.org/pdf/2009.13211.pdf), Arxiv preprint 2020
@@ -115,8 +117,6 @@ The two use cases of counterfactual explanations:
 [The hidden assumptions behind counterfactual explanations and principal reasons](https://arxiv.org/pdf/1912.04930.pdf), ACM Facct 2020
 
 [Explaining Machine Learning Classifiers through Diverse Counterfactual Explanations](https://arxiv.org/pdf/1905.07697.pdf), ACM Facct 2020
-
-[FACE: Feasible and Actionable Counterfactual Explanation](https://arxiv.org/abs/1909.09369), ACM Facct 2020
 
 [The philosophical basis of algorithmic recourse](https://dl.acm.org/doi/abs/10.1145/3351095.3372876), ACM Facct 2020
 
