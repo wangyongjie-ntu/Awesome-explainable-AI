@@ -8,6 +8,10 @@ The two use cases of counterfactual explanations:
 
 ## Survey papers 
 
+[Counterfactuals and Causability in Explainable Artificial Intelligence: Theory, Algorithms, and Applications](https://arxiv.org/abs/2103.04244), Arxiv preprint 2021
+
+[A Survey of Contrastive and Counterfactual Explanation Generation Methods for Explainable Artificial Intelligence](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9321372), IEEE Access 2021
+
 [Good Counterfactuals and Where to Find Them: A Case-Based Technique for Generating Counterfactuals for Explainable AI (XAI)](https://arxiv.org/pdf/2005.13997.pdf), Arxiv preprint 2020
 
 [Counterfactual Explanations for Machine Learning: A Review](https://arxiv.org/pdf/2010.10596.pdf), Arxiv preprint 2020
