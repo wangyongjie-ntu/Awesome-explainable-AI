@@ -77,6 +77,8 @@ FullGrad, [Full-Gradient Representation for Neural Network Visualization](https:
 
 [This Looks Like That: Deep Learning for Interpretable Image Recognition](http://papers.nips.cc/paper/9095-this-looks-like-that-deep-learning-for-interpretable-image-recognition.pdf), NIPS 2019
 
+[“Why Should You Trust My Explanation?” Understanding Uncertainty in LIME Explanations](https://arxiv.org/pdf/1904.12991.pdf), ICML 2019
+
 [Gradient-Based Vs. Propagation-Based Explanations: An Axiomatic Comparison](https://link.springer.com/chapter/10.1007/978-3-030-28954-6_13), In book: Explainable AI: Interpreting, Explaining and Visualizing Deep Learning, pp.253-265, Springer 2019
 
 [The Many Shapley Values for Model Explanation](https://arxiv.org/pdf/1908.08474.pdf), arxiv preprint 2019
