@@ -204,6 +204,8 @@ The two use cases of counterfactual explanations:
 
 [Generating Counterfactual Explanations with Natural Language](https://arxiv.org/pdf/1806.09809.pdf), ICML 2018 Workshop
 
+[Interpreting Neural Network Judgments via Minimal, Stable, and Symbolic Corrections](https://proceedings.neurips.cc/paper/2018/file/300891a62162b960cf02ce3827bb363c-Paper.pdf), NeurIPS 2018
+
 [Inverse Classification for Comparison-based Interpretability in Machine Learning](https://arxiv.org/pdf/1712.08443.pdf), Arxiv 2017
 
 [Interpretable Predictions of Tree-based Ensembles via Actionable Feature Tweaking](https://arxiv.org/pdf/1706.06691.pdf), KDD 2017
