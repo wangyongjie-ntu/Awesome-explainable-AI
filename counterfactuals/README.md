@@ -160,6 +160,8 @@ The two use cases of counterfactual explanations:
 
 [Counterfactuals uncover the modular structure of deep generative models](https://arxiv.org/pdf/1812.03253.pdf), Arxiv preprint 2019
 
+[Actionable Interpretability through Optimizable Counterfactual Explanations for Tree Ensembles](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/lucic-2019-actionable-arxiv.pdf), arxiv preprint 2019
+
 [Towards Realistic Individual Recourse and Actionable Explanations in Black-Box Decision Making Systems](https://arxiv.org/pdf/1907.09615.pdf), Arxiv preprint 2019
 
 [Generative Counterfactual Introspection for Explainable Deep Learning](https://arxiv.org/abs/1907.03077), Arxiv preprint 2019
