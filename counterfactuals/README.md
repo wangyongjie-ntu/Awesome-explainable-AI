@@ -30,13 +30,13 @@ The two use cases of counterfactual explanations:
 
 [GeCo: Quality Counterfactual Explanations in Real Time](https://arxiv.org/pdf/2101.01292.pdf), Arxiv preprint 2021
 
-[Generating Interpretable Counterfactual Explanations By Implicit Minimisation of Epistemic and Aleatoric Uncertainties](), AISTATS 2021
+[Generating Interpretable Counterfactual Explanations By Implicit Minimisation of Epistemic and Aleatoric Uncertainties](https://arxiv.org/abs/2103.08951), AISTATS 2021
 
 [Generate Your Counterfactuals: Towards Controlled Counterfactual Generation for Text](https://arxiv.org/pdf/2012.04698.pdf), AAAI 2021
 
 [Counterfactual Fairness with Disentangled Causal Effect Variational Autoencoder](https://arxiv.org/pdf/2011.11878.pdf), AAAI 2021
 
-[Counterfactual Explanations for Oblique Decision Trees: Exact, Efficient Algorithms](), AAAI 2021
+[Counterfactual Explanations for Oblique Decision Trees: Exact, Efficient Algorithms](https://arxiv.org/abs/2103.01096), AAAI 2021
 
 [Ordered Counterfactual Explanation by Mixed-Integer Linear Optimization](https://arxiv.org/abs/2012.11782), AAAI 2021
 

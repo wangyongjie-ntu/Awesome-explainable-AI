@@ -13,7 +13,7 @@
 
 [Explaining Convolutional Neural Networks through Attribution-Based Input Sampling and Block-Wise Feature Aggregation](https://arxiv.org/pdf/2010.00672.pdf), AAAI 2021
 
-[Explainable Models with Consistent Interpretations](), AAAI 2021
+[Explainable Models with Consistent Interpretations](https://www.csee.umbc.edu/~hpirsiav/papers/gc_aaai21.pdf), AAAI 2021
 
 [On the Tractability of SHAP Explanations](https://arxiv.org/abs/2009.08634), AAAI 2021
 
