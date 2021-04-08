@@ -30,7 +30,7 @@ The two use cases of counterfactual explanations:
 
 [GeCo: Quality Counterfactual Explanations in Real Time](https://arxiv.org/pdf/2101.01292.pdf), Arxiv preprint 2021
 
-[Generating Interpretable Counterfactual Explanations By Implicit Minimisation of Epistemic and Aleatoric Uncertainties](https://arxiv.org/abs/2103.08951), AISTATS 2021
+[Generating Interpretable Counterfactual Explanations By Implicit Minimisation of Epistemic and Aleatoric Uncertainties](https://arxiv.org/abs/2103.08951), AISTATS 2021, [code](https://github.com/oscarkey/explanations-by-minimizing-uncertainty)
 
 [Generate Your Counterfactuals: Towards Controlled Counterfactual Generation for Text](https://arxiv.org/pdf/2012.04698.pdf), AAAI 2021
 
