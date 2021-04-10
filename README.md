@@ -26,6 +26,8 @@ The figure below illustrates several use cases of XAI. Here we also divide the p
 
 [Explainable Machine Learning in Deployment](https://dl.acm.org/doi/pdf/10.1145/3351095.3375624), FAT 2020
 
+[Interpretable Machine Learning – A Brief History, State-of-the-Art and Challenges](https://link.springer.com/chapter/10.1007/978-3-030-65965-3_28), Communications in Computer and Information Science 2020
+
 [A brief survey of visualization methods for deep learning models from the perspective of Explainable AI](https://www.macs.hw.ac.uk/~ic14/IoannisChalkiadakis_RRR.pdf), Information Visualization 2020
 
 [Explaining Explanations in AI](https://arxiv.org/pdf/1811.01439.pdf), ACM FAT 2019
