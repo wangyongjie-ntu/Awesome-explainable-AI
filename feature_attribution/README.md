@@ -65,6 +65,8 @@ Blur integrated gradient: [Attribution in Scale and Space](https://arxiv.org/pdf
 
 FullGrad, [Full-Gradient Representation for Neural Network Visualization](https://papers.nips.cc/paper/8666-full-gradient-representation-for-neural-network-visualization.pdf), NIPS 2019
 
+[Towards Automatic Concept-based Explanations](https://papers.nips.cc/paper/2019/file/77d2afcb31f6493e350fca61764efb9a-Paper.pdf), NIPS 2019
+
 [On the (In)fidelity and Sensitivity for Explanations](https://arxiv.org/abs/1901.09392v4), NIPS 2019
 
 [Interpretation of Neural Networks is Fragile](https://arxiv.org/abs/1710.10547), AAAI 2019
@@ -86,6 +88,8 @@ FullGrad, [Full-Gradient Representation for Neural Network Visualization](https:
 [Explaining the Explainer: A First Theoretical Analysis of LIME](http://arxiv.org/abs/2001.03447), arxiv preprint 2020
 
 VarGard,[Local Explanation Methods for Deep Neural Networks Lack Sensitivity to Parameter Values](https://arxiv.org/abs/1810.03307), ICLR 2018 workshop
+
+[Concise Explanations of Neural Networks using Adversarial Training](https://arxiv.org/pdf/1810.06583.pdf), ICLR 2018
 
 NoiseTunnel, [Sanity checks for saliency maps](http://arxiv.org/abs/1810.03292), NIPS 2018
 
