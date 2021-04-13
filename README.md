@@ -211,6 +211,8 @@ explainx: [https://github.com/explainX/explainx](https://github.com/explainX/exp
 
 Grad-cam-Tensorflow: [https://github.com/insikk/Grad-CAM-tensorflow](https://github.com/insikk/Grad-CAM-tensorflow), Tensorflow ![](https://img.shields.io/github/stars/insikk/Grad-CAM-tensorflow?style=social)
 
+GRACE: [https://github.com/lethaiq/GRACE_KDD20](https://github.com/lethaiq/GRACE_KDD20), Pytorch
+
 Innvestigate: [https://github.com/albermax/innvestigate](https://github.com/albermax/innvestigate), tensorflow, theano, cntk, Keras ![](https://img.shields.io/github/stars/albermax/innvestigate.svg?style=social)
 
 imodels: [https://github.com/csinva/imodels](https://github.com/csinva/imodels), ![](https://img.shields.io/github/stars/csinva/imodels.svg?style=social)
