@@ -46,6 +46,8 @@ The two use cases of counterfactual explanations:
 
 [Learning "What-if" Explanations for Sequential Decision-Making](https://openreview.net/forum?id=h0de3QWtGG), ICLR 2021
 
+[GRACE: Generating Concise and Informative Contrastive Sample to Explain Neural Network Model’s Prediction](https://arxiv.org/abs/1911.02042), KDD 2020 [code](https://github.com/lethaiq/GRACE_KDD20)
+
 [An ASP-Based Approach to Counterfactual Explanations for Classification](https://arxiv.org/pdf/2004.13237.pdf), RuleML + PR 2020
 
 [DECE: Decision Explorer with Counterfactual Explanations for Machine Learning Models](https://arxiv.org/pdf/2008.08353.pdf), TVCG 2020
