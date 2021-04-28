@@ -209,6 +209,8 @@ Eli5: [https://github.com/TeamHG-Memex/eli5](https://github.com/TeamHG-Memex/eli
 
 explainx: [https://github.com/explainX/explainx](https://github.com/explainX/explainx), xgboost, catboost ![](https://img.shields.io/github/stars/explainX/explainx?style=social)
 
+ExplainaBoard: [https://github.com/neulab/ExplainaBoard](https://github.com/neulab/ExplainaBoard), ![](https://img.shields.io/github/stars/neulab/ExplainaBoard?style=social)
+
 Grad-cam-Tensorflow: [https://github.com/insikk/Grad-CAM-tensorflow](https://github.com/insikk/Grad-CAM-tensorflow), Tensorflow ![](https://img.shields.io/github/stars/insikk/Grad-CAM-tensorflow?style=social)
 
 Innvestigate: [https://github.com/albermax/innvestigate](https://github.com/albermax/innvestigate), tensorflow, theano, cntk, Keras ![](https://img.shields.io/github/stars/albermax/innvestigate.svg?style=social)
