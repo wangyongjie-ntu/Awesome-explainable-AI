@@ -277,6 +277,8 @@ tf-explain: [https://github.com/sicara/tf-explain](https://github.com/sicara/tf-
 
 Treeinterpreter: [https://github.com/andosa/treeinterpreter](https://github.com/andosa/treeinterpreter), scikit-learn, ![](https://img.shields.io/github/stars/andosa/treeinterpreter?style=social)
 
+torch-cam: [https://github.com/frgfm/torch-cam](https://github.com/frgfm/torch-cam), Pytorch, ![](https://img.shields.io/github/stars/frgfm/torch-cam?style=social)
+
 WeightWatcher: [https://github.com/CalculatedContent/WeightWatcher](https://github.com/CalculatedContent/WeightWatcher), Keras, Pytorch ![](https://img.shields.io/github/stars/CalculatedContent/WeightWatcher?style=social)
 
 What-if-tool: [https://github.com/PAIR-code/what-if-tool](https://github.com/PAIR-code/what-if-tool), Tensorflow![](https://img.shields.io/github/stars/PAIR-code/what-if-tool?style=social)
