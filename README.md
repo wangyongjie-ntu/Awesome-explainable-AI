@@ -241,6 +241,8 @@ LOFO: [https://github.com/aerdem4/lofo-importance](https://github.com/aerdem4/lo
 
 modelStudio: [https://github.com/ModelOriented/modelStudio](https://github.com/ModelOriented/modelStudio), Keras, Tensorflow, xgboost, lightgbm, h2o ![](https://img.shields.io/github/stars/ModelOriented/modelStudio?style=social)
 
+M3d-Cam: [https://github.com/MECLabTUDA/M3d-Cam](https://github.com/MECLabTUDA/M3d-Cam), PyTorch, ![](https://img.shields.io/github/stars/MECLabTUDA/M3d-Cam?style=social)
+
 neural-backed-decision-trees: [https://github.com/alvinwan/neural-backed-decision-trees](https://github.com/alvinwan/neural-backed-decision-trees), Pytorch ![](https://img.shields.io/github/stars/alvinwan/neural-backed-decision-trees?style=social)
 
 pytorch-cnn-visualizations: [https://github.com/utkuozbulak/pytorch-cnn-visualizations](https://github.com/utkuozbulak/pytorch-cnn-visualizations), Pytorch ![](https://img.shields.io/github/stars/utkuozbulak/pytorch-cnn-visualizations?style=social)
