@@ -82,8 +82,6 @@ The two use cases of counterfactual explanations:
 
 [Plausible Counterfactuals: Auditing Deep Learning Classifiers with Realistic Adversarial Examples](https://arxiv.org/pdf/2003.11323.pdf), Arxiv preprint 2020
 
-[Generating Contrastive Explanations with Monotonic Attribute Functions](https://arxiv.org/pdf/1905.12698.pdf), Arxiv preprint 2020
-
 [ViCE: Visual Counterfactual Explanations for Machine Learning Models](https://arxiv.org/pdf/2003.02428.pdf), IUI 2020
 
 [Model extraction from counterfactual explanations](https://arxiv.org/pdf/2009.01884.pdf), Arxiv 2020
@@ -207,6 +205,8 @@ The two use cases of counterfactual explanations:
 [Comparison-based Inverse Classification for Interpretability in Machine Learning](https://hal.sorbonne-universite.fr/hal-01905982/document), IPMU 2018
 
 [Generating Counterfactual Explanations with Natural Language](https://arxiv.org/pdf/1806.09809.pdf), ICML 2018 Workshop
+
+[Grounding Visual Explanations](https://arxiv.org/pdf/1807.09685.pdf), ECCV 2018
 
 [Interpreting Neural Network Judgments via Minimal, Stable, and Symbolic Corrections](https://proceedings.neurips.cc/paper/2018/file/300891a62162b960cf02ce3827bb363c-Paper.pdf), NeurIPS 2018
 
