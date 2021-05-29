@@ -140,7 +140,7 @@ The two use cases of counterfactual explanations:
 
 [CoCoX: Generating Conceptual and Counterfactual Explanations via Fault-Lines](https://aaai.org/ojs/index.php/AAAI/article/view/5643/5499), AAAI 2020
 
-[SCOUT: Self-aware Discriminant Counterfactual Explanations](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_SCOUT_Self-Aware_Discriminant_Counterfactual_Explanations_CVPR_2020_paper.pdf), CVPR 2020
+[SCOUT: Self-aware Discriminant Counterfactual Explanations](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_SCOUT_Self-Aware_Discriminant_Counterfactual_Explanations_CVPR_2020_paper.pdf), CVPR 2020, [code](https://github.com/peiwang062/SCOUT)
 
 [Multi-Objective Counterfactual Explanations](https://arxiv.org/pdf/2004.11165.pdf), PPSN 2020
 
