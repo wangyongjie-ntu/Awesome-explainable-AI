@@ -189,6 +189,10 @@ Alibi-detect: [https://github.com/SeldonIO/alibi-detect](https://github.com/Seld
 
 BlackBoxAuditing: [https://github.com/algofairness/BlackBoxAuditing](https://github.com/algofairness/BlackBoxAuditing), scikit-learn ![](https://img.shields.io/github/stars/algofairness/BlackBoxAuditing?style=social)
 
+Brain2020: [https://github.com/vkola-lab/brain2020](https://github.com/vkola-lab/brain2020), Pytorch, 3D Brain MRI ![](https://img.shields.io/github/stars/vkola-lab/brain2020?style=social)
+
+facet: [https://github.com/BCG-Gamma/facet](https://github.com/BCG-Gamma/facet), sklearn, ![](https://img.shields.io/github/stars/BCG-Gamma/facet?style=social)
+
 Boruta-Shap: [https://github.com/Ekeany/Boruta-Shap](https://github.com/Ekeany/Boruta-Shap), scikit-learn ![](https://img.shields.io/github/stars/Ekeany/Boruta-Shap?style=social)
 
 casme: [https://github.com/kondiz/casme](https://github.com/kondiz/casme), Pytorch ![](https://img.shields.io/github/stars/kondiz/casme?style=social)
