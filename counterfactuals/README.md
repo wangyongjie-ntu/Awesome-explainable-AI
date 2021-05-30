@@ -32,6 +32,8 @@ The two use cases of counterfactual explanations:
 
 [Generating Interpretable Counterfactual Explanations By Implicit Minimisation of Epistemic and Aleatoric Uncertainties](https://arxiv.org/abs/2103.08951), AISTATS 2021, [code](https://github.com/oscarkey/explanations-by-minimizing-uncertainty)
 
+[FIMAP: Feature Importance by Minimal Adversarial Perturbation](https://www.aaai.org/AAAI21Papers/AAAI-2721.Chapman-RoundsM.pdf), AAAI 2021
+
 [Generate Your Counterfactuals: Towards Controlled Counterfactual Generation for Text](https://arxiv.org/pdf/2012.04698.pdf), AAAI 2021
 
 [Counterfactual Fairness with Disentangled Causal Effect Variational Autoencoder](https://arxiv.org/pdf/2011.11878.pdf), AAAI 2021
