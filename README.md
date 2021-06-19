@@ -122,6 +122,10 @@ We mainly follow the taxonomy in the [survey paper](http://arxiv.org/abs/1802.01
 
 [Towards Interpretable Natural Language Understanding with Explanations as Latent Variables](https://arxiv.org/abs/2011.05268), NeurIPS 2020
 
+[Learning Deep Attribution Priors Based On Prior Knowledge](https://arxiv.org/abs/1912.10065), NeurIPS 2020
+
+[Understanding Global Feature Contributions through Additive Importance Measures](https://arxiv.org/abs/2004.00668), NeurIPS 2020
+
 [Learning identifiable and interpretable latent models of high-dimensional neural activity using pi-VAE](https://arxiv.org/abs/2011.04798), NeurIPS 2020
 
 [Generative causal explanations of black-box classifiers](https://arxiv.org/abs/2006.13913), NeurIPS 2020
