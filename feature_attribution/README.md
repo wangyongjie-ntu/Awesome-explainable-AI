@@ -3,6 +3,18 @@
 
 ## Papers
 
+[Black-box Explanation of Object Detectors via Saliency Maps](https://openaccess.thecvf.com/content/CVPR2021/papers/Petsiuk_Black-Box_Explanation_of_Object_Detectors_via_Saliency_Maps_CVPR_2021_paper.pdf), CVPR 2021
+
+[Interpreting Super-Resolution Networks with Local Attribution Maps](https://openaccess.thecvf.com/content/CVPR2021/papers/Gu_Interpreting_Super-Resolution_Networks_With_Local_Attribution_Maps_CVPR_2021_paper.pdf), CVPR 2021
+
+[Transformer Interpretability Beyond Attention Visualization](https://openaccess.thecvf.com/content/CVPR2021/papers/Chefer_Transformer_Interpretability_Beyond_Attention_Visualization_CVPR_2021_paper.pdf), CVPR 2021
+
+[A Peek Into the Reasoning of Neural Networks: Interpreting with Structural Visual Concepts](https://openaccess.thecvf.com/content/CVPR2021/papers/Ge_A_Peek_Into_the_Reasoning_of_Neural_Networks_Interpreting_With_CVPR_2021_paper.pdf), CVPR 2021
+
+[Building Reliable Explanations of Unreliable Neural Networks: Locally Smoothing Perspective of Model Interpretation](https://openaccess.thecvf.com/content/CVPR2021/papers/Lim_Building_Reliable_Explanations_of_Unreliable_Neural_Networks_Locally_Smoothing_Perspective_CVPR_2021_paper.pdf), CVPR 2021
+
+[Relevance-CAM: Your Model Already Knows Where to Look](https://openaccess.thecvf.com/content/CVPR2021/papers/Lee_Relevance-CAM_Your_Model_Already_Knows_Where_To_Look_CVPR_2021_paper.pdf), CVPR 2021, [code](https://github.com/mongeoroo/Relevance-CAM)
+
 [An Analysis of LIME for Text Data](https://arxiv.org/pdf/2010.12487.pdf), AISTATS 2021
 
 [Improving KernelSHAP: Practical Shapley Value Estimation Using Linear Regression](https://arxiv.org/pdf/2012.01536.pdf), AISTATS 2021

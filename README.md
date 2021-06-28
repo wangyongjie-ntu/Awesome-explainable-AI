@@ -10,8 +10,7 @@
 
 # Awesome-explainable-AI
 
-This repository contains the frontier research on explainable AI(XAI) which is a hot topic recently. From the figure below we can see the trend of interpretable/explainable AI. The publications on this topic are booming.
-
+This repository contains the frontier research on explainable AI(XAI) which is a hot topic recently. From the figure below we can see the trend of interpretable/explainable AI. The publications on this topic are booming.  
 ![Trends](https://github.com/iversonicter/awesome-explainable-AI/blob/master/fig/Trend.png)
 
 The figure below illustrates several use cases of XAI. Here we also divide the publications into serveal categories based on this figure. It is challenging to organise these papers well. Good to hear your voice! 
@@ -113,6 +112,11 @@ We mainly follow the taxonomy in the [survey paper](http://arxiv.org/abs/1802.01
 		* [2.5.3 Prototypes&Criticisms](https://github.com/wangyongjie-ntu/Awesome-explainable-AI/tree/master/prototype_criticisms)
 
 ### Uncategorized Papers on Model/Instance Explanation
+
+[Where and What? Examining Interpretable Disentangled Representations](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhu_Where_and_What_Examining_Interpretable_Disentangled_Representations_CVPR_2021_paper.pdf), CVPR 2021
+
+[Verifiability and Predictability: Interpreting Utilities of Network Architectures
+for Point Cloud Processing](https://openaccess.thecvf.com/content/CVPR2021/papers/Shen_Verifiability_and_Predictability_Interpreting_Utilities_of_Network_Architectures_for_Point_CVPR_2021_paper.pdf), CVPR 2021
 
 [Have We Learned to Explain?](), AISTATS 2021
 
