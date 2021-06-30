@@ -55,6 +55,9 @@ The figure below illustrates several use cases of XAI. Here we also divide the p
 
 [The Mythos of Model Interpretability: In machine learning, the concept of interpretability is both important and slippery](https://arxiv.org/abs/1606.03490v3), ACM Queue 2018
 
+
+[What Do You See? Evaluation of Explainable Artificial Intelligence (XAI)
+Interpretability through Neural Backdoors
 [How Convolutional Neural Networks See the World — A Survey of Convolutional Neural Network Visualization Methods](https://arxiv.org/pdf/1804.11191.pdf), Mathematical Foundations of Computing 2018
 
 [Explainable Artificial Intelligence: Understanding, Visualizing and Interpreting Deep Learning Models](https://arxiv.org/abs/1708.08296), Arxiv 2017
@@ -113,6 +116,8 @@ We mainly follow the taxonomy in the [survey paper](http://arxiv.org/abs/1802.01
 
 ### Uncategorized Papers on Model/Instance Explanation
 
+[Why Attentions May Not Be Interpretable?](https://arxiv.org/abs/2006.05656), KDD 2021
+
 [Where and What? Examining Interpretable Disentangled Representations](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhu_Where_and_What_Examining_Interpretable_Disentangled_Representations_CVPR_2021_paper.pdf), CVPR 2021
 
 [Verifiability and Predictability: Interpreting Utilities of Network Architectures
@@ -169,6 +174,8 @@ LOCO, [Distribution-Free Predictive Inference For Regression](https://arxiv.org/
 [Explaining data-driven document classifications](https://www.jstor.org/stable/26554869), MIS Quarterly 2014
 
 ### Evaluation methods
+
+[What Do You See? Evaluation of Explainable Artificial Intelligence (XAI) Interpretability through Neural Backdoors](https://arxiv.org/pdf/2009.10639.pdf), KDD 2021
 
 [Evaluations and Methods for Explanation through Robustness Analysis](https://arxiv.org/pdf/2006.00442.pdf), arxiv preprint 2020
 

@@ -3,6 +3,16 @@
 
 ## Papers
 
+[How Interpretable and Trustworthy are GAMs?](https://arxiv.org/pdf/2006.06466.pdf), KDD 2021
+
+[Leveraging Latent Features for Local Explanations](https://arxiv.org/abs/1905.12698), KDD 2021
+
+[S-LIME: Stabilized-LIME for Model Explanation](https://arxiv.org/abs/2106.07875), KDD 2021
+
+[An Experimental Study of Quantitative Evaluations on Saliency Methods](https://arxiv.org/pdf/2012.15616.pdf), KDD 2021
+
+[TimeSHAP: Explaining Recurrent Models through Sequence Perturbations](https://arxiv.org/abs/2012.00073), KDD 2021
+
 [Black-box Explanation of Object Detectors via Saliency Maps](https://openaccess.thecvf.com/content/CVPR2021/papers/Petsiuk_Black-Box_Explanation_of_Object_Detectors_via_Saliency_Maps_CVPR_2021_paper.pdf), CVPR 2021
 
 [Interpreting Super-Resolution Networks with Local Attribution Maps](https://openaccess.thecvf.com/content/CVPR2021/papers/Gu_Interpreting_Super-Resolution_Networks_With_Local_Attribution_Maps_CVPR_2021_paper.pdf), CVPR 2021

@@ -26,6 +26,10 @@ The two use cases of counterfactual explanations:
 
 ## Papers
 
+[Model-Based Counterfactual Synthesizer for Interpretation](https://arxiv.org/pdf/2106.08971.pdf), KDD 2021
+
+[Counterfactual Graphs for Explainable Classification of Brain Networks](https://arxiv.org/abs/2106.08640), KDD 2021
+
 [A Few Good Counterfactuals: Generating Interpretable, Plausible & Diverse Counterfactual Explanations](https://arxiv.org/pdf/2101.09056.pdf), Arxiv preprint 2021
 
 [GeCo: Quality Counterfactual Explanations in Real Time](https://arxiv.org/pdf/2101.01292.pdf), Arxiv preprint 2021
