@@ -26,6 +26,8 @@ The two use cases of counterfactual explanations:
 
 ## Papers
 
+[Optimal Counterfactual Explanations in Tree Ensembles](Optimal Counterfactual Explanations in Tree Ensembles), ICML 2021
+
 [Model-Based Counterfactual Synthesizer for Interpretation](https://arxiv.org/pdf/2106.08971.pdf), KDD 2021
 
 [Counterfactual Graphs for Explainable Classification of Brain Networks](https://arxiv.org/abs/2106.08640), KDD 2021
