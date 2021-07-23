@@ -318,7 +318,7 @@ XAI: [https://github.com/EthicalML/xai](https://github.com/EthicalML/xai), sciki
 
 [https://github.com/h2oai/mli-resources](https://github.com/h2oai/mli-resources), ![](https://img.shields.io/github/stars/h2oai/mli-resources?style=social)
 
-
+[https://github.com/AstraZeneca/awesome-explainable-graph-reasoning](https://github.com/AstraZeneca/awesome-explainable-graph-reasoning), ![](https://img.shields.io/github/stars/AstraZeneca/awesome-explainable-graph-reasoning?style=social)
 
 ## Acknowledge
 
