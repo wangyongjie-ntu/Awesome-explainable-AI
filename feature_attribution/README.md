@@ -3,6 +3,12 @@
 
 ## Papers
 
+[What does LIME really see in images?](https://arxiv.org/abs/2102.06307), ICML 2021
+
+[Explanations for Monotonic Classifiers](https://arxiv.org/pdf/2106.00154.pdf), ICML 2021
+
+[Explaining Time Series Predictions with Dynamic Masks](https://arxiv.org/pdf/2106.05303.pdf), ICML 2021
+
 [How Interpretable and Trustworthy are GAMs?](https://arxiv.org/pdf/2006.06466.pdf), KDD 2021
 
 [Leveraging Latent Features for Local Explanations](https://arxiv.org/abs/1905.12698), KDD 2021

@@ -26,6 +26,8 @@ The two use cases of counterfactual explanations:
 
 ## Papers
 
+[A Language for Counterfactual Generative Models](http://proceedings.mlr.press/v139/tavares21a/tavares21a.pdf), ICML 2021
+
 [Optimal Counterfactual Explanations in Tree Ensembles](Optimal Counterfactual Explanations in Tree Ensembles), ICML 2021
 
 [Model-Based Counterfactual Synthesizer for Interpretation](https://arxiv.org/pdf/2106.08971.pdf), KDD 2021

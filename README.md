@@ -116,6 +116,8 @@ We mainly follow the taxonomy in the [survey paper](http://arxiv.org/abs/1802.01
 
 ### Uncategorized Papers on Model/Instance Explanation
 
+[On Explainability of Graph Neural Networks via Subgraph Explorations](https://arxiv.org/pdf/2102.05152.pdf), ICML 2021
+
 [Why Attentions May Not Be Interpretable?](https://arxiv.org/abs/2006.05656), KDD 2021
 
 [Where and What? Examining Interpretable Disentangled Representations](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhu_Where_and_What_Examining_Interpretable_Disentangled_Representations_CVPR_2021_paper.pdf), CVPR 2021
