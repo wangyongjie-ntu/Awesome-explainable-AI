@@ -208,8 +208,6 @@ BlackBoxAuditing: [https://github.com/algofairness/BlackBoxAuditing](https://git
 
 Brain2020: [https://github.com/vkola-lab/brain2020](https://github.com/vkola-lab/brain2020), Pytorch, 3D Brain MRI ![](https://img.shields.io/github/stars/vkola-lab/brain2020?style=social)
 
-facet: [https://github.com/BCG-Gamma/facet](https://github.com/BCG-Gamma/facet), sklearn, ![](https://img.shields.io/github/stars/BCG-Gamma/facet?style=social)
-
 Boruta-Shap: [https://github.com/Ekeany/Boruta-Shap](https://github.com/Ekeany/Boruta-Shap), scikit-learn ![](https://img.shields.io/github/stars/Ekeany/Boruta-Shap?style=social)
 
 casme: [https://github.com/kondiz/casme](https://github.com/kondiz/casme), Pytorch ![](https://img.shields.io/github/stars/kondiz/casme?style=social)
@@ -217,6 +215,8 @@ casme: [https://github.com/kondiz/casme](https://github.com/kondiz/casme), Pytor
 Captum: [https://github.com/pytorch/captum](https://github.com/pytorch/captum), Pytorch, ![](https://img.shields.io/github/stars/pytorch/captum.svg?style=social)
 
 cnn-exposed: [https://github.com/idealo/cnn-exposed](https://github.com/idealo/cnn-exposed), Tensorflow ![](https://img.shields.io/github/stars/idealo/cnn-exposed?style=social)
+
+ClusterShapley: [https://github.com/wilsonjr/ClusterShapley](https://github.com/wilsonjr/ClusterShapley), Sklearn ![](https://img.shields.io/github/stars/wilsonjr/ClusterShapley.svg?style=social)
 
 DALEX: [https://github.com/ModelOriented/DALEX](https://github.com/ModelOriented/DALEX), ![](https://img.shields.io/github/stars/ModelOriented/DALEX.svg?style=social)
 
@@ -231,6 +231,8 @@ Eli5: [https://github.com/TeamHG-Memex/eli5](https://github.com/TeamHG-Memex/eli
 explainx: [https://github.com/explainX/explainx](https://github.com/explainX/explainx), xgboost, catboost ![](https://img.shields.io/github/stars/explainX/explainx?style=social)
 
 ExplainaBoard: [https://github.com/neulab/ExplainaBoard](https://github.com/neulab/ExplainaBoard), ![](https://img.shields.io/github/stars/neulab/ExplainaBoard?style=social)
+
+Facet: [https://github.com/BCG-Gamma/facet](https://github.com/BCG-Gamma/facet), sklearn, ![](https://img.shields.io/github/stars/BCG-Gamma/facet?style=social)
 
 Grad-cam-Tensorflow: [https://github.com/insikk/Grad-CAM-tensorflow](https://github.com/insikk/Grad-CAM-tensorflow), Tensorflow ![](https://img.shields.io/github/stars/insikk/Grad-CAM-tensorflow?style=social)
 
