@@ -26,6 +26,10 @@ The two use cases of counterfactual explanations:
 
 ## Papers
 
+[Robust Counterfactual Explanations on Graph Neural Network](https://arxiv.org/pdf/2107.04086.pdf), Arxiv 2021
+
+[CF-GNNExplainer: Counterfactual Explanations for Graph Neural Networks](https://arxiv.org/abs/2102.03322), DLG-KDD 2021, [code](https://github.com/a-lucic/cf-gnnexplainer)
+
 [A Language for Counterfactual Generative Models](http://proceedings.mlr.press/v139/tavares21a/tavares21a.pdf), ICML 2021
 
 [Optimal Counterfactual Explanations in Tree Ensembles](https://arxiv.org/abs/2106.06631), ICML 2021
