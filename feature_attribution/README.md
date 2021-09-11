@@ -3,6 +3,8 @@
 
 ## Papers
 
+[On Guaranteed Optimal Robust Explanations for NLP Models](https://arxiv.org/pdf/2105.03640.pdf), IJCAI 2021
+
 [What does LIME really see in images?](https://arxiv.org/abs/2102.06307), ICML 2021
 
 [Explanations for Monotonic Classifiers](https://arxiv.org/pdf/2106.00154.pdf), ICML 2021

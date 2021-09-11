@@ -116,6 +116,14 @@ We mainly follow the taxonomy in the [survey paper](http://arxiv.org/abs/1802.01
 
 ### Uncategorized Papers on Model/Instance Explanation
 
+[Learning Groupwise Explanations for Black-Box Models](https://www.ijcai.org/proceedings/2021/0330.pdf), IJCAI 2021
+
+[On Explaining Random Forests with SAT](https://www.ijcai.org/proceedings/2021/0356.pdf), IJCAI 2021
+
+[What Changed? Interpretable Model Comparison](https://www.ijcai.org/proceedings/2021/0393.pdf), IJCAI 2021
+
+[Towards Probabilistic Sufficient Explanations](http://starai.cs.ucla.edu/papers/WangXXAI20.pdf), IJCAI 2021
+
 [On Explainability of Graph Neural Networks via Subgraph Explorations](https://arxiv.org/pdf/2102.05152.pdf), ICML 2021
 
 [Why Attentions May Not Be Interpretable?](https://arxiv.org/abs/2006.05656), KDD 2021

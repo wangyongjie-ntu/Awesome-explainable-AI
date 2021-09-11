@@ -4,6 +4,8 @@ This family of models is self-explained and transparent to users.
 
 ## Papers
 
+[Interpretable Compositional Convolutional Neural Networks](https://arxiv.org/pdf/2107.04474.pdf), IJCAI 2021
+
 [Connecting Interpretability and Robustness in Decision Trees through Separation](https://arxiv.org/pdf/2102.07048.pdf), ICML 2021
 
 [Explanation Consistency Training: Facilitating Consistency-Based Semi-Supervised Learning with Interpretability](https://cs.nju.edu.cn/liyf/paper/aaai21-ect.pdf), AAAI 2021
