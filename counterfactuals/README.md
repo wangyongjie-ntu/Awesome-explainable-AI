@@ -38,6 +38,8 @@ The two use cases of counterfactual explanations:
 
 [Model-Based Counterfactual Synthesizer for Interpretation](https://arxiv.org/pdf/2106.08971.pdf), KDD 2021
 
+[Leveraging Latent Features for Local Explanations](https://arxiv.org/pdf/1905.12698.pdf), KDD 2021
+
 [Counterfactual Graphs for Explainable Classification of Brain Networks](https://arxiv.org/abs/2106.08640), KDD 2021
 
 [A Few Good Counterfactuals: Generating Interpretable, Plausible & Diverse Counterfactual Explanations](https://arxiv.org/pdf/2101.09056.pdf), Arxiv preprint 2021
