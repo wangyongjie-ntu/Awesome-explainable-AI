@@ -26,6 +26,8 @@ The two use cases of counterfactual explanations:
 
 ## Papers
 
+[The Skyline of Counterfactual Explanations for Machine Learning Decision Models](https://dl.acm.org/doi/abs/10.1145/3459637.3482397), CIKM 2021
+
 [Counterfactual Explanations for Optimization-Based Decisions in the Context of the GDPR](https://www.ijcai.org/proceedings/2021/0564.pdf), IJCAI 2021
 
 [Robust Counterfactual Explanations on Graph Neural Network](https://arxiv.org/pdf/2107.04086.pdf), Arxiv 2021
