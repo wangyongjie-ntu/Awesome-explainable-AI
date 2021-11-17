@@ -1,5 +1,7 @@
 # Model Explantion
 
+[Learning Accurate and Interpretable Decision Rule Sets from Neural Networks](https://arxiv.org/abs/2103.02826), AAAI 2021
+
 [Interpretable Random Forests via Rule Extraction](https://arxiv.org/pdf/2004.14841.pdf), AAMAS 2021
 
 [Explaining by Imitating: Understanding Decisions by Interpretable Policy Learning](https://openreview.net/forum?id=unI5ucw_Jk), ICLR 2021

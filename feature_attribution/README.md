@@ -3,6 +3,24 @@
 
 ## Papers
 
+[One Explanation is Not Enough: Structured Attention Graphs for Image Classification](https://openreview.net/pdf?id=k5Kbs9uPGP9), NeurIPS 2021
+
+[On Locality of Local Explanation Models](https://arxiv.org/abs/2106.14648), NeurIPS 2021
+
+[Shapley Residuals: Quantifying the limits of the Shapley value for explanations](https://par.nsf.gov/servlets/purl/10187138), NeurIPS 2021
+
+[The Out-of-Distribution Problem in Explainability and Search Methods for Feature Importance Explanations](https://arxiv.org/abs/2106.00786), NeurIPS 2021
+
+[Reliable Post hoc Explanations: Modeling Uncertainty in Explainability](https://arxiv.org/abs/2008.05030), NeurIPS 2021
+
+[Look at the Variance! Efficient Black-box Explanations with Sobol-based Sensitivity Analysis](https://arxiv.org/abs/2111.04138), NeurIPS 2021
+
+[Do Input Gradients Highlight Discriminative Features?](https://arxiv.org/abs/2102.12781), NeurIPS 2021
+
+[The effectiveness of feature attribution methods and its correlation with automatic evaluation scores](https://arxiv.org/abs/2105.14944), NeurIPS 2021
+
+[From global to local MDI variable importances for random forests and when they are Shapley values](https://arxiv.org/abs/2111.02218), NeurIPS 2021
+
 [On Guaranteed Optimal Robust Explanations for NLP Models](https://arxiv.org/pdf/2105.03640.pdf), IJCAI 2021
 
 [What does LIME really see in images?](https://arxiv.org/abs/2102.06307), ICML 2021

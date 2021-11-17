@@ -116,6 +116,14 @@ We mainly follow the taxonomy in the [survey paper](http://arxiv.org/abs/1802.01
 
 ### Uncategorized Papers on Model/Instance Explanation
 
+[The Utility of Explainable AI in Ad Hoc Human-Machine Teaming](), NeurIPS 2021
+
+[Local Explanation of Dialogue Response Generation](https://arxiv.org/abs/2106.06528), NeurIPS 2021
+
+[Improving Deep Learning Interpretability by Saliency Guided Training](), NeurIPS 2021
+
+[Explaining Hyperparameter Optimization via Partial Dependence Plots](https://arxiv.org/abs/2111.04820), NeurIPS 2021
+
 [Learning Groupwise Explanations for Black-Box Models](https://www.ijcai.org/proceedings/2021/0330.pdf), IJCAI 2021
 
 [On Explaining Random Forests with SAT](https://www.ijcai.org/proceedings/2021/0356.pdf), IJCAI 2021

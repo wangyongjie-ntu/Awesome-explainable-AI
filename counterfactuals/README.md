@@ -26,6 +26,12 @@ The two use cases of counterfactual explanations:
 
 ## Papers
 
+[Learning Models for Actionable Recourse](https://arxiv.org/abs/2011.06146), NeurIPS 2021
+
+[Counterfactual Explanations in Sequential Decision Making Under Uncertainty](https://arxiv.org/abs/2107.02776), NeurIPS 2021
+
+[Counterfactual Explanations Can Be Manipulated](https://arxiv.org/abs/2106.02666), NeurIPS 2021
+
 [The Skyline of Counterfactual Explanations for Machine Learning Decision Models](https://dl.acm.org/doi/abs/10.1145/3459637.3482397), CIKM 2021
 
 [Counterfactual Explanations for Optimization-Based Decisions in the Context of the GDPR](https://www.ijcai.org/proceedings/2021/0564.pdf), IJCAI 2021

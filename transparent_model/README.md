@@ -4,6 +4,12 @@ This family of models is self-explained and transparent to users.
 
 ## Papers
 
+[Scalable Rule-Based Representation Learning for Interpretable Classification](https://arxiv.org/abs/2109.15103), NeurIPS 2021
+
+[Neural Additive Models: Interpretable Machine Learning with Neural Nets](https://arxiv.org/abs/2004.13912), NeurIPS 2021
+
+[Self-Interpretable Model with TransformationEquivariant Interpretation](https://arxiv.org/abs/2111.04927), NeurIPS 2021
+
 [Interpretable Compositional Convolutional Neural Networks](https://arxiv.org/pdf/2107.04474.pdf), IJCAI 2021
 
 [Connecting Interpretability and Robustness in Decision Trees through Separation](https://arxiv.org/pdf/2102.07048.pdf), ICML 2021
