@@ -8,6 +8,8 @@ The two use cases of counterfactual explanations:
 
 ## Survey papers 
 
+[Counterfactual Explanations for Functional Data:A Mathematical Optimization Approach](https://www.researchgate.net/profile/Jasone-Ramirez-Ayerbe/publication/357700882_Counterfactual_Explanations_for_Functional_Data_A_Mathematical_Optimization_Approach/links/61dbed08e669ee0f5c997e79/Counterfactual-Explanations-for-Functional-Data-A-Mathematical-Optimization-Approach.pdf), Preprint 2021
+
 [Counterfactuals and Causability in Explainable Artificial Intelligence: Theory, Algorithms, and Applications](https://arxiv.org/abs/2103.04244), Arxiv preprint 2021
 
 [A Survey of Contrastive and Counterfactual Explanation Generation Methods for Explainable Artificial Intelligence](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9321372), IEEE Access 2021
