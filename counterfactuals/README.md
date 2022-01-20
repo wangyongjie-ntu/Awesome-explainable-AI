@@ -28,6 +28,8 @@ The two use cases of counterfactual explanations:
 
 ## Papers
 
+[Counterfactual explanation of Bayesian model uncertainty](https://link.springer.com/article/10.1007/s00521-021-06528-z), Nerual Computing and Applications 2021
+
 [Learning Models for Actionable Recourse](https://arxiv.org/abs/2011.06146), NeurIPS 2021
 
 [Counterfactual Explanations in Sequential Decision Making Under Uncertainty](https://arxiv.org/abs/2107.02776), NeurIPS 2021
