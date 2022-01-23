@@ -1,4 +1,5 @@
 # Model Explantion
+[Optimal Local Explainer Aggregation for Interpretable Prediction](https://arxiv.org/pdf/2003.09466.pdf), AAAI 2022
 
 [Learning Accurate and Interpretable Decision Rule Sets from Neural Networks](https://arxiv.org/abs/2103.02826), AAAI 2021
 

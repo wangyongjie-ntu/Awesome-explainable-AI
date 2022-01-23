@@ -4,6 +4,8 @@ This family of models is self-explained and transparent to users.
 
 ## Papers
 
+[Entropy-based Logic Explanations of Neural Networks](https://arxiv.org/pdf/2106.06804.pdf), AAAI 2022
+
 [Scalable Rule-Based Representation Learning for Interpretable Classification](https://arxiv.org/abs/2109.15103), NeurIPS 2021
 
 [Neural Additive Models: Interpretable Machine Learning with Neural Nets](https://arxiv.org/abs/2004.13912), NeurIPS 2021
