@@ -3,6 +3,16 @@
 
 ## Papers
 
+[Explain, Edit, and Understand: Rethinking User Study Design for Evaluating Model Explanations](https://arxiv.org/pdf/2112.09669.pdf), AAAI 2022
+
+[Backdoor Attacks on the DNN Interpretation System](https://arxiv.org/pdf/2011.10698.pdf), AAAI 2022
+
+[Feature Importance Explanations for Temporal Black-Box Models](https://arxiv.org/pdf/2102.11934.pdf), AAAI 2022
+
+[Evaluating Explainable AI on a Multi-Modal Medical Imaging Task: Can Existing Algorithms Fulfill Clinical Requirements?](https://www2.cs.sfu.ca/~hamarneh/ecopy/aaai2022.pdf), AAAI 2022
+
+[Do Feature Attribution Methods Correctly Attribute Features?](https://arxiv.org/pdf/2104.14403.pdf), AAAI 2022
+
 [One Explanation is Not Enough: Structured Attention Graphs for Image Classification](https://openreview.net/pdf?id=k5Kbs9uPGP9), NeurIPS 2021
 
 [On Locality of Local Explanation Models](https://arxiv.org/abs/2106.14648), NeurIPS 2021

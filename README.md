@@ -116,6 +116,8 @@ We mainly follow the taxonomy in the [survey paper](http://arxiv.org/abs/1802.01
 
 ### Uncategorized Papers on Model/Instance Explanation
 
+[Constraint-Driven Explanations for Black Box ML Models](https://www.comp.nus.edu.sg/~meel/Papers/aaai22-snimsv.pdf), AAAI 2022
+
 [The Utility of Explainable AI in Ad Hoc Human-Machine Teaming](), NeurIPS 2021
 
 [Local Explanation of Dialogue Response Generation](https://arxiv.org/abs/2106.06528), NeurIPS 2021

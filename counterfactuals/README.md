@@ -27,6 +27,9 @@ The two use cases of counterfactual explanations:
 [Counterfactuals in Explainable Artificial Intelligence (XAI): Evidence from Human Reasoning](https://www.ijcai.org/Proceedings/2019/0876.pdf), IJCAI 2019
 
 ## Papers
+[On the Fairness of Causal Algorithmic Recourse](https://arxiv.org/pdf/2010.06529.pdf), AAAI 2022
+
+[Unsupervised Editing for Counterfactual Stories](https://arxiv.org/pdf/2112.05417.pdf), AAAI 2022
 
 [Counterfactual explanation of Bayesian model uncertainty](https://link.springer.com/article/10.1007/s00521-021-06528-z), Nerual Computing and Applications 2021
 
@@ -117,8 +120,6 @@ The two use cases of counterfactual explanations:
 [ViCE: Visual Counterfactual Explanations for Machine Learning Models](https://arxiv.org/pdf/2003.02428.pdf), IUI 2020
 
 [Model extraction from counterfactual explanations](https://arxiv.org/pdf/2009.01884.pdf), Arxiv 2020
-
-[On the Fairness of Causal Algorithmic Recourse](https://arxiv.org/pdf/2010.06529.pdf), Arxiv preprint 2020
 
 [Scaling Guarantees for Nearest Counterfactual Explanations](https://arxiv.org/abs/2010.04965), Arxiv preprint 2020
 
