@@ -26,6 +26,8 @@ The two use cases of counterfactual explanations:
 
 [Counterfactuals in Explainable Artificial Intelligence (XAI): Evidence from Human Reasoning](https://www.ijcai.org/Proceedings/2019/0876.pdf), IJCAI 2019
 
+[CONTRASTIVE EXPLANATION: A STRUCTURAL-MODEL APPROACH](https://arxiv.org/pdf/1811.03163.pdf), Arxiv preprint 2018
+
 ## Papers
 [On the Fairness of Causal Algorithmic Recourse](https://arxiv.org/pdf/2010.06529.pdf), AAAI 2022
 
