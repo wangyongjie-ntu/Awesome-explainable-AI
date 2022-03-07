@@ -29,6 +29,9 @@ The two use cases of counterfactual explanations:
 [CONTRASTIVE EXPLANATION: A STRUCTURAL-MODEL APPROACH](https://arxiv.org/pdf/1811.03163.pdf), Arxiv preprint 2018
 
 ## Papers
+
+[Learning and Evaluating Graph Neural Network Explanations based on Counterfactual and Factual Reasoning](https://arxiv.org/pdf/2202.08816.pdf), WWW 2022
+
 [On the Fairness of Causal Algorithmic Recourse](https://arxiv.org/pdf/2010.06529.pdf), AAAI 2022
 
 [Unsupervised Editing for Counterfactual Stories](https://arxiv.org/pdf/2112.05417.pdf), AAAI 2022
