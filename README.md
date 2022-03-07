@@ -55,7 +55,6 @@ The figure below illustrates several use cases of XAI. Here we also divide the p
 
 [The Mythos of Model Interpretability: In machine learning, the concept of interpretability is both important and slippery](https://arxiv.org/abs/1606.03490v3), ACM Queue 2018
 
-
 [What Do You See? Evaluation of Explainable Artificial Intelligence (XAI)
 Interpretability through Neural Backdoors
 [How Convolutional Neural Networks See the World — A Survey of Convolutional Neural Network Visualization Methods](https://arxiv.org/pdf/1804.11191.pdf), Mathematical Foundations of Computing 2018
@@ -118,11 +117,13 @@ We mainly follow the taxonomy in the [survey paper](http://arxiv.org/abs/1802.01
 
 [Constraint-Driven Explanations for Black Box ML Models](https://www.comp.nus.edu.sg/~meel/Papers/aaai22-snimsv.pdf), AAAI 2022
 
-[The Utility of Explainable AI in Ad Hoc Human-Machine Teaming](), NeurIPS 2021
+[The Utility of Explainable AI in Ad Hoc Human-Machine Teaming](https://proceedings.neurips.cc/paper/2021/file/05d74c48b5b30514d8e9bd60320fc8f6-Paper.pdf), NeurIPS 2021
+
+[On Completeness-aware Concept-Based Explanations in Deep Neural Networks](https://proceedings.neurips.cc/paper/2020/file/ecb287ff763c169694f682af52c1f309-Paper.pdf), NeurIPS 2020
 
 [Local Explanation of Dialogue Response Generation](https://arxiv.org/abs/2106.06528), NeurIPS 2021
 
-[Improving Deep Learning Interpretability by Saliency Guided Training](), NeurIPS 2021
+[Improving Deep Learning Interpretability by Saliency Guided Training](https://openreview.net/pdf?id=x4zs7eC-BsI), NeurIPS 2021
 
 [Explaining Hyperparameter Optimization via Partial Dependence Plots](https://arxiv.org/abs/2111.04820), NeurIPS 2021
 
@@ -143,7 +144,7 @@ We mainly follow the taxonomy in the [survey paper](http://arxiv.org/abs/1802.01
 [Verifiability and Predictability: Interpreting Utilities of Network Architectures
 for Point Cloud Processing](https://openaccess.thecvf.com/content/CVPR2021/papers/Shen_Verifiability_and_Predictability_Interpreting_Utilities_of_Network_Architectures_for_Point_CVPR_2021_paper.pdf), CVPR 2021
 
-[Have We Learned to Explain?](), AISTATS 2021
+[Have We Learned to Explain?: How Interpretability Methods Can Learn to Encode Predictions in their Interpretations](https://arxiv.org/abs/2103.01890), AISTATS 2021
 
 [Does Explainable Artificial Intelligence Improve Human Decision-Making?](https://arxiv.org/abs/2006.11194), AAAI 2021
 
