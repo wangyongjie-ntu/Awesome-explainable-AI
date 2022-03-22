@@ -39,6 +39,10 @@
 
 [Explaining Time Series Predictions with Dynamic Masks](https://arxiv.org/pdf/2106.05303.pdf), ICML 2021
 
+[On Explainability of Graph Neural Networks via Subgraph Explorations](http://proceedings.mlr.press/v139/yuan21c.html), ICML 2021
+
+[Generative Causal Explanations for Graph Neural Networks](http://proceedings.mlr.press/v139/lin21d/lin21d.pdf), ICML 2021
+
 [How Interpretable and Trustworthy are GAMs?](https://arxiv.org/pdf/2006.06466.pdf), KDD 2021
 
 [Leveraging Latent Features for Local Explanations](https://arxiv.org/abs/1905.12698), KDD 2021
@@ -122,6 +126,8 @@ Blur integrated gradient: [Attribution in Scale and Space](https://arxiv.org/pdf
 [On the Connection Between Adversarial Robustness and Saliency Map Interpretability](https://arxiv.org/pdf/1905.04172.pdf), ICML 2019
 
 [Explaining Deep Neural Networks with a Polynomial Time Algorithm for Shapley Value Approximation](http://proceedings.mlr.press/v97/ancona19a/ancona19a.pdf), ICML 2019
+
+[Explainability Techniques for Graph Convolutional Networks](https://arxiv.org/abs/1905.13686), ICML Workshop 2019
 
 FullGrad, [Full-Gradient Representation for Neural Network Visualization](https://papers.nips.cc/paper/8666-full-gradient-representation-for-neural-network-visualization.pdf), NeurIPS 2019
 
