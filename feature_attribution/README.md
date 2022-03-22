@@ -95,6 +95,8 @@
 
 [Asymmetric Shapley values: incorporating causal knowledge into model-agnostic explainability](https://papers.nips.cc/paper/2020/file/0d770c496aa3da6d2c3f2bd19e7b9d6b-Paper.pdf), NeurIPS 2020
 
+[Parameterized Explainer for Graph Neural Network](https://proceedings.neurips.cc/paper/2020/file/e37b08dd3015330dcbb5d6663667b8b8-Paper.pdf), NeurIPS 2020
+
 [Visualizing the Impact of Feature Attribution Baselines](https://distill.pub/2020/attribution-baselines/), Distill 2020
 
 [There and Back Again: Revisiting Backpropagation Saliency Methods](https://openaccess.thecvf.com/content_CVPR_2020/papers/Rebuffi_There_and_Back_Again_Revisiting_Backpropagation_Saliency_Methods_CVPR_2020_paper.pdf), CVPR 2020
@@ -121,11 +123,13 @@ Blur integrated gradient: [Attribution in Scale and Space](https://arxiv.org/pdf
 
 [Explaining Deep Neural Networks with a Polynomial Time Algorithm for Shapley Value Approximation](http://proceedings.mlr.press/v97/ancona19a/ancona19a.pdf), ICML 2019
 
-FullGrad, [Full-Gradient Representation for Neural Network Visualization](https://papers.nips.cc/paper/8666-full-gradient-representation-for-neural-network-visualization.pdf), NIPS 2019
+FullGrad, [Full-Gradient Representation for Neural Network Visualization](https://papers.nips.cc/paper/8666-full-gradient-representation-for-neural-network-visualization.pdf), NeurIPS 2019
 
-[Towards Automatic Concept-based Explanations](https://papers.nips.cc/paper/2019/file/77d2afcb31f6493e350fca61764efb9a-Paper.pdf), NIPS 2019
+[Towards Automatic Concept-based Explanations](https://papers.nips.cc/paper/2019/file/77d2afcb31f6493e350fca61764efb9a-Paper.pdf), NeurIPS 2019
 
-[On the (In)fidelity and Sensitivity for Explanations](https://arxiv.org/abs/1901.09392v4), NIPS 2019
+[GNNExplainer: Generating Explanations for Graph Neural Networks](https://proceedings.neurips.cc/paper/2019/hash/d80b7040b773199015de6d3b4293c8ff-Abstract.html), NeurIPS 2019
+
+[On the (In)fidelity and Sensitivity for Explanations](https://arxiv.org/abs/1901.09392v4), NeurIPS 2019
 
 [Interpretation of Neural Networks is Fragile](https://arxiv.org/abs/1710.10547), AAAI 2019
 
@@ -135,7 +139,9 @@ FullGrad, [Full-Gradient Representation for Neural Network Visualization](https:
 
 [Interpretable and Fine-Grained Visual Explanations for Convolutional Neural Networks](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wagner_Interpretable_and_Fine-Grained_Visual_Explanations_for_Convolutional_Neural_Networks_CVPR_2019_paper.pdf), CVPR 2019
 
-[This Looks Like That: Deep Learning for Interpretable Image Recognition](http://papers.nips.cc/paper/9095-this-looks-like-that-deep-learning-for-interpretable-image-recognition.pdf), NIPS 2019
+[Explainability Methods for Graph Convolutional Neural Networks](https://openaccess.thecvf.com/content_CVPR_2019/papers/Pope_Explainability_Methods_for_Graph_Convolutional_Neural_Networks_CVPR_2019_paper.pdf), CVPR 2019
+
+[This Looks Like That: Deep Learning for Interpretable Image Recognition](http://papers.nips.cc/paper/9095-this-looks-like-that-deep-learning-for-interpretable-image-recognition.pdf), NeurIPS 2019
 
 [“Why Should You Trust My Explanation?” Understanding Uncertainty in LIME Explanations](https://arxiv.org/pdf/1904.12991.pdf), ICML 2019
 
@@ -149,11 +155,11 @@ VarGard,[Local Explanation Methods for Deep Neural Networks Lack Sensitivity to 
 
 [Concise Explanations of Neural Networks using Adversarial Training](https://arxiv.org/pdf/1810.06583.pdf), ICLR 2018
 
-NoiseTunnel, [Sanity checks for saliency maps](http://arxiv.org/abs/1810.03292), NIPS 2018
+NoiseTunnel, [Sanity checks for saliency maps](http://arxiv.org/abs/1810.03292), NeurIPS 2018
 
-[Towards Robust Interpretability with Self-Explaining Neural Networks](https://papers.nips.cc/paper/8003-towards-robust-interpretability-with-self-explaining-neural-networks), NIPS 2018
+[Towards Robust Interpretability with Self-Explaining Neural Networks](https://papers.nips.cc/paper/8003-towards-robust-interpretability-with-self-explaining-neural-networks), NeurIPS 2018
 
-[Model Agnostic Supervised Local Explanations](https://arxiv.org/abs/1807.02910), NIPS 2018
+[Model Agnostic Supervised Local Explanations](https://arxiv.org/abs/1807.02910), NeurIPS 2018
 
 Integrated Gradients, [Did the Model Understand the Question?](http://arxiv.org/abs/1805.05492), ACL 2018
 
@@ -179,9 +185,9 @@ Manifold: [Manifold: A Model-Agnostic Framework for Interpretation and Diagnosis
 
 [RISE: Randomized Input Sampling for Explanation of Black-box Models](http://bmvc2018.org/contents/papers/1064.pdf), BMVC 2018
 
-Shap: [A unified approach to interpreting model predictions](http://arxiv.org/abs/1705.07874), NIPS 2017
+Shap: [A unified approach to interpreting model predictions](http://arxiv.org/abs/1705.07874), NeurIPS 2017
 
-[Real Time Image Saliency for Black Box Classifiers](https://papers.nips.cc/paper/7272-real-time-image-saliency-for-black-box-classifiers.pdf), NIPS 2017
+[Real Time Image Saliency for Black Box Classifiers](https://papers.nips.cc/paper/7272-real-time-image-saliency-for-black-box-classifiers.pdf), NeurIPS 2017
 
 [Explaining nonlinear classification decisions with deep Taylor decomposition](https://www.sciencedirect.com/science/article/pii/S0031320316303582), Pattern Recognition 2017
 
@@ -217,7 +223,7 @@ LRP: [Layer-wise relevance propagation for neural networks with local renormaliz
 
 Gradient * input: [Not Just a Black Box: Learning Important Features Through Propagating Activation Differences](https://arxiv.org/abs/1605.01713), arxiv preprint 2016
 
-InputXGradient, [Investigating the influence of noise and distractors on the interpretation of neural networks](https://arxiv.org/pdf/1611.07270.pdf), NIPS 2016
+InputXGradient, [Investigating the influence of noise and distractors on the interpretation of neural networks](https://arxiv.org/pdf/1611.07270.pdf), NeurIPS 2016
 
 epsilon-LRP, [On pixel-wise explanations for non-linear classifier decisions by layer-wise relevance propagation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4498753/), PloS one 2015
 

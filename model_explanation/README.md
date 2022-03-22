@@ -5,6 +5,8 @@
 
 [Interpretable Random Forests via Rule Extraction](https://arxiv.org/pdf/2004.14841.pdf), AAMAS 2021
 
+[XGNN: Towards Model-Level Explanations of Graph Neural Networks](https://dl.acm.org/doi/abs/10.1145/3394486.3403085), KDD 2020
+
 [Explaining by Imitating: Understanding Decisions by Interpretable Policy Learning](https://openreview.net/forum?id=unI5ucw_Jk), ICLR 2021
 
 [Look Ma, No Latent Variables: Accurate Cutset Networks via Compilation](http://proceedings.mlr.press/v97/rahman19a/rahman19a.pdf), ICML 2019
