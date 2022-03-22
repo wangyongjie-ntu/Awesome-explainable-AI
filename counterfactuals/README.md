@@ -10,6 +10,8 @@ The two use cases of counterfactual explanations:
 
 [Benchmark Evaluation of Counterfactual Algorithms for XAI: From a White box to a Black box](https://arxiv.org/pdf/2203.02399.pdf), Arxiv preprint 2022
 
+[A Framework and Benchmarking Study for Counterfactual Generating Methods on Tabular Data](https://www.mdpi.com/2076-3417/11/16/7274), Applied Sciences 2021
+
 [Counterfactual Explanations for Functional Data:A Mathematical Optimization Approach](https://www.researchgate.net/profile/Jasone-Ramirez-Ayerbe/publication/357700882_Counterfactual_Explanations_for_Functional_Data_A_Mathematical_Optimization_Approach/links/61dbed08e669ee0f5c997e79/Counterfactual-Explanations-for-Functional-Data-A-Mathematical-Optimization-Approach.pdf), Preprint 2021
 
 [Counterfactuals and Causability in Explainable Artificial Intelligence: Theory, Algorithms, and Applications](https://arxiv.org/abs/2103.04244), Arxiv preprint 2021
