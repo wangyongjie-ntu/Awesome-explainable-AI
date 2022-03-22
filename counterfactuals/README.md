@@ -32,6 +32,10 @@ The two use cases of counterfactual explanations:
 
 ## Papers
 
+[MotifExplainer: a Motif-based Graph Neural Network Explainer](https://arxiv.org/pdf/2202.00519.pdf), Arxiv 2022
+
+[CF-GNNExplainer: Counterfactual Explanations for Graph Neural Networks](https://arxiv.org/abs/2102.03322), AISTATS 2022, [code](https://github.com/a-lucic/cf-gnnexplainer)
+
 [Learning and Evaluating Graph Neural Network Explanations based on Counterfactual and Factual Reasoning](https://arxiv.org/pdf/2202.08816.pdf), WWW 2022
 
 [On the Fairness of Causal Algorithmic Recourse](https://arxiv.org/pdf/2010.06529.pdf), AAAI 2022
@@ -50,9 +54,7 @@ The two use cases of counterfactual explanations:
 
 [Counterfactual Explanations for Optimization-Based Decisions in the Context of the GDPR](https://www.ijcai.org/proceedings/2021/0564.pdf), IJCAI 2021
 
-[Robust Counterfactual Explanations on Graph Neural Network](https://arxiv.org/pdf/2107.04086.pdf), Arxiv 2021
-
-[CF-GNNExplainer: Counterfactual Explanations for Graph Neural Networks](https://arxiv.org/abs/2102.03322), DLG-KDD 2021, [code](https://github.com/a-lucic/cf-gnnexplainer)
+[Robust Counterfactual Explanations on Graph Neural Network](https://arxiv.org/pdf/2107.04086.pdf), NeurIPS 2021
 
 [A Language for Counterfactual Generative Models](http://proceedings.mlr.press/v139/tavares21a/tavares21a.pdf), ICML 2021
 
