@@ -101,6 +101,8 @@
 
 [Parameterized Explainer for Graph Neural Network](https://proceedings.neurips.cc/paper/2020/file/e37b08dd3015330dcbb5d6663667b8b8-Paper.pdf), NeurIPS 2020
 
+[PGM-Explainer: Probabilistic Graphical Model Explanations for Graph Neural Networks](https://proceedings.neurips.cc/paper/2020/file/8fb134f258b1f7865a6ab2d935a897c9-Paper.pdf), NeurIPS 2020
+
 [Visualizing the Impact of Feature Attribution Baselines](https://distill.pub/2020/attribution-baselines/), Distill 2020
 
 [There and Back Again: Revisiting Backpropagation Saliency Methods](https://openaccess.thecvf.com/content_CVPR_2020/papers/Rebuffi_There_and_Back_Again_Revisiting_Backpropagation_Saliency_Methods_CVPR_2020_paper.pdf), CVPR 2020
