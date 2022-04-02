@@ -34,6 +34,8 @@ The two use cases of counterfactual explanations:
 
 ## Papers
 
+[Cycle-Consistent Counterfactuals by Latent Transformations](https://arxiv.org/pdf/2203.15064.pdf), CVPR 2022
+
 [MotifExplainer: a Motif-based Graph Neural Network Explainer](https://arxiv.org/pdf/2202.00519.pdf), Arxiv 2022
 
 [CF-GNNExplainer: Counterfactual Explanations for Graph Neural Networks](https://arxiv.org/abs/2102.03322), AISTATS 2022, [code](https://github.com/a-lucic/cf-gnnexplainer)
