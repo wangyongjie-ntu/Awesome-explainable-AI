@@ -121,6 +121,8 @@ Blur integrated gradient: [Attribution in Scale and Space](https://arxiv.org/pdf
 
 [TOWARDS HIERARCHICAL IMPORTANCE ATTRIBUTION: EXPLAINING COMPOSITIONAL SEMANTICS FOR NEURAL SEQUENCE MODELS](https://iclr.cc/virtual_2020/poster_BkxRRkSKwr.html), ICLR 2020
 
+[Feature relevance quantification in explainable AI: A causal problem relevance quantification in explainable AI: A causal problem](http://proceedings.mlr.press/v108/janzing20a/janzing20a.pdf), AISTATS 2020
+
 [Bias also matters: Bias attribution for deep neural network explanation](http://proceedings.mlr.press/v97/wang19p.html), ICML 2019
 
 [Understanding Impacts of High-Order Loss Approximations and Features in Deep Learning Interpretation](https://arxiv.org/pdf/1902.00407.pdf), ICML 2019
