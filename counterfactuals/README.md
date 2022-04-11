@@ -34,6 +34,8 @@ The two use cases of counterfactual explanations:
 
 ## Papers
 
+[Counterfactual Models for Fair and Adequate Explanations](https://www.mdpi.com/2504-4990/4/2/14), MAKE 2022
+
 [Cycle-Consistent Counterfactuals by Latent Transformations](https://arxiv.org/pdf/2203.15064.pdf), CVPR 2022
 
 [MotifExplainer: a Motif-based Graph Neural Network Explainer](https://arxiv.org/pdf/2202.00519.pdf), Arxiv 2022
