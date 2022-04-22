@@ -251,6 +251,8 @@ explainx: [https://github.com/explainX/explainx](https://github.com/explainX/exp
 
 ExplainaBoard: [https://github.com/neulab/ExplainaBoard](https://github.com/neulab/ExplainaBoard), ![](https://img.shields.io/github/stars/neulab/ExplainaBoard?style=social)
 
+ExKMC: [https://github.com/navefr/ExKMC](https://github.com/navefr/ExKMC), Python, ![](https://img.shields.io/github/stars/navefr/ExKMC?style=social)
+
 Facet: [https://github.com/BCG-Gamma/facet](https://github.com/BCG-Gamma/facet), sklearn, ![](https://img.shields.io/github/stars/BCG-Gamma/facet?style=social)
 
 Grad-cam-Tensorflow: [https://github.com/insikk/Grad-CAM-tensorflow](https://github.com/insikk/Grad-CAM-tensorflow), Tensorflow ![](https://img.shields.io/github/stars/insikk/Grad-CAM-tensorflow?style=social)
@@ -286,6 +288,8 @@ modelStudio: [https://github.com/ModelOriented/modelStudio](https://github.com/M
 M3d-Cam: [https://github.com/MECLabTUDA/M3d-Cam](https://github.com/MECLabTUDA/M3d-Cam), PyTorch, ![](https://img.shields.io/github/stars/MECLabTUDA/M3d-Cam?style=social)
 
 neural-backed-decision-trees: [https://github.com/alvinwan/neural-backed-decision-trees](https://github.com/alvinwan/neural-backed-decision-trees), Pytorch ![](https://img.shields.io/github/stars/alvinwan/neural-backed-decision-trees?style=social)
+
+Outliertree: [https://github.com/david-cortes/outliertree](https://github.com/david-cortes/outliertree), (Python, R, C++), ![](https://img.shields.io/github/stars/david-cortes/outliertree?style=social)
 
 pytorch-cnn-visualizations: [https://github.com/utkuozbulak/pytorch-cnn-visualizations](https://github.com/utkuozbulak/pytorch-cnn-visualizations), Pytorch ![](https://img.shields.io/github/stars/utkuozbulak/pytorch-cnn-visualizations?style=social)
 
