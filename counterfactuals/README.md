@@ -90,6 +90,8 @@ The two use cases of counterfactual explanations:
 
 [Ordered Counterfactual Explanation by Mixed-Integer Linear Optimization](https://arxiv.org/abs/2012.11782), AAAI 2021
 
+[Towards Unifying Feature Attribution and Counterfactual Explanations: Different Means to the Same End](https://arxiv.org/pdf/2011.04917.pdf), AIES 2021
+
 [Interpretability Through Invertibility: A Deep Convolutional Network With Ideal Counterfactuals And Isosurfaces](https://openreview.net/forum?id=8YFhXYe1Ps)
 
 [Counterfactual Generative Networks](http://www.cvlibs.net/publications/Sauer2021ICLR.pdf), ICLR 2021, [code](https://github.com/autonomousvision/counterfactual_generative_networks)
