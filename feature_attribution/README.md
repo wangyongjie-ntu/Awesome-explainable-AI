@@ -3,6 +3,8 @@
 
 ## Papers
 
+[FastSHAP: Real-Time Shapley Value Estimation](https://openreview.net/pdf?id=Zq2G_VTV53T), ICLR 2022
+
 [Explain, Edit, and Understand: Rethinking User Study Design for Evaluating Model Explanations](https://arxiv.org/pdf/2112.09669.pdf), AAAI 2022
 
 [Backdoor Attacks on the DNN Interpretation System](https://arxiv.org/pdf/2011.10698.pdf), AAAI 2022
