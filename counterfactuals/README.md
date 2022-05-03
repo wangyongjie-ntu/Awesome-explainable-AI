@@ -7,6 +7,7 @@ The two use cases of counterfactual explanations:
 ![counterfactual explanations](https://github.com/iversonicter/awesome-explainable-ai/blob/master/fig/cf.png)
 
 ## Survey papers 
+[Counterfactual explanations and how to find them:literature review and benchmarking](https://link.springer.com/article/10.1007/s10618-022-00831-6), DMKD 2022
 
 [Benchmark Evaluation of Counterfactual Algorithms for XAI: From a White box to a Black box](https://arxiv.org/pdf/2203.02399.pdf), Arxiv preprint 2022
 
