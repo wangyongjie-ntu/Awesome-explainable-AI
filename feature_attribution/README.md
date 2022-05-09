@@ -3,6 +3,8 @@
 
 ## Papers
 
+[DERIVING EXPLAINABLE DISCRIMINATIVE ATTRIBUTES USING CONFUSION ABOUT COUNTERFACTUAL CLASS](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9747693), ICASSP 2022
+
 [FastSHAP: Real-Time Shapley Value Estimation](https://openreview.net/pdf?id=Zq2G_VTV53T), ICLR 2022
 
 [Explain, Edit, and Understand: Rethinking User Study Design for Evaluating Model Explanations](https://arxiv.org/pdf/2112.09669.pdf), AAAI 2022
