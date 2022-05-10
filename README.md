@@ -19,6 +19,8 @@ The figure below illustrates several use cases of XAI. Here we also divide the p
 
 ## Survey Papers
 
+[Interpretable machine learning:Fundamental principles and 10 grand challenges](https://projecteuclid.org/journals/statistics-surveys/volume-16/issue-none/Interpretable-machine-learning-Fundamental-principles-and-10-grand-challenges/10.1214/21-SS133.full), Statist. Survey 2022
+
 [Pitfalls of Explainable ML: An Industry Perspective](https://arxiv.org/pdf/2106.07758.pdf), Arxiv preprint 2021
 
 [Benchmarking and Survey of Explanation Methods for Black Box Models](https://arxiv.org/pdf/2102.13076.pdf), Arxiv preprint 2021
