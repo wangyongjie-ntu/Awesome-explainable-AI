@@ -77,6 +77,8 @@ The two use cases of counterfactual explanations:
 
 [Counterfactual Graphs for Explainable Classification of Brain Networks](https://arxiv.org/abs/2106.08640), KDD 2021
 
+[Polyjuice: Generating Counterfactuals for Explaining, Evaluating, and Improving Models](https://homes.cs.washington.edu/~wtshuang/static/papers/2021-acl-polyjuice.pdf), ACL 2021
+
 [A Few Good Counterfactuals: Generating Interpretable, Plausible & Diverse Counterfactual Explanations](https://arxiv.org/pdf/2101.09056.pdf), Arxiv preprint 2021
 
 [Model-agnostic and Scalable Counterfactual Explanations via Reinforcement Learning](https://arxiv.org/pdf/2106.02597.pdf), Arxiv preprint 2021

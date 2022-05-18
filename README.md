@@ -295,6 +295,8 @@ neural-backed-decision-trees: [https://github.com/alvinwan/neural-backed-decisio
 
 Outliertree: [https://github.com/david-cortes/outliertree](https://github.com/david-cortes/outliertree), (Python, R, C++), ![](https://img.shields.io/github/stars/david-cortes/outliertree?style=social)
 
+polyjuice: [https://github.com/tongshuangwu/polyjuice](https://github.com/tongshuangwu/polyjuice), (Pytorch), ![](https://img.shields.io/github/stars/tongshuangwu/polyjuice?style=social)
+
 pytorch-cnn-visualizations: [https://github.com/utkuozbulak/pytorch-cnn-visualizations](https://github.com/utkuozbulak/pytorch-cnn-visualizations), Pytorch ![](https://img.shields.io/github/stars/utkuozbulak/pytorch-cnn-visualizations?style=social)
 
 Pytorch-grad-cam: [https://github.com/jacobgil/pytorch-grad-cam](https://github.com/jacobgil/pytorch-grad-cam), Pytorch ![](https://img.shields.io/github/stars/jacobgil/pytorch-grad-cam?style=social)
