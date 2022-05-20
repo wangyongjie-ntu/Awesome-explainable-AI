@@ -121,6 +121,8 @@ The two use cases of counterfactual explanations:
 
 [Beyond Individualized Recourse: Interpretable and Interactive Summaries of Actionable Recourses](https://arxiv.org/abs/2009.07165), NeurIPS 2020
 
+[Generative causal explanations of black-box classifiers](https://papers.nips.cc/paper/2020/file/3a93a609b97ec0ab0ff5539eb79ef33a-Paper.pdf), NeurIPS 2020, [code](https://github.com/siplab-gt/generative-causal-explanations)
+
 [Learning What Makes a Difference from Counterfactual Examples and Gradient Supervision](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123550579.pdf), ECCV 2020
 
 [Counterfactual Vision-and-Language Navigation via Adversarial Path Sampler](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510069.pdf), ECCV 2020
