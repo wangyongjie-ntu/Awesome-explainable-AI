@@ -291,6 +291,8 @@ modelStudio: [https://github.com/ModelOriented/modelStudio](https://github.com/M
 
 M3d-Cam: [https://github.com/MECLabTUDA/M3d-Cam](https://github.com/MECLabTUDA/M3d-Cam), PyTorch, ![](https://img.shields.io/github/stars/MECLabTUDA/M3d-Cam?style=social)
 
+NeuroX: [https://github.com/fdalvi/NeuroX](https://github.com/fdalvi/NeuroX), PyTorch, ![](https://img.shields.io/github/stars/fdalvi/NeuroX?style=social)
+
 neural-backed-decision-trees: [https://github.com/alvinwan/neural-backed-decision-trees](https://github.com/alvinwan/neural-backed-decision-trees), Pytorch ![](https://img.shields.io/github/stars/alvinwan/neural-backed-decision-trees?style=social)
 
 Outliertree: [https://github.com/david-cortes/outliertree](https://github.com/david-cortes/outliertree), (Python, R, C++), ![](https://img.shields.io/github/stars/david-cortes/outliertree?style=social)
