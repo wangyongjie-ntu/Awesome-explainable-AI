@@ -7,6 +7,9 @@ The two use cases of counterfactual explanations:
 ![counterfactual explanations](https://github.com/iversonicter/awesome-explainable-ai/blob/master/fig/cf.png)
 
 ## Survey papers 
+
+[Can counterfactual explanations of AI systems’ predictions skew lay users’ causal intuitions about the world? If so, can we correct for that?](https://arxiv.org/pdf/2205.06241.pdf), Arxiv 2022
+
 [Counterfactual explanations and how to find them:literature review and benchmarking](https://link.springer.com/article/10.1007/s10618-022-00831-6), DMKD 2022
 
 [Benchmark Evaluation of Counterfactual Algorithms for XAI: From a White box to a Black box](https://arxiv.org/pdf/2203.02399.pdf), Arxiv preprint 2022
@@ -34,6 +37,8 @@ The two use cases of counterfactual explanations:
 [CONTRASTIVE EXPLANATION: A STRUCTURAL-MODEL APPROACH](https://arxiv.org/pdf/1811.03163.pdf), Arxiv preprint 2018
 
 ## Papers
+
+[Counterfactual Explanations for Natural Language Interfaces](https://arxiv.org/pdf/2204.13192.pdf), ACL 2022
 
 [DualCF: Efficient Model Extraction Attack from Counterfactual Explanations](https://arxiv.org/pdf/2205.06504.pdf), FaccT 2022
 
