@@ -132,6 +132,8 @@ The two use cases of counterfactual explanations:
 
 [Counterfactual Vision-and-Language Navigation via Adversarial Path Sampler](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510069.pdf), ECCV 2020
 
+[Measurable Counterfactual Local Explanations for Any Classifier](http://ecai2020.eu/papers/514_paper.pdf), ECAI 2020
+
 [CERTIFAI: Counterfactual Explanations for Robustness, Transparency, Interpretability, and Fairness of Artificial Intelligence models](https://arxiv.org/pdf/1905.07857.pdf),  AAAI/AIES 2020
 
 [FACE: Feasible and Actionable Counterfactual Explanation](https://dl.acm.org/doi/abs/10.1145/3375627.3375850), AAAI/AIES 2020
