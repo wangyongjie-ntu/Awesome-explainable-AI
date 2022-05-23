@@ -120,6 +120,8 @@ Blur integrated gradient: [Attribution in Scale and Space](https://arxiv.org/pdf
 
 [Relative Attributing Propagation: Interpreting the Comparative Contributions of Individual Units in Deep Neural Networks](https://arxiv.org/pdf/1904.00605.pdf), AAAI 2020
 
+[LS-Tree: Model Interpretation When the Data Are Linguistic](https://ojs.aaai.org/index.php/AAAI/article/view/5749/5605), AAAI 2020, [slides](https://www.jianbochen.me/files/slides_ls_tree.pdf)
+
 [Robust and Stable Black Box Explanations](https://proceedings.icml.cc/static/paper_files/icml/2020/5945-Paper.pdf), ICML 2020
 
 [Concise Explanations of Neural Networks using Adversarial Training](https://arxiv.org/pdf/1810.06583.pdf), ICML 2020
@@ -152,6 +154,8 @@ FullGrad, [Full-Gradient Representation for Neural Network Visualization](https:
 
 [Understanding Deep Networks via Extremal Perturbations and Smooth Masks](https://arxiv.org/pdf/1910.08485.pdf), ICCV 2019
 
+[L-Shapley and C-Shapley: Efficient Model Interpretation for Structured Data](https://arxiv.org/pdf/1808.02610.pdf), ICLR 2019
+
 [Interpretable and Fine-Grained Visual Explanations for Convolutional Neural Networks](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wagner_Interpretable_and_Fine-Grained_Visual_Explanations_for_Convolutional_Neural_Networks_CVPR_2019_paper.pdf), CVPR 2019
 
 [Explainability Methods for Graph Convolutional Neural Networks](https://openaccess.thecvf.com/content_CVPR_2019/papers/Pope_Explainability_Methods_for_Graph_Convolutional_Neural_Networks_CVPR_2019_paper.pdf), CVPR 2019
@@ -182,6 +186,8 @@ Neuron Integrated Gradients: [Computationally Efficient Measures of Internal Neu
 TCAV: [Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV)](https://arxiv.org/abs/1711.11279), ICML 2018
 
 [A Theoretical Explanation for Perplexing Behaviors of Backpropagation-based Visualizations](http://proceedings.mlr.press/v80/nie18a/nie18a.pdf), ICML 2018
+
+L2X: [Learning to Explain: An Information-Theoretic Perspective on Model Interpretation](https://arxiv.org/pdf/1802.07814.pdf), ICML 2018 [code](https://github.com/Jianbo-Lab/L2X)
 
 [Noise-adding Methods of Saliency Map as Series of Higher Order Partial Derivative](https://arxiv.org/pdf/1806.03000.pdf), ICML 2018 workshop
 
@@ -238,6 +244,8 @@ LRP: [Layer-wise relevance propagation for neural networks with local renormaliz
 Gradient * input: [Not Just a Black Box: Learning Important Features Through Propagating Activation Differences](https://arxiv.org/abs/1605.01713), arxiv preprint 2016
 
 InputXGradient, [Investigating the influence of noise and distractors on the interpretation of neural networks](https://arxiv.org/pdf/1611.07270.pdf), NeurIPS 2016
+
+QII, [Algorithmic Transparency via Quantitative Input Influence: Theory and Experiments with Learning Systems](https://ieeexplore.ieee.org/document/7546525), IEEE Symposium on Security and Privacy (SP)
 
 epsilon-LRP, [On pixel-wise explanations for non-linear classifier decisions by layer-wise relevance propagation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4498753/), PloS one 2015
 
