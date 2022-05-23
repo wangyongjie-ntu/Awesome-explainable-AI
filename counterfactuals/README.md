@@ -236,6 +236,8 @@ The two use cases of counterfactual explanations:
 
 [Interpretable Counterfactual Explanations Guided by Prototypes](https://arxiv.org/pdf/1907.02584.pdf), Arxiv preprint 2019
 
+[Counterfactual Story Reasoning and Generation](http://aclanthology.lst.uni-saarland.de/D19-1509.pdf), EMNLP 2019
+
 [Counterfactual Visual Explanations](https://arxiv.org/pdf/1904.07451.pdf), ICML 2019
 
 [Counterfactual Explanation Algorithms for Behavioral and Textual Data](https://arxiv.org/abs/1912.01819), Arxiv preprint 2019
