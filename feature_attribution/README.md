@@ -3,6 +3,8 @@
 
 ## Papers
 
+[Counterfactual Interpolation Augmentation (CIA): A Unified Approach to Enhance Fairness and Explainability of DNN](https://dongxiaozhu.github.io/assets/files/IJCAI2022CIA.pdf), IJCAI 2022
+
 [DERIVING EXPLAINABLE DISCRIMINATIVE ATTRIBUTES USING CONFUSION ABOUT COUNTERFACTUAL CLASS](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9747693), ICASSP 2022
 
 [FastSHAP: Real-Time Shapley Value Estimation](https://openreview.net/pdf?id=Zq2G_VTV53T), ICLR 2022
