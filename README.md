@@ -18,6 +18,7 @@ The figure below illustrates several use cases of XAI. Here we also divide the p
 ![Use cases](https://github.com/iversonicter/awesome-explainable-AI/blob/master/fig/use_cases.png)
 
 ## Survey Papers
+[From Anecdotal Evidence to Quantitative Evaluation Methods: A Systematic Review on Evaluating Explainable AI](https://arxiv.org/pdf/2201.08164.pdf), ArXiv preprint 2022. [Corresponding website with collection of XAI methods](https://utwente-dmb.github.io/xai-papers/)
 
 [Interpretable machine learning:Fundamental principles and 10 grand challenges](https://projecteuclid.org/journals/statistics-surveys/volume-16/issue-none/Interpretable-machine-learning-Fundamental-principles-and-10-grand-challenges/10.1214/21-SS133.full), Statist. Survey 2022
 
@@ -199,6 +200,7 @@ LOCO, [Distribution-Free Predictive Inference For Regression](https://arxiv.org/
 [Explaining data-driven document classifications](https://www.jstor.org/stable/26554869), MIS Quarterly 2014
 
 ### Evaluation methods
+[From Anecdotal Evidence to Quantitative Evaluation Methods: A Systematic Review on Evaluating Explainable AI](https://arxiv.org/pdf/2201.08164.pdf), ArXiv preprint 2022. [Corresponding website with collection of XAI methods](https://utwente-dmb.github.io/xai-papers/)
 
 [What Do You See? Evaluation of Explainable Artificial Intelligence (XAI) Interpretability through Neural Backdoors](https://arxiv.org/pdf/2009.10639.pdf), KDD 2021
 
@@ -352,6 +354,8 @@ XAI: [https://github.com/EthicalML/xai](https://github.com/EthicalML/xai), sciki
 [https://github.com/h2oai/mli-resources](https://github.com/h2oai/mli-resources), ![](https://img.shields.io/github/stars/h2oai/mli-resources?style=social)
 
 [https://github.com/AstraZeneca/awesome-explainable-graph-reasoning](https://github.com/AstraZeneca/awesome-explainable-graph-reasoning), ![](https://img.shields.io/github/stars/AstraZeneca/awesome-explainable-graph-reasoning?style=social)
+
+[https://github.com/utwente-dmb/xai-papers](https://github.com/utwente-dmb/xai-papers), ![](https://img.shields.io/github/stars/utwente-dmb/xai-papers?style=social)
 
 ## Acknowledge
 
