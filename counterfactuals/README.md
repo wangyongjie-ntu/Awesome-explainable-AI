@@ -38,6 +38,8 @@ The two use cases of counterfactual explanations:
 
 ## Papers
 
+[MACE: An Efficient Model-Agnostic Framework for Counterfactual Explanation](https://arxiv.org/abs/2205.15540), Arxiv 2022
+
 [Counterfactual Explanations for Natural Language Interfaces](https://arxiv.org/pdf/2204.13192.pdf), ACL 2022
 
 [DualCF: Efficient Model Extraction Attack from Counterfactual Explanations](https://arxiv.org/pdf/2205.06504.pdf), FaccT 2022
