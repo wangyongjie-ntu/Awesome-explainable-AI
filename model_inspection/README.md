@@ -2,6 +2,10 @@
 
 ## Papers
 
+[Transformer Interpretability Beyond Attention Visualization](https://arxiv.org/abs/2012.09838), CVPR 2021
+
+[Quantifying Attention Flow in Transformers](https://arxiv.org/abs/2005.00928), ACL 2020
+
 [Explaining Explanations: Axiomatic Feature Interactions for Deep Networks](https://arxiv.org/pdf/2002.04138.pdf), arxiv preprint 2020
 
 [How does this interaction affect me? Interpretable attribution for feature interactions](https://arxiv.org/abs/2006.10965), NeurIPS 2020

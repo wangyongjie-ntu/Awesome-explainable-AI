@@ -22,13 +22,17 @@ The figure below illustrates several use cases of XAI. Here we also divide the p
 
 [Interpretable machine learning:Fundamental principles and 10 grand challenges](https://projecteuclid.org/journals/statistics-surveys/volume-16/issue-none/Interpretable-machine-learning-Fundamental-principles-and-10-grand-challenges/10.1214/21-SS133.full), Statist. Survey 2022
 
+[Teach Me to Explain: A Review of Datasets for Explainable Natural Language Processing](https://arxiv.org/abs/2102.12060), NeurlIPS 2021
+
 [Pitfalls of Explainable ML: An Industry Perspective](https://arxiv.org/pdf/2106.07758.pdf), Arxiv preprint 2021
 
 [Benchmarking and Survey of Explanation Methods for Black Box Models](https://arxiv.org/pdf/2102.13076.pdf), Arxiv preprint 2021
 
+[Explainable Machine Learning in Deployment](https://dl.acm.org/doi/pdf/10.1145/3351095.3375624), FAT 2020
+
 [The elephant in the interpretability room: Why use attention as explanation when we have saliency methods](https://arxiv.org/abs/2010.05607), EMNLP Workshop 2020
 
-[Explainable Machine Learning in Deployment](https://dl.acm.org/doi/pdf/10.1145/3351095.3375624), FAT 2020
+[A Survey of the State of Explainable AI for Natural Language Processing](https://arxiv.org/abs/2010.00711), AACL-IJCNLP 2020
 
 [Interpretable Machine Learning – A Brief History, State-of-the-Art and Challenges](https://link.springer.com/chapter/10.1007/978-3-030-65965-3_28), Communications in Computer and Information Science 2020
 
@@ -200,6 +204,8 @@ LOCO, [Distribution-Free Predictive Inference For Regression](https://arxiv.org/
 [Explaining data-driven document classifications](https://www.jstor.org/stable/26554869), MIS Quarterly 2014
 
 ### Evaluation methods
+[When Can Models Learn From Explanations? A Formal Framework for Understanding the Roles of Explanation Data](https://aclanthology.org/2022.lnls-1.4/), ACL 2022
+
 [From Anecdotal Evidence to Quantitative Evaluation Methods: A Systematic Review on Evaluating Explainable AI](https://arxiv.org/pdf/2201.08164.pdf), ArXiv preprint 2022. [Corresponding website with collection of XAI methods](https://utwente-dmb.github.io/xai-papers/)
 
 [What Do You See? Evaluation of Explainable Artificial Intelligence (XAI) Interpretability through Neural Backdoors](https://arxiv.org/pdf/2009.10639.pdf), KDD 2021
