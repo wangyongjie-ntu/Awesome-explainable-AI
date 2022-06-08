@@ -60,6 +60,8 @@ The two use cases of counterfactual explanations:
 
 [Unsupervised Editing for Counterfactual Stories](https://arxiv.org/pdf/2112.05417.pdf), AAAI 2022
 
+[Getting a CLUE: A Method for Explaining Uncertainty Estimates](https://arxiv.org/abs/2006.06848), ICLR 2021
+
 [Counterfactual explanation of Bayesian model uncertainty](https://link.springer.com/article/10.1007/s00521-021-06528-z), Nerual Computing and Applications 2021
 
 [Learning Models for Actionable Recourse](https://arxiv.org/abs/2011.06146), NeurIPS 2021
