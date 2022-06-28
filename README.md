@@ -204,6 +204,9 @@ LOCO, [Distribution-Free Predictive Inference For Regression](https://arxiv.org/
 [Explaining data-driven document classifications](https://www.jstor.org/stable/26554869), MIS Quarterly 2014
 
 ### Evaluation methods
+
+[OpenXAI: Towards a Transparent Evaluation of Model Explanations](https://arxiv.org/pdf/2206.11104.pdf), Arxiv 2022
+
 [When Can Models Learn From Explanations? A Formal Framework for Understanding the Roles of Explanation Data](https://aclanthology.org/2022.lnls-1.4/), ACL 2022
 
 [From Anecdotal Evidence to Quantitative Evaluation Methods: A Systematic Review on Evaluating Explainable AI](https://arxiv.org/pdf/2201.08164.pdf), ArXiv preprint 2022. [Corresponding website with collection of XAI methods](https://utwente-dmb.github.io/xai-papers/)
