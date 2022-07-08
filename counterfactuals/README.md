@@ -38,6 +38,9 @@ The two use cases of counterfactual explanations:
 
 ## Papers
 
+[Why Am I Not Seeing It? Understanding Users’ Needs for
+Counterfactual Explanations in Everyday Recommendations](https://facctconference.org/static/pdfs_2022/facct22-106.pdf), FAccT 2022
+
 [Keep Your Friends Close and Your Counterfactuals Closer:
 Improved Learning From Closest Rather Than Plausible
 Counterfactual Explanations in an Abstract Setting](https://facctconference.org/static/pdfs_2022/facct22-164.pdf), FAccT 2022
