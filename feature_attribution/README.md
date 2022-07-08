@@ -2,6 +2,7 @@
 
 
 ## Papers
+[Human Interpretation of Saliency-based Explanation Over Text](https://facctconference.org/static/pdfs_2022/facct22-51.pdf), FAccT 2022
 
 [Counterfactual Interpolation Augmentation (CIA): A Unified Approach to Enhance Fairness and Explainability of DNN](https://dongxiaozhu.github.io/assets/files/IJCAI2022CIA.pdf), IJCAI 2022
 

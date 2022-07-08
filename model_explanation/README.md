@@ -1,4 +1,9 @@
 # Model Explantion
+
+[Model Explanations with Differential Privacy](https://facctconference.org/static/pdfs_2022/facct22-146.pdf), FAccT 2022
+
+[Equi-explanation Maps: Concise and Informative Global Summary Explanations](https://facctconference.org/static/pdfs_2022/facct22-38.pdf), FAccT 2022
+
 [Optimal Local Explainer Aggregation for Interpretable Prediction](https://arxiv.org/pdf/2003.09466.pdf), AAAI 2022
 
 [Learning Accurate and Interpretable Decision Rule Sets from Neural Networks](https://arxiv.org/abs/2103.02826), AAAI 2021

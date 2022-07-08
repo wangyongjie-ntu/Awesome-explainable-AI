@@ -38,13 +38,21 @@ The two use cases of counterfactual explanations:
 
 ## Papers
 
+[Keep Your Friends Close and Your Counterfactuals Closer:
+Improved Learning From Closest Rather Than Plausible
+Counterfactual Explanations in an Abstract Setting](https://facctconference.org/static/pdfs_2022/facct22-164.pdf), FAccT 2022
+
+[DualCF: Efficient Model Extraction Attack from Counterfactual Explanations](https://facctconference.org/static/pdfs_2022/facct22-105.pdf), FAccT 2022
+
+[Counterfactual Shapley Additive Explanations](https://facctconference.org/static/pdfs_2022/facct22-87.pdf), FAccT 2022
+
 [When adversarial attacks become interpretable Counterfactual explanations](https://arxiv.org/pdf/2206.06854.pdf), Arxiv 2022
 
 [MACE: An Efficient Model-Agnostic Framework for Counterfactual Explanation](https://arxiv.org/abs/2205.15540), Arxiv 2022
 
 [Counterfactual Explanations for Natural Language Interfaces](https://arxiv.org/pdf/2204.13192.pdf), ACL 2022
 
-[DualCF: Efficient Model Extraction Attack from Counterfactual Explanations](https://arxiv.org/pdf/2205.06504.pdf), FaccT 2022
+[DualCF: Efficient Model Extraction Attack from Counterfactual Explanations](https://arxiv.org/pdf/2205.06504.pdf), FAccT 2022
 
 [Counterfactual Explanation Trees: Transparent and Consistent Actionable Recourse with Decision Trees](https://proceedings.mlr.press/v151/kanamori22a/kanamori22a.pdf), AISTATS 2022
 
@@ -190,13 +198,13 @@ The two use cases of counterfactual explanations:
 
 [Learning Model-Agnostic Counterfactual Explanations for Tabular Data](https://dl.acm.org/doi/abs/10.1145/3366423.3380087),  ACM WWW 2020, [code](https://github.com/MartinPawel/c-chvae)
 
-[The hidden assumptions behind counterfactual explanations and principal reasons](https://arxiv.org/pdf/1912.04930.pdf), ACM Facct 2020
+[The hidden assumptions behind counterfactual explanations and principal reasons](https://arxiv.org/pdf/1912.04930.pdf), ACM FAccT 2020
 
-[Explaining Machine Learning Classifiers through Diverse Counterfactual Explanations](https://arxiv.org/pdf/1905.07697.pdf), ACM Facct 2020
+[Explaining Machine Learning Classifiers through Diverse Counterfactual Explanations](https://arxiv.org/pdf/1905.07697.pdf), ACM FAccT 2020
 
-[The philosophical basis of algorithmic recourse](https://dl.acm.org/doi/abs/10.1145/3351095.3372876), ACM Facct 2020
+[The philosophical basis of algorithmic recourse](https://dl.acm.org/doi/abs/10.1145/3351095.3372876), ACM FAccT 2020
 
-[Why Does My Model Fail? Contrastive Local Explanations for Retail Forecasting](https://arxiv.org/pdf/1908.00085.pdf), ACM Facct 2020
+[Why Does My Model Fail? Contrastive Local Explanations for Retail Forecasting](https://arxiv.org/pdf/1908.00085.pdf), ACM FAccT 2020
 
 [Convex Density Constraints for Computing Plausible Counterfactual Explanations](https://arxiv.org/pdf/2002.04862.pdf), ICANN 2020
 
@@ -258,11 +266,11 @@ The two use cases of counterfactual explanations:
 
 [Preserving Causal Constraints in Counterfactual Explanations for Machine Learning Classifiers](https://arxiv.org/abs/1912.03277), NeurIPS Workshop 2019
 
-[Actionable Recourse in Linear Classification](https://dl.acm.org/doi/pdf/10.1145/3287560.3287566), ACM Facct 2019
+[Actionable Recourse in Linear Classification](https://dl.acm.org/doi/pdf/10.1145/3287560.3287566), ACM FAccT 2019
 
 [EQUALIZING RECOURSE ACROSS GROUPS](https://arxiv.org/abs/1909.03166),  Arxiv preprint 2019
 
-[Efficient Search for Diverse Coherent Explanations](https://arxiv.org/pdf/1901.04909.pdf), ACM Facct 2019
+[Efficient Search for Diverse Coherent Explanations](https://arxiv.org/pdf/1901.04909.pdf), ACM FAccT 2019
 
 [Counterfactual explanations of machine learning predictions: opportunities and challenges for AI safety](http://ceur-ws.org/Vol-2301/paper_20.pdf), SafeAI@AAAI 2019
 
