@@ -4,6 +4,8 @@ This family of models is self-explained and transparent to users.
 
 ## Papers
 
+[Hierarchical Shrinkage:improving the accuracy and interpretability of tree-based methods](https://arxiv.org/pdf/2202.00858.pdf), ICML 2022
+
 [Entropy-based Logic Explanations of Neural Networks](https://arxiv.org/pdf/2106.06804.pdf), AAAI 2022
 
 [Scalable Rule-Based Representation Learning for Interpretable Classification](https://arxiv.org/abs/2109.15103), NeurIPS 2021

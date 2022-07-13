@@ -1,5 +1,11 @@
 # Uncategorized Papers on Model/Instance Explanation
 
+[The Conflict Between Explainable and Accountable Decision-Making Algorithms](https://facctconference.org/static/pdfs_2022/facct22-162.pdf), FAccT 2022
+
+[Post-Hoc Explanations Fail to Achieve their Purpose in Adversarial Contexts](https://facctconference.org/static/pdfs_2022/facct22-73.pdf), FAccT 2022
+
+[The Road to Explainability is Paved with Bias: Measuring the Fairness of Explanations](https://facctconference.org/static/pdfs_2022/facct22-97.pdf), FAccT 2022
+
 [How Explainability Contributes to Trust in AI](https://facctconference.org/static/pdfs_2022/facct22-117.pdf), FAccT 2022
 
 [“There Is Not Enough Information”: On the Effects of Explanations on Perceptions of Informational Fairness and Trustworthiness in Automated Decision-Making](https://facctconference.org/static/pdfs_2022/facct22-130.pdf), FaccT 2022

@@ -38,6 +38,10 @@ The two use cases of counterfactual explanations:
 
 ## Papers
 
+[A query-optimal algorithm for finding counterfactuals](https://proceedings.mlr.press/v162/blanc22a/blanc22a.pdf), ICLM 2022
+
+[Revisiting Contrastive Learning through the Lens of Neighborhood Component Analysis: an Integrated Framework](https://proceedings.mlr.press/v162/ko22a/ko22a.pdf), ICML 2022
+
 [Robust Counterfactual Explanations for Tree-Based Ensembles](https://arxiv.org/abs/2207.02739), ICML 2022
 
 [Why Am I Not Seeing It? Understanding Users’ Needs for
