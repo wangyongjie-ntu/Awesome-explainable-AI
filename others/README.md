@@ -43,6 +43,8 @@ for Point Cloud Processing](https://openaccess.thecvf.com/content/CVPR2021/paper
 
 [Does Explainable Artificial Intelligence Improve Human Decision-Making?](https://arxiv.org/abs/2006.11194), AAAI 2021
 
+[Robustness in machine learning explanations: does it matter?](https://dl.acm.org/doi/abs/10.1145/3351095.3372836), FAccT 2020
+
 [Incorporating Interpretable Output Constraints in Bayesian Neural Networks](https://arxiv.org/abs/2010.10969), NeuIPS 2020
 
 [Towards Interpretable Natural Language Understanding with Explanations as Latent Variables](https://arxiv.org/abs/2011.05268), NeurIPS 2020
