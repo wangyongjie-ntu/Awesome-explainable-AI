@@ -2,6 +2,26 @@
 
 
 ## Papers
+
+[Framework for Evaluating Faithfulness of Local Explanations](https://arxiv.org/pdf/2202.00734.pdf), ICML 2022
+
+[XAI for Transformers: Better Explanations through Conservative Propagation](https://arxiv.org/pdf/2202.07304.pdf), ICML 2022
+
+[A Functional Information Perspective on Model Interpretation](https://arxiv.org/pdf/2206.05700.pdf), ICML 2022
+
+[A Psychological Theory of Explainability](https://arxiv.org/pdf/2205.08452.pdf), ICML 2022
+
+[A Consistent and Efficient Evaluation Strategy
+for Attribution Methods](https://arxiv.org/pdf/2202.00449.pdf), ICML 2022
+
+[A Rigorous Study of Integrated Gradients Method
+and Extensions to Internal Neuron Attributions](https://arxiv.org/pdf/2202.11912v2.pdf), ICML 2022
+
+[Interpretable Neural Networks with Frank-Wolfe:
+Sparse Relevance Maps and Relevance Orderings](https://proceedings.mlr.press/v162/macdonald22a/macdonald22a.pdf), ICML 2022
+
+[Rational Shapley Values](https://facctconference.org/static/pdfs_2022/facct22-89.pdf), FAccT 2022
+
 [Human Interpretation of Saliency-based Explanation Over Text](https://facctconference.org/static/pdfs_2022/facct22-51.pdf), FAccT 2022
 
 [Counterfactual Interpolation Augmentation (CIA): A Unified Approach to Enhance Fairness and Explainability of DNN](https://dongxiaozhu.github.io/assets/files/IJCAI2022CIA.pdf), IJCAI 2022
@@ -59,9 +79,7 @@
 
 [TimeSHAP: Explaining Recurrent Models through Sequence Perturbations](https://arxiv.org/abs/2012.00073), KDD 2021
 
-[Black-box Explanation of Object Detectors via Saliency Maps](https://openaccess.thecvf.com/content/CVPR2021/papers/Petsiuk_Black-Box_Explanation_of_Object_Detectors_via_Saliency_Maps_CVPR_2021_paper.pdf), CVPR 2021
-
-[Interpreting Super-Resolution Networks with Local Attribution Maps](https://openaccess.thecvf.com/content/CVPR2021/papers/Gu_Interpreting_Super-Resolution_Networks_With_Local_Attribution_Maps_CVPR_2021_paper.pdf), CVPR 2021
+[Black-box Explanation of Object Detectors via Saliency Maps](https://openaccess.thecvf.com/content/CVPR2021/papers/Petsiuk_Black-Box_Explanation_of_Object_Detectors_via_Saliency_Maps_CVPR_2021_paper.pdf), CVPR 2021 [Interpreting Super-Resolution Networks with Local Attribution Maps](https://openaccess.thecvf.com/content/CVPR2021/papers/Gu_Interpreting_Super-Resolution_Networks_With_Local_Attribution_Maps_CVPR_2021_paper.pdf), CVPR 2021
 
 [Transformer Interpretability Beyond Attention Visualization](https://openaccess.thecvf.com/content/CVPR2021/papers/Chefer_Transformer_Interpretability_Beyond_Attention_Visualization_CVPR_2021_paper.pdf), CVPR 2021
 
