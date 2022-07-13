@@ -65,6 +65,8 @@ Counterfactual Explanations in an Abstract Setting](https://facctconference.org/
 
 [Counterfactual Explanation Trees: Transparent and Consistent Actionable Recourse with Decision Trees](https://proceedings.mlr.press/v151/kanamori22a/kanamori22a.pdf), AISTATS 2022
 
+[Consistent Counterfactuals for Deep Models](https://openreview.net/pdf?id=St6eyiTEHnG), ICLR 2022
+
 [Counterfactual Models for Fair and Adequate Explanations](https://www.mdpi.com/2504-4990/4/2/14), MAKE 2022
 
 [Cycle-Consistent Counterfactuals by Latent Transformations](https://arxiv.org/pdf/2203.15064.pdf), CVPR 2022
@@ -88,6 +90,8 @@ Counterfactual Explanations in an Abstract Setting](https://facctconference.org/
 [Counterfactual Explanations in Sequential Decision Making Under Uncertainty](https://arxiv.org/abs/2107.02776), NeurIPS 2021
 
 [Counterfactual Explanations Can Be Manipulated](https://arxiv.org/abs/2106.02666), NeurIPS 2021
+
+[Towards Robust and Reliable Algorithmic Recourse](https://arxiv.org/pdf/2102.13620.pdf), NeurIPS 2021
 
 [The Skyline of Counterfactual Explanations for Machine Learning Decision Models](https://dl.acm.org/doi/abs/10.1145/3459637.3482397), CIKM 2021
 
