@@ -3,7 +3,7 @@
 
 ## Papers
 
-[Framework for Evaluating Faithfulness of Local Explanations](https://arxiv.org/pdf/2202.00734.pdf), ICML 2022
+[Accelerating Shapley Explanation via Contributive Cooperator Selection](https://arxiv.org/pdf/2206.08529.pdf), ICML 2022
 
 [Framework for Evaluating Faithfulness of Local Explanations](https://arxiv.org/pdf/2202.00734.pdf), ICML 2022
 
