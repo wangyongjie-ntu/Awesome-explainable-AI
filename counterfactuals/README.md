@@ -38,6 +38,8 @@ The two use cases of counterfactual explanations:
 
 ## Papers
 
+[Robust Counterfactual Explanations for Tree-Based Ensembles](https://arxiv.org/abs/2207.02739), ICML 2022
+
 [Why Am I Not Seeing It? Understanding Users’ Needs for
 Counterfactual Explanations in Everyday Recommendations](https://facctconference.org/static/pdfs_2022/facct22-106.pdf), FAccT 2022
 
@@ -53,9 +55,9 @@ Counterfactual Explanations in an Abstract Setting](https://facctconference.org/
 
 [MACE: An Efficient Model-Agnostic Framework for Counterfactual Explanation](https://arxiv.org/abs/2205.15540), Arxiv 2022
 
-[Counterfactual Explanations for Natural Language Interfaces](https://arxiv.org/pdf/2204.13192.pdf), ACL 2022
+[MotifExplainer: a Motif-based Graph Neural Network Explainer](https://arxiv.org/pdf/2202.00519.pdf), Arxiv 2022
 
-[DualCF: Efficient Model Extraction Attack from Counterfactual Explanations](https://arxiv.org/pdf/2205.06504.pdf), FAccT 2022
+[Counterfactual Explanations for Natural Language Interfaces](https://arxiv.org/pdf/2204.13192.pdf), ACL 2022
 
 [Counterfactual Explanation Trees: Transparent and Consistent Actionable Recourse with Decision Trees](https://proceedings.mlr.press/v151/kanamori22a/kanamori22a.pdf), AISTATS 2022
 
@@ -63,7 +65,7 @@ Counterfactual Explanations in an Abstract Setting](https://facctconference.org/
 
 [Cycle-Consistent Counterfactuals by Latent Transformations](https://arxiv.org/pdf/2203.15064.pdf), CVPR 2022
 
-[MotifExplainer: a Motif-based Graph Neural Network Explainer](https://arxiv.org/pdf/2202.00519.pdf), Arxiv 2022
+[Framing Algorithmic Recourse for Anomaly Detection](https://arxiv.org/pdf/2206.14384.pdf), KDD 2022
 
 [CF-GNNExplainer: Counterfactual Explanations for Graph Neural Networks](https://arxiv.org/abs/2102.03322), AISTATS 2022, [code](https://github.com/a-lucic/cf-gnnexplainer)
 
