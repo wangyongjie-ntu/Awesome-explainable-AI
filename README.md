@@ -185,6 +185,8 @@ DeepExplain: [https://github.com/marcoancona/DeepExplain](https://github.com/mar
 
 Deep Visualization Toolbox: [https://github.com/yosinski/deep-visualization-toolbox](https://github.com/yosinski/deep-visualization-toolbox), Caffe, ![](https://img.shields.io/github/stars/yosinski/deep-visualization-toolbox?style=social)
 
+dianna: [https://github.com/dianna-ai/dianna](https://github.com/dianna-ai/dianna), ONNX, ![](https://img.shields.io/github/stars/dianna-ai/dianna?style=social)
+
 Eli5: [https://github.com/TeamHG-Memex/eli5](https://github.com/TeamHG-Memex/eli5), Scikit-learn, Keras, xgboost, lightGBM, catboost etc.![](https://img.shields.io/github/stars/TeamHG-Memex/eli5.svg?style=social)
 
 explainx: [https://github.com/explainX/explainx](https://github.com/explainX/explainx), xgboost, catboost ![](https://img.shields.io/github/stars/explainX/explainx?style=social)
