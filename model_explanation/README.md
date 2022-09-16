@@ -22,10 +22,12 @@
 
 [Improving Simple Models with Confidence Profiles](https://papers.nips.cc/paper/2018/file/972cda1e62b72640cb7ac702714a115f-Paper.pdf), NIPS 2018
 
-[Right for the Right Reasons: Training Differentiable Models by Constraining their Explanations](https://arxiv.org/pdf/1703.03717.pdf), arxiv preprint 2017
-
 [Learning Explanatory Rules from Noisy Data](https://arxiv.org/abs/1711.04574), Journal of Artifical Intelligence Research 2018 
 
 [The Mythos of Model Interpretability](https://dl.acm.org/doi/pdf/10.1145/3236386.3241340), ACM Queue 2018
+
+[Local Rule-Based Explanations of Black Box Decision Systems](https://arxiv.org/abs/1805.10820), Arxiv preprint 2018
+
+[Right for the Right Reasons: Training Differentiable Models by Constraining their Explanations](https://arxiv.org/pdf/1703.03717.pdf), arxiv preprint 2017
 
 [An empirical evaluation of the comprehensibility of decision table, tree and rule based predictive models](https://dl.acm.org/doi/10.1016/j.dss.2010.12.003), Decision Support Systems, 2011
