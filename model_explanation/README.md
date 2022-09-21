@@ -30,4 +30,6 @@
 
 [Right for the Right Reasons: Training Differentiable Models by Constraining their Explanations](https://arxiv.org/pdf/1703.03717.pdf), arxiv preprint 2017
 
+[Distilling a Neural Network Into a Soft Decision Tree](https://arxiv.org/pdf/1711.09784.pdf), CEX workshop, AIxIA 2017
+
 [An empirical evaluation of the comprehensibility of decision table, tree and rule based predictive models](https://dl.acm.org/doi/10.1016/j.dss.2010.12.003), Decision Support Systems, 2011
