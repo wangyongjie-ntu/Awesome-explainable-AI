@@ -8,6 +8,8 @@ The two use cases of counterfactual explanations:
 
 ## Survey papers 
 
+[A Survey on the Robustness of Feature Importance and Counterfactual Explanations](https://arxiv.org/pdf/2111.00358.pdf), Arxiv 2022
+
 [Can counterfactual explanations of AI systems’ predictions skew lay users’ causal intuitions about the world? If so, can we correct for that?](https://arxiv.org/pdf/2205.06241.pdf), Arxiv 2022
 
 [Counterfactual explanations and how to find them:literature review and benchmarking](https://link.springer.com/article/10.1007/s10618-022-00831-6), DMKD 2022
@@ -37,6 +39,14 @@ The two use cases of counterfactual explanations:
 [CONTRASTIVE EXPLANATION: A STRUCTURAL-MODEL APPROACH](https://arxiv.org/pdf/1811.03163.pdf), Arxiv preprint 2018
 
 ## Papers
+
+[Counterfactual Explanations for Arbitrary Regression Models](https://arxiv.org/pdf/2106.15212.pdf), Arxiv 2022
+
+[Evaluating Robustness of Counterfactual Explanations](https://arxiv.org/pdf/2103.02354.pdf), Arxiv 2022
+
+[Let Users Decide: Navigating the Trade-offs Between Costs and Robustness in Algorithmic Recourse](https://arxiv.org/pdf/2203.06768.pdf), Arxiv 2022
+
+[On the Adversarial Robustness of Causal Algorithmic Recourse](https://proceedings.mlr.press/v162/dominguez-olmedo22a/dominguez-olmedo22a.pdf), ICML 2022
 
 [A query-optimal algorithm for finding counterfactuals](https://proceedings.mlr.press/v162/blanc22a/blanc22a.pdf), ICLM 2022
 
