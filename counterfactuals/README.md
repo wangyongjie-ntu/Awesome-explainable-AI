@@ -46,6 +46,8 @@ The two use cases of counterfactual explanations:
 
 [Let Users Decide: Navigating the Trade-offs Between Costs and Robustness in Algorithmic Recourse](https://arxiv.org/pdf/2203.06768.pdf), Arxiv 2022
 
+[ReLAX: Reinforcement Learning Agent Explainer for Arbitrary Predictive Models](https://dl.acm.org/doi/abs/10.1145/3511808.3557429), CIKM 2022
+
 [On the Adversarial Robustness of Causal Algorithmic Recourse](https://proceedings.mlr.press/v162/dominguez-olmedo22a/dominguez-olmedo22a.pdf), ICML 2022
 
 [A query-optimal algorithm for finding counterfactuals](https://proceedings.mlr.press/v162/blanc22a/blanc22a.pdf), ICLM 2022
