@@ -1,5 +1,7 @@
 # Model Explantion
 
+[Learning to Generate Inversion-Resistant Model Explanations](https://openreview.net/pdf?id=iy2G-yLGuku), NeurIPS 2022
+
 [Model Explanations with Differential Privacy](https://facctconference.org/static/pdfs_2022/facct22-146.pdf), FAccT 2022
 
 [Equi-explanation Maps: Concise and Informative Global Summary Explanations](https://facctconference.org/static/pdfs_2022/facct22-38.pdf), FAccT 2022

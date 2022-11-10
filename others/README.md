@@ -10,6 +10,8 @@
 
 [“There Is Not Enough Information”: On the Effects of Explanations on Perceptions of Informational Fairness and Trustworthiness in Automated Decision-Making](https://facctconference.org/static/pdfs_2022/facct22-130.pdf), FaccT 2022
 
+[InterpretDL: Explaining Deep Models in PaddlePaddle](https://jmlr.org/papers/volume23/21-0738/21-0738.pdf), JMLR 202
+
 [Constraint-Driven Explanations for Black Box ML Models](https://www.comp.nus.edu.sg/~meel/Papers/aaai22-snimsv.pdf), AAAI 2022
 
 [The Utility of Explainable AI in Ad Hoc Human-Machine Teaming](https://proceedings.neurips.cc/paper/2021/file/05d74c48b5b30514d8e9bd60320fc8f6-Paper.pdf), NeurIPS 2021

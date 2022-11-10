@@ -3,6 +3,8 @@
 
 ## Papers
 
+[Bayesian subset selection and variable importance for interpretable prediction and classification](https://jmlr.org/papers/volume23/21-0403/21-0403.pdf), NeurIPS 2022
+
 [Accelerating Shapley Explanation via Contributive Cooperator Selection](https://arxiv.org/pdf/2206.08529.pdf), ICML 2022
 
 [Framework for Evaluating Faithfulness of Local Explanations](https://arxiv.org/pdf/2202.00734.pdf), ICML 2022
