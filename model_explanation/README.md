@@ -1,5 +1,7 @@
 # Model Explantion
 
+[Explainability Via Causal Self-Talk](https://openreview.net/pdf?id=bk8vkdQfBS), NeurIPS 2022
+
 [Learning to Generate Inversion-Resistant Model Explanations](https://openreview.net/pdf?id=iy2G-yLGuku), NeurIPS 2022
 
 [Model Explanations with Differential Privacy](https://facctconference.org/static/pdfs_2022/facct22-146.pdf), FAccT 2022

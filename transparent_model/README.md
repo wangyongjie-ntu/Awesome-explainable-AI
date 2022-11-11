@@ -4,6 +4,12 @@ This family of models is self-explained and transparent to users.
 
 ## Papers
 
+[Explainable Reinforcement Learning via Model Transforms](https://openreview.net/pdf?id=32Ryt4pAHeD), NeurIPS 2022
+
+[Visual correspondence-based explanations improve AI robustness and human-AI team accuracy](https://openreview.net/pdf?id=UavQ9HYye6n), NeurIPS 2022
+
+[Decision Trees with Short Explainable Rules](https://openreview.net/pdf?id=Lp-QFq2QRXA), NeurIPS 2022
+
 [Hierarchical Shrinkage:improving the accuracy and interpretability of tree-based methods](https://arxiv.org/pdf/2202.00858.pdf), ICML 2022
 
 [Entropy-based Logic Explanations of Neural Networks](https://arxiv.org/pdf/2106.06804.pdf), AAAI 2022

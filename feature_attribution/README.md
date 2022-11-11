@@ -1,7 +1,30 @@
 # Feature Attribution/Importance
 
-
 ## Papers
+
+[On Computing Probabilistic Explanations for Decision Trees](https://openreview.net/pdf?id=zD65Zdh6ZhI), NeurIPS 2022
+
+[Linear TreeShap](https://openreview.net/pdf?id=OzbkiUo24g), NeurIPS 2022
+
+[CS-SHAPLEY: Class-wise Shapley Values for Data Valuation in Classification](https://openreview.net/pdf?id=KTOcrOR5mQ9), NeurIPS 2022
+
+[Consistent Sufficient Explanations and Minimal Local Rules for explaining any classifier or regressor](https://openreview.net/pdf?id=kHNKDNLVp1E), NeurIPS 2022
+
+[Which Explanation Should I Choose? A Function Approximation Perspective to Characterizing Post Hoc Explanations](https://openreview.net/pdf?id=rTvH1_SRyXs), NeurIPS 2022
+
+[What I Cannot Predict, I Do Not Understand: A Human-Centered Evaluation Framework for Explainability Methods](https://openreview.net/pdf?id=59pMU2xFxG), NeurIPS 2022
+
+[Listen to Interpret: Post-hoc Interpretability for Audio Networks with NMF](https://openreview.net/pdf?id=FhuM-kk8Pbk), NeurIPS 2022
+
+[What You See is What You Classify: Black Box Attributions](https://openreview.net/pdf?id=I-ggHgon-Az), NeurIPS 2022
+
+[Explaining Preferences with Shapley Values](https://openreview.net/pdf?id=-me36V0os8P), NeurIPS 2022
+
+[Where do Models go Wrong? Parameter-Space Saliency Maps for Explainability](https://openreview.net/pdf?id=Nf_XI3uVGaZ), NeurIPS 2022
+
+[Benchmarking Heterogeneous Treatment Effect Models through the Lens of Interpretability](https://openreview.net/pdf?id=ddPXQt-gM--), NeurIPS 2022
+
+[Is this the Right Neighborhood? Accurate and Query Efficient Model Agnostic Explanations](https://openreview.net/pdf?id=lJHkZbX6Ic1), NeurIPS 2022
 
 [Bayesian subset selection and variable importance for interpretable prediction and classification](https://jmlr.org/papers/volume23/21-0403/21-0403.pdf), NeurIPS 2022
 

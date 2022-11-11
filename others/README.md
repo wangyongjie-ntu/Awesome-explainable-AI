@@ -1,5 +1,9 @@
 # Uncategorized Papers on Model/Instance Explanation
 
+[On the Safety of Interpretable Machine Learning: A Maximum Deviation Approach](https://openreview.net/pdf?id=WPXRVQaP9Oq), NeurIPS 2022
+
+[Concept Activation Regions: A Generalized Framework For Concept-Based Explanations](https://openreview.net/pdf?id=8AB7AXaLIX5), NeurIPS 2022
+
 [The Conflict Between Explainable and Accountable Decision-Making Algorithms](https://facctconference.org/static/pdfs_2022/facct22-162.pdf), FAccT 2022
 
 [Post-Hoc Explanations Fail to Achieve their Purpose in Adversarial Contexts](https://facctconference.org/static/pdfs_2022/facct22-73.pdf), FAccT 2022

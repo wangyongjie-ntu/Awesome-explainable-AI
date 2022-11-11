@@ -40,6 +40,10 @@ The two use cases of counterfactual explanations:
 
 ## Papers
 
+[CLEAR: Generative Counterfactual Explanations on Graphs](https://openreview.net/pdf?id=YR-s5leIvh), NeurIPS 2022
+
+[Diffusion Visual Counterfactual Explanations](https://openreview.net/pdf?id=7SEi-ISNni7), NeurIPS 2022
+
 [Counterfactual Explanations for Arbitrary Regression Models](https://arxiv.org/pdf/2106.15212.pdf), Arxiv 2022
 
 [Evaluating Robustness of Counterfactual Explanations](https://arxiv.org/pdf/2103.02354.pdf), Arxiv 2022
