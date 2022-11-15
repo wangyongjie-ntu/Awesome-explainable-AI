@@ -178,6 +178,8 @@ Blur integrated gradient: [Attribution in Scale and Space](https://arxiv.org/pdf
 
 [Feature relevance quantification in explainable AI: A causal problem relevance quantification in explainable AI: A causal problem](http://proceedings.mlr.press/v108/janzing20a/janzing20a.pdf), AISTATS 2020
 
+[You Shouldn’t Trust Me: Learning Models Which Conceal Unfairness From Multiple Explanation Methods](https://umangsbhatt.github.io/reports/ecai.pdf), ECAI 2020
+
 [Bias also matters: Bias attribution for deep neural network explanation](http://proceedings.mlr.press/v97/wang19p.html), ICML 2019
 
 [Understanding Impacts of High-Order Loss Approximations and Features in Deep Learning Interpretation](https://arxiv.org/pdf/1902.00407.pdf), ICML 2019
