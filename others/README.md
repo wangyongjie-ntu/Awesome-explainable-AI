@@ -1,5 +1,7 @@
 # Uncategorized Papers on Model/Instance Explanation
 
+[CEBaB: Estimating the Causal Effects of Real-World Concepts on NLP Model Behavior](https://arxiv.org/abs/2205.14140), NeurIPS 2022
+
 [On the Safety of Interpretable Machine Learning: A Maximum Deviation Approach](https://openreview.net/pdf?id=WPXRVQaP9Oq), NeurIPS 2022
 
 [Concept Activation Regions: A Generalized Framework For Concept-Based Explanations](https://openreview.net/pdf?id=8AB7AXaLIX5), NeurIPS 2022
