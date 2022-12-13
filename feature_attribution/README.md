@@ -2,6 +2,22 @@
 
 ## Papers
 
+[OrphicX: A Causality-Inspired Latent Variable Model for Interpreting Graph Neural Networks](https://openaccess.thecvf.com/content/CVPR2022/papers/Lin_OrphicX_A_Causality-Inspired_Latent_Variable_Model_for_Interpreting_Graph_Neural_CVPR_2022_paper.pdf), CVPR 2022
+
+[Consistent Explanations by Contrastive Learning](https://openaccess.thecvf.com/content/CVPR2022/papers/Pillai_Consistent_Explanations_by_Contrastive_Learning_CVPR_2022_paper.pdf), CVPR 2022
+
+[Consistent Explanations by Contrastive Learning](https://openaccess.thecvf.com/content/CVPR2022/papers/Pillai_Consistent_Explanations_by_Contrastive_Learning_CVPR_2022_paper.pdf), CVPR 2022
+
+[VL-InterpreT: An Interactive Visualization Tool for Interpreting Vision-Language Transformers](https://openaccess.thecvf.com/content/CVPR2022/papers/Aflalo_VL-InterpreT_An_Interactive_Visualization_Tool_for_Interpreting_Vision-Language_Transformers_CVPR_2022_paper.pdf), CVPR 2022
+
+[REX: Reasoning-aware and Grounded Explanation](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_REX_Reasoning-Aware_and_Grounded_Explanation_CVPR_2022_paper.pdf), CVPR 2022
+
+[FAM: Visual Explanations for the Feature Representations from Deep Convolutional Networks](https://openaccess.thecvf.com/content/CVPR2022/papers/Wu_FAM_Visual_Explanations_for_the_Feature_Representations_From_Deep_Convolutional_CVPR_2022_paper.pdf), CVPR 2022
+
+[NLX-GPT: A Model for Natural Language Explanations in Vision and Vision-Language Tasks](https://openaccess.thecvf.com/content/CVPR2022/papers/Sammani_NLX-GPT_A_Model_for_Natural_Language_Explanations_in_Vision_and_CVPR_2022_paper.pdf), CVPR 2022
+
+[Do Explanations Explain? Model Knows Best](https://openaccess.thecvf.com/content/CVPR2022/papers/Khakzar_Do_Explanations_Explain_Model_Knows_Best_CVPR_2022_paper.pdf), CVPR 2022
+
 [On Computing Probabilistic Explanations for Decision Trees](https://openreview.net/pdf?id=zD65Zdh6ZhI), NeurIPS 2022
 
 [Linear TreeShap](https://openreview.net/pdf?id=OzbkiUo24g), NeurIPS 2022
