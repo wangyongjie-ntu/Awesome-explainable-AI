@@ -281,6 +281,8 @@ What-if-tool: [https://github.com/PAIR-code/what-if-tool](https://github.com/PAI
 
 XAI: [https://github.com/EthicalML/xai](https://github.com/EthicalML/xai), scikit-learn ![](https://img.shields.io/github/stars/EthicalML/xai?style=social)
 
+Xplique: [https://github.com/deel-ai/xplique](https://github.com/deel-ai/xplique), Tensorflow, ![](https://img.shields.io/github/stars/deel-ai/xplique?style=social)
+
 ## Related Repositories
 
 [https://github.com/jphall663/awesome-machine-learning-interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability), ![](https://img.shields.io/github/stars/jphall663/awesome-machine-learning-interpretability?style=social)
