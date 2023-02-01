@@ -97,6 +97,8 @@ Counterfactual Explanations in an Abstract Setting](https://facctconference.org/
 
 [Unsupervised Editing for Counterfactual Stories](https://arxiv.org/pdf/2112.05417.pdf), AAAI 2022
 
+CounterfactualGAN: [Generating Realistic Natural Language Counterfactuals](https://aclanthology.org/2021.findings-emnlp.306.pdf), EMNLP 2021
+
 [Getting a CLUE: A Method for Explaining Uncertainty Estimates](https://arxiv.org/abs/2006.06848), ICLR 2021
 
 [Counterfactual explanation of Bayesian model uncertainty](https://link.springer.com/article/10.1007/s00521-021-06528-z), Nerual Computing and Applications 2021
@@ -306,6 +308,8 @@ Counterfactual Explanations in an Abstract Setting](https://facctconference.org/
 [Explaining image classifiers by counterfactual generation](https://arxiv.org/pdf/1807.08024.pdf), ICLR 2019
 
 [Counterfactual Explanations without Opening the Black Box: Automated Decisions and the GDPR](https://arxiv.org/abs/1711.00399), Hardvard Journal of Law & Technology 2018 (strong recommend)
+
+[Contrastive Explanations with Local Foil Trees](https://arxiv.org/pdf/1806.07470.pdf), ICML Workshop on Human Interpretability in Machine Learning 2018
 
 [Explanations based on the Missing: Towards Contrastive Explanations with Pertinent Negatives](https://papers.nips.cc/paper/7340-explanations-based-on-the-missing-towards-contrastive-explanations-with-pertinent-negatives), NIPS 2018, [code](https://github.com/IBM/Contrastive-Explanation-Method)
 

@@ -189,6 +189,8 @@ dianna: [https://github.com/dianna-ai/dianna](https://github.com/dianna-ai/diann
 
 Eli5: [https://github.com/TeamHG-Memex/eli5](https://github.com/TeamHG-Memex/eli5), Scikit-learn, Keras, xgboost, lightGBM, catboost etc.![](https://img.shields.io/github/stars/TeamHG-Memex/eli5.svg?style=social)
 
+explabox: [https://github.com/MarcelRobeer/explabox](https://github.com/MarcelRobeer/explabox), ONNX, Scikit-learn, Pytorch, Keras, Tensorflow, Huggingface ![](https://img.shields.io/github/stars/MarcelRobeer/explabox?style=social)
+
 explainx: [https://github.com/explainX/explainx](https://github.com/explainX/explainx), xgboost, catboost ![](https://img.shields.io/github/stars/explainX/explainx?style=social)
 
 ExplainaBoard: [https://github.com/neulab/ExplainaBoard](https://github.com/neulab/ExplainaBoard), ![](https://img.shields.io/github/stars/neulab/ExplainaBoard?style=social)
