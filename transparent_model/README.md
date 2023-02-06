@@ -4,6 +4,8 @@ This family of models is self-explained and transparent to users.
 
 ## Papers
 
+[A Framework for Learning Ante-hoc Explainable Models via Concepts](https://openaccess.thecvf.com/content/CVPR2022/papers/Sarkar_A_Framework_for_Learning_Ante-Hoc_Explainable_Models_via_Concepts_CVPR_2022_paper.pdf), CVPR 2022
+
 [Explainable Reinforcement Learning via Model Transforms](https://openreview.net/pdf?id=32Ryt4pAHeD), NeurIPS 2022
 
 [Visual correspondence-based explanations improve AI robustness and human-AI team accuracy](https://openreview.net/pdf?id=UavQ9HYye6n), NeurIPS 2022
