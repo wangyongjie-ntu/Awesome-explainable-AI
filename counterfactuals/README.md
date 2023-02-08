@@ -8,6 +8,8 @@ The two use cases of counterfactual explanations:
 
 ## Survey papers 
 
+[A Survey of Algorithmic Recourse: Contrastive Explanations and Consequential Recommendations](https://dl.acm.org/doi/pdf/10.1145/3527848), ACM Computing Survey 2022
+
 [A Survey on the Robustness of Feature Importance and Counterfactual Explanations](https://arxiv.org/pdf/2111.00358.pdf), Arxiv 2022
 
 [Can counterfactual explanations of AI systems’ predictions skew lay users’ causal intuitions about the world? If so, can we correct for that?](https://arxiv.org/pdf/2205.06241.pdf), Arxiv 2022
