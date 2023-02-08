@@ -19,6 +19,8 @@ The figure below illustrates several use cases of XAI. Here we also divide the p
 
 ## Survey Papers
 
+[Explainable Biometrics in the Age of Deep Learning](https://arxiv.org/abs/2208.09500), Arxiv preprint 2022
+
 [Explainable AI (XAI): Core Ideas, Techniques and Solutions](https://dl.acm.org/doi/abs/10.1145/3561048), ACM Computing Survey 2022
 
 [A Review of Taxonomies of Explainable Artificial Intelligence (XAI) Methods](https://facctconference.org/static/pdfs_2022/facct22-173.pdf), FaccT 2022
