@@ -99,4 +99,3 @@ LOCO, [Distribution-Free Predictive Inference For Regression](https://arxiv.org/
 
 [Explaining data-driven document classifications](https://www.jstor.org/stable/26554869), MIS Quarterly 2014
 
-[Case-Based Explanation of Non-Case-Based Learning Methods](https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC2232607&blobtype=pdf), Influential instance, AMIA 1999
