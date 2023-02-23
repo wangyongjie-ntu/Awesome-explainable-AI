@@ -98,3 +98,5 @@ for Point Cloud Processing](https://openaccess.thecvf.com/content/CVPR2021/paper
 LOCO, [Distribution-Free Predictive Inference For Regression](https://arxiv.org/pdf/1604.04173.pdf), Arxiv preprint 2016
 
 [Explaining data-driven document classifications](https://www.jstor.org/stable/26554869), MIS Quarterly 2014
+
+[Case-Based Explanation of Non-Case-Based Learning Methods](https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC2232607&blobtype=pdf), Influential instance, AMIA 1999
