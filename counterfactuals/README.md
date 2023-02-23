@@ -345,6 +345,8 @@ CounterfactualGAN: [Generating Realistic Natural Language Counterfactuals](https
 
 [The cost-minimizing inverse classification problem: a genetic algorithm approach](https://www.sciencedirect.com.remotexs.ntu.edu.sg/science/article/pii/S0167923600000774), Decision Support Systems 2000
 
+[Counterfactuals](https://philpapers.org/rec/LEWC-2), Blackwell, Oxford 1973
+
 ## Github Repos
 
 Alibi: [https://github.com/SeldonIO/alibi](https://github.com/SeldonIO/alibi) ![](https://img.shields.io/github/stars/SeldonIO/alibi.svg?style=social)
