@@ -54,6 +54,8 @@ This family of models is self-explained and transparent to users.
 
 [Interpretable classifiers using rules and Bayesian analysis: Building a better stroke prediction model](https://arxiv.org/abs/1511.01644), The Annals of Applied Statistics 2015
 
+[Towards Robust Interpretability with Self-Explaining Neural Networks](https://proceedings.neurips.cc/paper/2018/file/3e9f0fc9b2f89e043bc6233994dfcf76-Paper.pdf), NeurIPS 2016
+
 [Comprehensible Classification Models – a position paper](https://www.kdd.org/exploration_files/V15-01-01-Freitas.pdf), KDD 2015
 
 [Making machine learning models interpretable](https://pdfs.semanticscholar.org/ce0b/8b6fca7dc089548cc2e9aaac3bae82bb19da.pdf), ESANN 2012
