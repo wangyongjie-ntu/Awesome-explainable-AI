@@ -26,6 +26,8 @@
 
 [Consistent Sufficient Explanations and Minimal Local Rules for explaining any classifier or regressor](https://openreview.net/pdf?id=kHNKDNLVp1E), NeurIPS 2022
 
+[Accurate Shapley Values for explaining tree-based models](https://proceedings.mlr.press/v151/amoukou22a/amoukou22a.pdf), AISTATS 2022
+
 [Which Explanation Should I Choose? A Function Approximation Perspective to Characterizing Post Hoc Explanations](https://openreview.net/pdf?id=rTvH1_SRyXs), NeurIPS 2022
 
 [What I Cannot Predict, I Do Not Understand: A Human-Centered Evaluation Framework for Explainability Methods](https://openreview.net/pdf?id=59pMU2xFxG), NeurIPS 2022
