@@ -138,7 +138,9 @@ Sparse Relevance Maps and Relevance Orderings](https://proceedings.mlr.press/v16
 
 [Improving KernelSHAP: Practical Shapley Value Estimation Using Linear Regression](https://arxiv.org/pdf/2012.01536.pdf), AISTATS 2021
 
-[If You Like Shapley Then You’ll Love the Core](), AAAI 2021
+[A Unified Taylor Framework for Revisiting Attribution Methods](https://arxiv.org/abs/2008.09695), AAAI 2021
+
+[If You Like Shapley Then You’ll Love the Core](https://ojs.aaai.org/index.php/AAAI/article/view/16721/16528), AAAI 2021
 
 [Interpreting Deep Neural Networks with Relative Sectional Propagation by Analyzing Comparative Gradients and Hostile Activations](https://arxiv.org/pdf/2012.03434.pdf), AAAI 2021
 
