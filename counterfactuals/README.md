@@ -42,6 +42,8 @@ The two use cases of counterfactual explanations:
 
 ## Papers
 
+[Formalising the Robustness of Counterfactual Explanations for Neural Networks](https://arxiv.org/pdf/2208.14878.pdf), AAAI 2023
+
 [Counterfactual Explanations for Concepts in ELH](https://arxiv.org/pdf/2301.05109.pdf), WWW 2023
 
 [CLEAR: Generative Counterfactual Explanations on Graphs](https://openreview.net/pdf?id=YR-s5leIvh), NeurIPS 2022
@@ -310,6 +312,8 @@ CounterfactualGAN: [Generating Realistic Natural Language Counterfactuals](https
 [Counterfactual explanations of machine learning predictions: opportunities and challenges for AI safety](http://ceur-ws.org/Vol-2301/paper_20.pdf), SafeAI@AAAI 2019
 
 [Explaining image classifiers by counterfactual generation](https://arxiv.org/pdf/1807.08024.pdf), ICLR 2019
+
+[ExplainGAN: Model Explanation via Decision Boundary Crossing Transformations](https://openaccess.thecvf.com/content_ECCV_2018/papers/Nathan_Silberman_ExplainGAN_Model_Explanation_ECCV_2018_paper.pdf), ECCV 2018
 
 [Counterfactual Explanations without Opening the Black Box: Automated Decisions and the GDPR](https://arxiv.org/abs/1711.00399), Hardvard Journal of Law & Technology 2018 (strong recommend)
 
