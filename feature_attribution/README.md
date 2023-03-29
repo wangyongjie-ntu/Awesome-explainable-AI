@@ -2,6 +2,10 @@
 
 ## Papers
 
+[A Practical Upper Bound for the Worst-Case Attribution Deviations](https://arxiv.org/pdf/2303.00340.pdf), CVPR 2023
+
+[Transferable Adversarial Attack Based on Integrated Gradients](https://openreview.net/pdf?id=DesNW4-5ai9), ICLR 2022
+
 [OrphicX: A Causality-Inspired Latent Variable Model for Interpreting Graph Neural Networks](https://openaccess.thecvf.com/content/CVPR2022/papers/Lin_OrphicX_A_Causality-Inspired_Latent_Variable_Model_for_Interpreting_Graph_Neural_CVPR_2022_paper.pdf), CVPR 2022
 
 [Consistent Explanations by Contrastive Learning](https://openaccess.thecvf.com/content/CVPR2022/papers/Pillai_Consistent_Explanations_by_Contrastive_Learning_CVPR_2022_paper.pdf), CVPR 2022
@@ -19,6 +23,8 @@
 [Do Explanations Explain? Model Knows Best](https://openaccess.thecvf.com/content/CVPR2022/papers/Khakzar_Do_Explanations_Explain_Model_Knows_Best_CVPR_2022_paper.pdf), CVPR 2022
 
 [On Computing Probabilistic Explanations for Decision Trees](https://openreview.net/pdf?id=zD65Zdh6ZhI), NeurIPS 2022
+
+[Exploiting the Relationship Between Kendall’s Rank Correlation and Cosine Similarity for Attribution Protection](https://arxiv.org/pdf/2205.07279.pdf), NeurIPS 2022
 
 [Linear TreeShap](https://openreview.net/pdf?id=OzbkiUo24g), NeurIPS 2022
 
