@@ -117,6 +117,8 @@ CounterfactualGAN: [Generating Realistic Natural Language Counterfactuals](https
 
 [Towards Robust and Reliable Algorithmic Recourse](https://arxiv.org/pdf/2102.13620.pdf), NeurIPS 2021
 
+[CARLA: A Python Library to Benchmark Algorithmic Recourse and Counterfactual Explanation Algorithms](https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/file/b53b3a3d6ab90ce0268229151c9bde11-Paper-round1.pdf), NeurIPS 2021
+
 [The Skyline of Counterfactual Explanations for Machine Learning Decision Models](https://dl.acm.org/doi/abs/10.1145/3459637.3482397), CIKM 2021
 
 [Counterfactual Explanations for Optimization-Based Decisions in the Context of the GDPR](https://www.ijcai.org/proceedings/2021/0564.pdf), IJCAI 2021
