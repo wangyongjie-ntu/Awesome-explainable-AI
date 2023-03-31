@@ -44,6 +44,10 @@ The two use cases of counterfactual explanations:
 
 ## Papers
 
+[OCTET: Object-aware Counterfactual Explanations](https://arxiv.org/pdf/2211.12380.pdf), CVPR 2023
+
+[Adversarial Counterfactual Visual Explanations](https://arxiv.org/abs/2303.09962), CVPR 2023
+
 [Formalising the Robustness of Counterfactual Explanations for Neural Networks](https://arxiv.org/pdf/2208.14878.pdf), AAAI 2023
 
 [Counterfactual Explanations for Concepts in ELH](https://arxiv.org/pdf/2301.05109.pdf), WWW 2023
@@ -85,6 +89,8 @@ Counterfactual Explanations in an Abstract Setting](https://facctconference.org/
 
 [MotifExplainer: a Motif-based Graph Neural Network Explainer](https://arxiv.org/pdf/2202.00519.pdf), Arxiv 2022
 
+[Diffusion Models for Counterfactual Explanations](https://arxiv.org/pdf/2203.15636.pdf), Arxiv 2022
+
 [Counterfactual Explanations for Natural Language Interfaces](https://arxiv.org/pdf/2204.13192.pdf), ACL 2022
 
 [Counterfactual Explanation Trees: Transparent and Consistent Actionable Recourse with Decision Trees](https://proceedings.mlr.press/v151/kanamori22a/kanamori22a.pdf), AISTATS 2022
@@ -94,6 +100,8 @@ Counterfactual Explanations in an Abstract Setting](https://facctconference.org/
 [Counterfactual Models for Fair and Adequate Explanations](https://www.mdpi.com/2504-4990/4/2/14), MAKE 2022
 
 [Cycle-Consistent Counterfactuals by Latent Transformations](https://arxiv.org/pdf/2203.15064.pdf), CVPR 2022
+
+[STEEX: Steering Counterfactual Explanations with Semantics](https://arxiv.org/abs/2111.09094), ECCV 2022
 
 [Framing Algorithmic Recourse for Anomaly Detection](https://arxiv.org/pdf/2206.14384.pdf), KDD 2022
 
