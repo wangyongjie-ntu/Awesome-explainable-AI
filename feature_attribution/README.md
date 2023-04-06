@@ -10,8 +10,6 @@
 
 [Consistent Explanations by Contrastive Learning](https://openaccess.thecvf.com/content/CVPR2022/papers/Pillai_Consistent_Explanations_by_Contrastive_Learning_CVPR_2022_paper.pdf), CVPR 2022
 
-[Consistent Explanations by Contrastive Learning](https://openaccess.thecvf.com/content/CVPR2022/papers/Pillai_Consistent_Explanations_by_Contrastive_Learning_CVPR_2022_paper.pdf), CVPR 2022
-
 [VL-InterpreT: An Interactive Visualization Tool for Interpreting Vision-Language Transformers](https://openaccess.thecvf.com/content/CVPR2022/papers/Aflalo_VL-InterpreT_An_Interactive_Visualization_Tool_for_Interpreting_Vision-Language_Transformers_CVPR_2022_paper.pdf), CVPR 2022
 
 [REX: Reasoning-aware and Grounded Explanation](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_REX_Reasoning-Aware_and_Grounded_Explanation_CVPR_2022_paper.pdf), CVPR 2022
@@ -74,6 +72,8 @@ Sparse Relevance Maps and Relevance Orderings](https://proceedings.mlr.press/v16
 [Rational Shapley Values](https://facctconference.org/static/pdfs_2022/facct22-89.pdf), FAccT 2022
 
 [Human Interpretation of Saliency-based Explanation Over Text](https://facctconference.org/static/pdfs_2022/facct22-51.pdf), FAccT 2022
+
+[Higher-Order Explanations of Graph Neural Networks via Relevant Walks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9547794), TPAMI 2022
 
 [Counterfactual Interpolation Augmentation (CIA): A Unified Approach to Enhance Fairness and Explainability of DNN](https://dongxiaozhu.github.io/assets/files/IJCAI2022CIA.pdf), IJCAI 2022
 
@@ -189,6 +189,8 @@ Sparse Relevance Maps and Relevance Orderings](https://proceedings.mlr.press/v16
 Blur integrated gradient: [Attribution in Scale and Space](https://arxiv.org/pdf/2004.03383.pdf), CVPR 2020
 
 [Understanding Integrated Gradients with SmoothTaylor for Deep Neural Network Attribution](https://arxiv.org/pdf/2004.10484.pdf) arxiv preprint 2020
+
+[GCN-LRP explanation: exploring latent attention of graph convolutional networks](https://ieeexplore.ieee.org/document/9207639), IJCNN 2020
 
 [Visualizing Deep Networks by Optimizing with Integrated Gradients](https://aaai.org/Papers/AAAI/2020GB/AAAI-QiZ.4029.pdf), AAAI 2020
 
