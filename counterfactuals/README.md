@@ -243,6 +243,8 @@ CounterfactualGAN: [Generating Realistic Natural Language Counterfactuals](https
 
 [EXPLANATION BY PROGRESSIVE EXAGGERATION](https://iclr.cc/virtual_2020/poster_H1xFWgrFPS.html), ICLR 2020
 
+[Learning the Difference that Makes a Difference with Counterfactually-augmented Data](https://openreview.net/attachment?id=Sklgs0NFvr&name=original_pdf), LCLR 2020
+
 [Algorithmic Recourse: from Counterfactual Explanations to Interventions](https://arxiv.org/abs/2002.06278), Arxiv preprint 2020
 
 [Learning Model-Agnostic Counterfactual Explanations for Tabular Data](https://dl.acm.org/doi/abs/10.1145/3366423.3380087),  ACM WWW 2020, [code](https://github.com/MartinPawel/c-chvae)
