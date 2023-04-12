@@ -1,5 +1,7 @@
 # Uncategorized Papers on Model/Instance Explanation
 
+[A Psychological Theory of Explainability](https://arxiv.org/pdf/2205.08452.pdf), ICML 2022
+
 [CEBaB: Estimating the Causal Effects of Real-World Concepts on NLP Model Behavior](https://arxiv.org/abs/2205.14140), NeurIPS 2022
 
 [On the Safety of Interpretable Machine Learning: A Maximum Deviation Approach](https://openreview.net/pdf?id=WPXRVQaP9Oq), NeurIPS 2022
@@ -70,6 +72,8 @@ for Point Cloud Processing](https://openaccess.thecvf.com/content/CVPR2021/paper
 [Explaining Groups of Points in Low-Dimensional Representations](https://arxiv.org/pdf/2003.01640.pdf), ICML 2020
 
 [Explaining Knowledge Distillation by Quantifying the Knowledge](https://openaccess.thecvf.com/content_CVPR_2020/papers/Cheng_Explaining_Knowledge_Distillation_by_Quantifying_the_Knowledge_CVPR_2020_paper.pdf), CVPR 2020
+
+[Principles of Explanation in Human-AI Systems](https://arxiv.org/pdf/2102.04972.pdf), AAAI 2020
 
 [Fanoos: Multi-Resolution, Multi-Strength, Interactive Explanations for Learned Systems](https://arxiv.org/pdf/2006.12453.pdf), IJCAI 2020
 
