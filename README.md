@@ -61,6 +61,8 @@ The figure below illustrates several use cases of XAI. Here we also divide the p
 
 [Evaluating Explanation Without Ground Truth in Interpretable Machine Learning](https://arxiv.org/pdf/1907.06831v1.pdf), Arxiv preprint 2019
 
+[Explanation in Human-AI Systems: A Literature Meta-Review Synopsis of Key Ideas and Publications and Bibliography for Explainable AI](https://arxiv.org/pdf/1902.01876.pdf), DARPA XAI literature Review 2019
+
 [A survey of methods for explaining black box models](http://arxiv.org/abs/1802.01933), ACM Computing Surveys, 2018
 
 [Explaining Explanations: An Overview of Interpretability of Machine Learning](https://arxiv.org/abs/1806.00069), IEEE DSAA, 2018
@@ -71,8 +73,6 @@ The figure below illustrates several use cases of XAI. Here we also divide the p
 
 [The Mythos of Model Interpretability: In machine learning, the concept of interpretability is both important and slippery](https://arxiv.org/abs/1606.03490v3), ACM Queue 2018
 
-[What Do You See? Evaluation of Explainable Artificial Intelligence (XAI)
-Interpretability through Neural Backdoors
 [How Convolutional Neural Networks See the World — A Survey of Convolutional Neural Network Visualization Methods](https://arxiv.org/pdf/1804.11191.pdf), Mathematical Foundations of Computing 2018
 
 [Explainable Artificial Intelligence: Understanding, Visualizing and Interpreting Deep Learning Models](https://arxiv.org/abs/1708.08296), Arxiv 2017
