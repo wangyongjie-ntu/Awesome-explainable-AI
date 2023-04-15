@@ -361,6 +361,8 @@ CounterfactualGAN: [Generating Realistic Natural Language Counterfactuals](https
 
 [The Inverse Classification Problem](https://link.springer.com/article/10.1007/s11390-010-9337-x), Journal of Computer Science and Technology 2010
 
+[Assessing demand for intelli-gibility in context-aware applications](https://dl.acm.org/doi/10.1145/1620545.1620576), UbiComp '09
+
 [The cost-minimizing inverse classification problem: a genetic algorithm approach](https://www.sciencedirect.com.remotexs.ntu.edu.sg/science/article/pii/S0167923600000774), Decision Support Systems 2000
 
 [Counterfactuals](https://philpapers.org/rec/LEWC-2), Blackwell, Oxford 1973
