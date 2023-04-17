@@ -115,6 +115,8 @@ Counterfactual Explanations in an Abstract Setting](https://facctconference.org/
 
 CounterfactualGAN: [Generating Realistic Natural Language Counterfactuals](https://aclanthology.org/2021.findings-emnlp.306.pdf), EMNLP 2021
 
+[Beyond Trivial Counterfactual Explanations with Diverse Valuable Explanations](https://openaccess.thecvf.com/content/ICCV2021/papers/Rodriguez_Beyond_Trivial_Counterfactual_Explanations_With_Diverse_Valuable_Explanations_ICCV_2021_paper.pdf), ICCV 2021
+
 [Getting a CLUE: A Method for Explaining Uncertainty Estimates](https://arxiv.org/abs/2006.06848), ICLR 2021
 
 [Counterfactual explanation of Bayesian model uncertainty](https://link.springer.com/article/10.1007/s00521-021-06528-z), Nerual Computing and Applications 2021
