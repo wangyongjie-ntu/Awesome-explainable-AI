@@ -19,6 +19,10 @@ The figure below illustrates several use cases of XAI. Here we also divide the p
 
 ## Survey Papers
 
+[Connecting the Dots in Trustworthy Artificial Intelligence: From AI Principles, Ethics, and Key Requirements to Responsible AI Systems and Regulation](https://arxiv.org/pdf/2305.02231.pdf), Arxiv 2023
+
+[Explainable Artificial Intelligence (XAI): What we know and what is left to attain Trustworthy Artificial Intelligence](https://www.sciencedirect.com/science/article/pii/S1566253523001148), Information fusion 2023
+
 [Explainable Biometrics in the Age of Deep Learning](https://arxiv.org/abs/2208.09500), Arxiv preprint 2022
 
 [Explainable AI (XAI): Core Ideas, Techniques and Solutions](https://dl.acm.org/doi/abs/10.1145/3561048), ACM Computing Survey 2022
