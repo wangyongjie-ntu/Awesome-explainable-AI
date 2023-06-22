@@ -19,6 +19,10 @@ The figure below illustrates several use cases of XAI. Here we also divide the p
 
 ## Survey Papers
 
+[Benchmarking and Survey of Explanation Methods for Black Box Models](https://link.springer.com/article/10.1007/s10618-023-00933-9), DMKD 2023
+
+[Post-hoc Interpretability for Neural NLP: A Survey](https://dl.acm.org/doi/full/10.1145/3546577), ACM Computing Survey 2022
+
 [Connecting the Dots in Trustworthy Artificial Intelligence: From AI Principles, Ethics, and Key Requirements to Responsible AI Systems and Regulation](https://arxiv.org/pdf/2305.02231.pdf), Arxiv 2023
 
 [Explainable Artificial Intelligence (XAI): What we know and what is left to attain Trustworthy Artificial Intelligence](https://www.sciencedirect.com/science/article/pii/S1566253523001148), Information fusion 2023
@@ -36,8 +40,6 @@ The figure below illustrates several use cases of XAI. Here we also divide the p
 [Teach Me to Explain: A Review of Datasets for Explainable Natural Language Processing](https://arxiv.org/abs/2102.12060), NeurlIPS 2021
 
 [Pitfalls of Explainable ML: An Industry Perspective](https://arxiv.org/pdf/2106.07758.pdf), Arxiv preprint 2021
-
-[Benchmarking and Survey of Explanation Methods for Black Box Models](https://arxiv.org/pdf/2102.13076.pdf), Arxiv preprint 2021
 
 [Explainable Machine Learning in Deployment](https://dl.acm.org/doi/pdf/10.1145/3351095.3375624), FAT 2020
 

@@ -44,6 +44,12 @@ The two use cases of counterfactual explanations:
 
 ## Papers
 
+[Counterfactuals of Counterfactuals: a back-translation-inspired approach to analyse counterfactual editors](https://arxiv.org/abs/2305.17055), ACL Findings 2023
+
+[DISCO: Distilling Counterfactuals with Large Language Models](https://arxiv.org/pdf/2212.10534.pdf), ACL 2023
+
+[GAM Coach : Towards Interactive and User-centered Algorithmic Recourse](https://dl.acm.org/doi/fullHtml/10.1145/3544548.3580816), CHI 2023
+
 [OCTET: Object-aware Counterfactual Explanations](https://arxiv.org/pdf/2211.12380.pdf), CVPR 2023
 
 [Adversarial Counterfactual Visual Explanations](https://arxiv.org/abs/2303.09962), CVPR 2023
