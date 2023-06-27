@@ -2,6 +2,8 @@
 
 ## Papers
 
+[On Minimizing the Impact of Dataset Shifts on Actionable Explanations](https://arxiv.org/pdf/2306.06716.pdf), UAI 2023
+
 [A Practical Upper Bound for the Worst-Case Attribution Deviations](https://arxiv.org/pdf/2303.00340.pdf), CVPR 2023
 
 [Transferable Adversarial Attack Based on Integrated Gradients](https://openreview.net/pdf?id=DesNW4-5ai9), ICLR 2022
