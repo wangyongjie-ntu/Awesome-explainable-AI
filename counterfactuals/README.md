@@ -143,6 +143,8 @@ CounterfactualGAN: [Generating Realistic Natural Language Counterfactuals](https
 
 [Robust Counterfactual Explanations on Graph Neural Network](https://arxiv.org/pdf/2107.04086.pdf), NeurIPS 2021
 
+[Explaining NLP Models via Minimal Contrastive Editing (MICE)](https://aclanthology.org/2021.findings-acl.336.pdf), ACL Findings 2021
+
 [A Language for Counterfactual Generative Models](http://proceedings.mlr.press/v139/tavares21a/tavares21a.pdf), ICML 2021
 
 [Optimal Counterfactual Explanations in Tree Ensembles](https://arxiv.org/abs/2106.06631), ICML 2021
