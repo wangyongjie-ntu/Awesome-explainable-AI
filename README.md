@@ -138,6 +138,8 @@ We mainly follow the taxonomy in the [survey paper](http://arxiv.org/abs/1802.01
 
 ### Evaluation methods
 
+[Faithfulness Tests for Natural Language Explanations](https://aclanthology.org/2023.acl-short.25.pdf), ACL 2023 
+
 [OpenXAI: Towards a Transparent Evaluation of Model Explanations](https://arxiv.org/pdf/2206.11104.pdf), Arxiv 2022
 
 [When Can Models Learn From Explanations? A Formal Framework for Understanding the Roles of Explanation Data](https://aclanthology.org/2022.lnls-1.4/), ACL 2022
