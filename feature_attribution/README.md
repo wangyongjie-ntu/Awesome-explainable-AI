@@ -8,6 +8,8 @@
 
 [A Practical Upper Bound for the Worst-Case Attribution Deviations](https://arxiv.org/pdf/2303.00340.pdf), CVPR 2023
 
+[IDGI: A Framework to Eliminate Explanation Noise from Integrated Gradients](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_IDGI_A_Framework_To_Eliminate_Explanation_Noise_From_Integrated_Gradients_CVPR_2023_paper.pdf), CVPR 2023
+
 [Transferable Adversarial Attack Based on Integrated Gradients](https://openreview.net/pdf?id=DesNW4-5ai9), ICLR 2022
 
 [OrphicX: A Causality-Inspired Latent Variable Model for Interpreting Graph Neural Networks](https://openaccess.thecvf.com/content/CVPR2022/papers/Lin_OrphicX_A_Causality-Inspired_Latent_Variable_Model_for_Interpreting_Graph_Neural_CVPR_2022_paper.pdf), CVPR 2022
