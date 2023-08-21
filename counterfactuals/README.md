@@ -44,6 +44,10 @@ The two use cases of counterfactual explanations:
 
 ## Papers
 
+[Incentivizing Recourse through Auditing in Strategic Classifcation](https://www.ijcai.org/proceedings/2023/0045.pdf), IJCAI 2023
+
+[Choose your Data Wisely: A Framework for Semantic Counterfactuals](https://www.ijcai.org/proceedings/2023/0043.pdf), IJCAI 2023
+
 [Counterfactuals of Counterfactuals: a back-translation-inspired approach to analyse counterfactual editors](https://arxiv.org/abs/2305.17055), ACL Findings 2023
 
 [DISCO: Distilling Counterfactuals with Large Language Models](https://arxiv.org/pdf/2212.10534.pdf), ACL 2023

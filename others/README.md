@@ -1,5 +1,7 @@
 # Uncategorized Papers on Model/Instance Explanation
 
+[Statistically Signifcant Concept-based Explanation of Image Classifers via Model Knockoffs](https://www.ijcai.org/proceedings/2023/0058.pdf), IJCAI 2023
+
 [Towards Relatable Explainable AI with the Perceptual Process](https://arxiv.org/pdf/2112.14005.pdf), CHI 2022 Best paper
 
 [A Psychological Theory of Explainability](https://arxiv.org/pdf/2205.08452.pdf), ICML 2022

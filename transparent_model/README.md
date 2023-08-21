@@ -4,6 +4,8 @@ This family of models is self-explained and transparent to users.
 
 ## Papers
 
+[FEAMOE: Fair, Explainable and Adaptive Mixture of Experts](https://www.ijcai.org/proceedings/2023/0055.pdf), IJCAI 2023
+
 [Bort: Towards Explainable Neural Networks with Bounded Orthogonal Constraint](https://openreview.net/forum?id=My57qBufZWs), ICLR 2023
 
 [A Framework for Learning Ante-hoc Explainable Models via Concepts](https://openaccess.thecvf.com/content/CVPR2022/papers/Sarkar_A_Framework_for_Learning_Ante-Hoc_Explainable_Models_via_Concepts_CVPR_2022_paper.pdf), CVPR 2022
