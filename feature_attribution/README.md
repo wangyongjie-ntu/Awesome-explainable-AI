@@ -95,6 +95,8 @@ Sparse Relevance Maps and Relevance Orderings](https://proceedings.mlr.press/v16
 
 [Do Feature Attribution Methods Correctly Attribute Features?](https://arxiv.org/pdf/2104.14403.pdf), AAAI 2022
 
+[Improving performance of deep learning models with axiomatic attribution priors and expected gradients.](https://www.nature.com/articles/s42256-021-00343-w), Nature Machine Intelligence 2021
+
 [One Explanation is Not Enough: Structured Attention Graphs for Image Classification](https://openreview.net/pdf?id=k5Kbs9uPGP9), NeurIPS 2021
 
 [On Locality of Local Explanation Models](https://arxiv.org/abs/2106.14648), NeurIPS 2021
@@ -112,7 +114,10 @@ Sparse Relevance Maps and Relevance Orderings](https://proceedings.mlr.press/v16
 [The effectiveness of feature attribution methods and its correlation with automatic evaluation scores](https://arxiv.org/abs/2105.14944), NeurIPS 2021
 
 [From global to local MDI variable importances for random forests and when they are Shapley values](https://arxiv.org/abs/2111.02218), NeurIPS 2021 
+
 [On Guaranteed Optimal Robust Explanations for NLP Models](https://arxiv.org/pdf/2105.03640.pdf), IJCAI 2021
+
+[ Explaining deep neural network models with adversarial gradient integration](https://www.ijcai.org/proceedings/2021/0396.pdf), IJCAI 2021
 
 [What does LIME really see in images?](https://arxiv.org/abs/2102.06307), ICML 2021
 
@@ -143,6 +148,8 @@ Sparse Relevance Maps and Relevance Orderings](https://proceedings.mlr.press/v16
 [Building Reliable Explanations of Unreliable Neural Networks: Locally Smoothing Perspective of Model Interpretation](https://openaccess.thecvf.com/content/CVPR2021/papers/Lim_Building_Reliable_Explanations_of_Unreliable_Neural_Networks_Locally_Smoothing_Perspective_CVPR_2021_paper.pdf), CVPR 2021
 
 [Relevance-CAM: Your Model Already Knows Where to Look](https://openaccess.thecvf.com/content/CVPR2021/papers/Lee_Relevance-CAM_Your_Model_Already_Knows_Where_To_Look_CVPR_2021_paper.pdf), CVPR 2021, [code](https://github.com/mongeoroo/Relevance-CAM)
+
+[Guided integrated gradients: An adaptive path method for removing noise](https://openaccess.thecvf.com/content/CVPR2021/papers/Kapishnikov_Guided_Integrated_Gradients_An_Adaptive_Path_Method_for_Removing_Noise_CVPR_2021_paper.pdf), CVPR 2021
 
 [An Analysis of LIME for Text Data](https://arxiv.org/pdf/2010.12487.pdf), AISTATS 2021
 
