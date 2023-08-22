@@ -62,6 +62,8 @@ The two use cases of counterfactual explanations:
 
 [Counterfactual Explanations for Concepts in ELH](https://arxiv.org/pdf/2301.05109.pdf), WWW 2023
 
+[Beyond Known Reality: Exploiting Counterfactual Explanations for Medical Research](https://arxiv.org/pdf/2307.02131.pdf), Arxiv 2023
+
 [CLEAR: Generative Counterfactual Explanations on Graphs](https://openreview.net/pdf?id=YR-s5leIvh), NeurIPS 2022
 
 [Diffusion Visual Counterfactual Explanations](https://openreview.net/pdf?id=7SEi-ISNni7), NeurIPS 2022
