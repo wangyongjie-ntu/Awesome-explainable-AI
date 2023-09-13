@@ -265,6 +265,8 @@ PyCEbox: [https://github.com/AustinRochford/PyCEbox](https://github.com/AustinRo
 
 path_explain: [https://github.com/suinleelab/path_explain](https://github.com/suinleelab/path_explain), Tensorflow ![](https://img.shields.io/github/stars/suinleelab/path_explain?style=social)
 
+Quantus: [https://github.com/understandable-machine-intelligence-lab/Quantus](https://github.com/understandable-machine-intelligence-lab/Quantus), Tensorflow, Pytorch ![](https://img.shields.io/github/stars/understandable-machine-intelligence-lab/Quantus?style=social)
+
 rulefit: [https://github.com/christophM/rulefit](https://github.com/christophM/rulefit), ![](https://img.shields.io/github/stars/christophM/rulefit?style=social)
 
 rulematrix: [https://github.com/rulematrix/rule-matrix-py](https://github.com/rulematrix/rule-matrix-py), ![](https://img.shields.io/github/stars/rulematrix/rule-matrix-py?style=social)
