@@ -313,6 +313,8 @@ Xplique: [https://github.com/deel-ai/xplique](https://github.com/deel-ai/xplique
 
 [https://github.com/utwente-dmb/xai-papers](https://github.com/utwente-dmb/xai-papers), ![](https://img.shields.io/github/stars/utwente-dmb/xai-papers?style=social)
 
+[https://github.com/samzabdiel/XAI](https://github.com/samzabdiel/XAI), ![](https://img.shields.io/github/stars/samzabdiel/XAI?style=social)
+
 ## Acknowledge
 
 Need your help to re-organize and refine current taxonomy. Thanks very very much!
