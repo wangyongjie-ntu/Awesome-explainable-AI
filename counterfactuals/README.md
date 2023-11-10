@@ -44,6 +44,10 @@ The two use cases of counterfactual explanations:
 
 ## Papers
 
+[Flexible and Robust Counterfactual Explanations with Minimal Satisfiable Perturbations](https://dl.acm.org/doi/abs/10.1145/3583780.3614885), CIKM 2023
+
+[RoCourseNet: Robust Training of a Prediction Aware Recourse Model](https://dl.acm.org/doi/abs/10.1145/3583780.3615040), CIKM 2023
+
 [Incentivizing Recourse through Auditing in Strategic Classifcation](https://www.ijcai.org/proceedings/2023/0045.pdf), IJCAI 2023
 
 [Choose your Data Wisely: A Framework for Semantic Counterfactuals](https://www.ijcai.org/proceedings/2023/0043.pdf), IJCAI 2023
