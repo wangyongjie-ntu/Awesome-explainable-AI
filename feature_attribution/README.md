@@ -6,6 +6,8 @@
 
 [On Minimizing the Impact of Dataset Shifts on Actionable Explanations](https://arxiv.org/pdf/2306.06716.pdf), UAI 2023
 
+[Counterfactual-based Saliency Map: Towards Visual Contrastive Explanations for Neural Networks](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Counterfactual-based_Saliency_Map_Towards_Visual_Contrastive_Explanations_for_Neural_Networks_ICCV_2023_paper.pdf), CVPR 2023
+
 [A Practical Upper Bound for the Worst-Case Attribution Deviations](https://arxiv.org/pdf/2303.00340.pdf), CVPR 2023
 
 [IDGI: A Framework to Eliminate Explanation Noise from Integrated Gradients](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_IDGI_A_Framework_To_Eliminate_Explanation_Noise_From_Integrated_Gradients_CVPR_2023_paper.pdf), CVPR 2023
