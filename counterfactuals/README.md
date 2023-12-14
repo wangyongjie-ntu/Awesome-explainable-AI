@@ -44,6 +44,8 @@ The two use cases of counterfactual explanations:
 
 ## Papers
 
+[Interpretable ECG Analysis for Myocardial Infarction Detection through Counterfactuals](https://arxiv.org/pdf/2312.08304.pdf), Arxiv 2023
+
 [Flexible and Robust Counterfactual Explanations with Minimal Satisfiable Perturbations](https://dl.acm.org/doi/abs/10.1145/3583780.3614885), CIKM 2023
 
 [RoCourseNet: Robust Training of a Prediction Aware Recourse Model](https://dl.acm.org/doi/abs/10.1145/3583780.3615040), CIKM 2023
