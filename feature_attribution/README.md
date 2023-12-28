@@ -40,6 +40,9 @@
 
 [Consistent Sufficient Explanations and Minimal Local Rules for explaining any classifier or regressor](https://openreview.net/pdf?id=kHNKDNLVp1E), NeurIPS 2022
 
+[New Definitions and Evaluations for Saliency Methods: Staying Intrinsic, Complete and Sound](https://proceedings.neurips.cc/paper_files/paper/2022/hash/d6383e7643415842b48a5077a1b09c98-Abstract-Conference.html), NeurIPS 2022
+
+
 [Accurate Shapley Values for explaining tree-based models](https://proceedings.mlr.press/v151/amoukou22a/amoukou22a.pdf), AISTATS 2022
 
 [Which Explanation Should I Choose? A Function Approximation Perspective to Characterizing Post Hoc Explanations](https://openreview.net/pdf?id=rTvH1_SRyXs), NeurIPS 2022
