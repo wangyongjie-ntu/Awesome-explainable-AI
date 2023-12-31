@@ -2,6 +2,9 @@
 
 ## Papers
 
+[A Rigorous Study of Integrated Gradients Method and Extensions to Internal
+Neuron Attributions](https://proceedings.mlr.press/v162/lundstrom22a/lundstrom22a.pdf), ICML 2022
+
 [Analyzing Individual Neurons in Pre-trained Language Models](https://aclanthology.org/2020.emnlp-main.395.pdf), EMNLP 2020
 
 NeuronConductance, [How important is a neuron?](http://arxiv.org/abs/1805.12233), ICLR 2019
