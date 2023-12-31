@@ -88,6 +88,9 @@ Sparse Relevance Maps and Relevance Orderings](https://proceedings.mlr.press/v16
 
 [Higher-Order Explanations of Graph Neural Networks via Relevant Walks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9547794), TPAMI 2022
 
+[Explaining Explanations: Axiomatic Feature Interactions for
+Deep Networks](https://jmlr.csail.mit.edu/papers/volume22/20-1223/20-1223.pdf), JMLR 2022
+
 [Counterfactual Interpolation Augmentation (CIA): A Unified Approach to Enhance Fairness and Explainability of DNN](https://dongxiaozhu.github.io/assets/files/IJCAI2022CIA.pdf), IJCAI 2022
 
 [DERIVING EXPLAINABLE DISCRIMINATIVE ATTRIBUTES USING CONFUSION ABOUT COUNTERFACTUAL CLASS](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9747693), ICASSP 2022
@@ -123,6 +126,8 @@ Sparse Relevance Maps and Relevance Orderings](https://proceedings.mlr.press/v16
 [The effectiveness of feature attribution methods and its correlation with automatic evaluation scores](https://arxiv.org/abs/2105.14944), NeurIPS 2021
 
 [From global to local MDI variable importances for random forests and when they are Shapley values](https://arxiv.org/abs/2111.02218), NeurIPS 2021 
+
+[Fast Axiomatic Attribution for Neural Networks](https://proceedings.neurips.cc/paper/2021/file/a284df1155ec3e67286080500df36a9a-Paper.pdf), NeurIPS 2021
 
 [On Guaranteed Optimal Robust Explanations for NLP Models](https://arxiv.org/pdf/2105.03640.pdf), IJCAI 2021
 
@@ -245,6 +250,8 @@ FullGrad, [Full-Gradient Representation for Neural Network Visualization](https:
 [GNNExplainer: Generating Explanations for Graph Neural Networks](https://proceedings.neurips.cc/paper/2019/hash/d80b7040b773199015de6d3b4293c8ff-Abstract.html), NeurIPS 2019
 
 [On the (In)fidelity and Sensitivity for Explanations](https://arxiv.org/abs/1901.09392v4), NeurIPS 2019
+
+[Robust Attribution Regularization](https://papers.nips.cc/paper_files/paper/2019/file/172ef5a94b4dd0aa120c6878fc29f70c-Paper.pdf), NeurIPS 2019
 
 [Interpretation of Neural Networks is Fragile](https://arxiv.org/abs/1710.10547), AAAI 2019
 
