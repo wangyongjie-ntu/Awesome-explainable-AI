@@ -223,6 +223,8 @@ Blur integrated gradient: [Attribution in Scale and Space](https://arxiv.org/pdf
 
 [LS-Tree: Model Interpretation When the Data Are Linguistic](https://ojs.aaai.org/index.php/AAAI/article/view/5749/5605), AAAI 2020, [slides](https://www.jianbochen.me/files/slides_ls_tree.pdf)
 
+[Investigating Saturation Effects in Integrated Gradients](https://arxiv.org/pdf/2010.12697.pdf), ICMLW on WHI 2020
+
 [Robust and Stable Black Box Explanations](https://proceedings.icml.cc/static/paper_files/icml/2020/5945-Paper.pdf), ICML 2020
 
 [Concise Explanations of Neural Networks using Adversarial Training](https://arxiv.org/pdf/1810.06583.pdf), ICML 2020
