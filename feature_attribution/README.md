@@ -253,6 +253,8 @@ FullGrad, [Full-Gradient Representation for Neural Network Visualization](https:
 
 [Robust Attribution Regularization](https://papers.nips.cc/paper_files/paper/2019/file/172ef5a94b4dd0aa120c6878fc29f70c-Paper.pdf), NeurIPS 2019
 
+[Explanations can be manipulated and geometry is to blame](https://proceedings.neurips.cc/paper/2019/file/bb836c01cdc9120a9c984c525e4b1a4a-Paper.pdf), NeurIPS 2019
+
 [Interpretation of Neural Networks is Fragile](https://arxiv.org/abs/1710.10547), AAAI 2019
 
 [XRAI: Better Attributions Through Regions](http://openaccess.thecvf.com/content_ICCV_2019/papers/Kapishnikov_XRAI_Better_Attributions_Through_Regions_ICCV_2019_paper.pdf), ICCV 2019
