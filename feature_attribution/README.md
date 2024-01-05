@@ -63,6 +63,8 @@
 
 [Bayesian subset selection and variable importance for interpretable prediction and classification](https://jmlr.org/papers/volume23/21-0403/21-0403.pdf), NeurIPS 2022
 
+[Robust Models Are More Interpretable Because Attributions Look Normal](https://arxiv.org/abs/2103.11257), ICML 2022
+
 [Accelerating Shapley Explanation via Contributive Cooperator Selection](https://arxiv.org/pdf/2206.08529.pdf), ICML 2022
 
 [Framework for Evaluating Faithfulness of Local Explanations](https://arxiv.org/pdf/2202.00734.pdf), ICML 2022
@@ -133,6 +135,8 @@ Deep Networks](https://jmlr.csail.mit.edu/papers/volume22/20-1223/20-1223.pdf), 
 
 [ Explaining deep neural network models with adversarial gradient integration](https://www.ijcai.org/proceedings/2021/0396.pdf), IJCAI 2021
 
+[Integrated Directional Gradients: Feature Interaction Attribution for Neural NLP Models](https://aclanthology.org/2021.acl-long.71.pdf), ACL 2021
+
 [What does LIME really see in images?](https://arxiv.org/abs/2102.06307), ICML 2021
 
 [Explanations for Monotonic Classifiers](https://arxiv.org/pdf/2106.00154.pdf), ICML 2021
@@ -142,6 +146,8 @@ Deep Networks](https://jmlr.csail.mit.edu/papers/volume22/20-1223/20-1223.pdf), 
 [On Explainability of Graph Neural Networks via Subgraph Explorations](http://proceedings.mlr.press/v139/yuan21c.html), ICML 2021
 
 [Generative Causal Explanations for Graph Neural Networks](http://proceedings.mlr.press/v139/lin21d/lin21d.pdf), ICML 2021
+
+[Explaining Explanations: Axiomatic Feature Interactions for Deep Networks](https://jmlr.csail.mit.edu/papers/volume22/20-1223/20-1223.pdf), ICML 2021
 
 [How Interpretable and Trustworthy are GAMs?](https://arxiv.org/pdf/2006.06466.pdf), KDD 2021
 
