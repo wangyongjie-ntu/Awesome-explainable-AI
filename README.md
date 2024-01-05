@@ -158,6 +158,8 @@ We mainly follow the taxonomy in the [survey paper](http://arxiv.org/abs/1802.01
 
 [A benchmark for interpretability methods in deep neural networks](https://papers.nips.cc/paper/9167-a-benchmark-for-interpretability-methods-in-deep-neural-networks.pdf), NIPS 2019
 
+[What Do Different Evaluation Metrics Tell Us About Saliency Models?](https://ieeexplore.ieee.org/document/8315047), TPAMI 2018
+
 [Methods for interpreting and understanding deep neural networks](https://www.sciencedirect.com/science/article/pii/S1051200417302385), Digital Signal Processing 2017
 
 [Evaluating the visualization of what a Deep Neural Network has learned](http://arxiv.org/abs/1509.06321), IEEE Transactions on Neural Networks and Learning Systems 2015

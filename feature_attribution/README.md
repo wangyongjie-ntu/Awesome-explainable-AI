@@ -229,6 +229,8 @@ Blur integrated gradient: [Attribution in Scale and Space](https://arxiv.org/pdf
 
 [LS-Tree: Model Interpretation When the Data Are Linguistic](https://ojs.aaai.org/index.php/AAAI/article/view/5749/5605), AAAI 2020, [slides](https://www.jianbochen.me/files/slides_ls_tree.pdf)
 
+[Investigating Saturation Effects in Integrated Gradients](https://arxiv.org/pdf/2010.12697.pdf), ICMLW on WHI 2020
+
 [Robust and Stable Black Box Explanations](https://proceedings.icml.cc/static/paper_files/icml/2020/5945-Paper.pdf), ICML 2020
 
 [Concise Explanations of Neural Networks using Adversarial Training](https://arxiv.org/pdf/1810.06583.pdf), ICML 2020
@@ -258,6 +260,8 @@ FullGrad, [Full-Gradient Representation for Neural Network Visualization](https:
 [On the (In)fidelity and Sensitivity for Explanations](https://arxiv.org/abs/1901.09392v4), NeurIPS 2019
 
 [Robust Attribution Regularization](https://papers.nips.cc/paper_files/paper/2019/file/172ef5a94b4dd0aa120c6878fc29f70c-Paper.pdf), NeurIPS 2019
+
+[Explanations can be manipulated and geometry is to blame](https://proceedings.neurips.cc/paper/2019/file/bb836c01cdc9120a9c984c525e4b1a4a-Paper.pdf), NeurIPS 2019
 
 [Interpretation of Neural Networks is Fragile](https://arxiv.org/abs/1710.10547), AAAI 2019
 
