@@ -1,5 +1,7 @@
 # Model Explantion
 
+[Explaining by Removing: A Unified Framework for Model Explanation](https://www.jmlr.org/papers/volume22/20-1316/20-1316.pdf), JMLR 2022
+
 [Explainability Via Causal Self-Talk](https://openreview.net/pdf?id=bk8vkdQfBS), NeurIPS 2022
 
 [Learning to Generate Inversion-Resistant Model Explanations](https://openreview.net/pdf?id=iy2G-yLGuku), NeurIPS 2022
