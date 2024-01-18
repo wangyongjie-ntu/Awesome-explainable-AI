@@ -330,6 +330,8 @@ Shap: [A unified approach to interpreting model predictions](http://arxiv.org/ab
 
 [Hide-and-Seek: Forcing a Network to be Meticulous for Weakly-Supervised Object and Action Localization](https://ieeexplore.ieee.org/abstract/document/8237643), ICCV 2017
 
+Grad-CAM: [Grad-CAM: Visual Explanations from Deep Networks via Gradient-Based Localization](http://arxiv.org/abs/1610.02391) ICCV 2017, IJCV 2019
+
 [Network Dissection: Quantifying Interpretability of Deep Visual Representations](https://arxiv.org/pdf/1704.05796.pdf), CVPR 2017
 
 DeepLIFT: [Learning important features through propagating activation differences](http://arxiv.org/abs/1704.02685), ICML 2017
@@ -344,8 +346,6 @@ SmoothGard: [SmoothGrad: removing noise by adding noise](http://arxiv.org/abs/17
 
 Lime: ["Why Should I Trust You?": Explaining the Predictions of Any Classifier](http://arxiv.org/abs/1602.04938), SIGKDD 2016
 
-Grad-CAM: [Grad-CAM: Visual Explanations from Deep Networks via Gradient-Based Localization](http://arxiv.org/abs/1610.02391) IJCV 2016
-
 [Visualizing deep convolutional neural networks using natural pre-images](https://arxiv.org/abs/1512.02017), IJCV 2016
 
 [Visualizing the Effects of Predictor Variables in Black Box Supervised Learning Models](https://arxiv.org/pdf/1612.08468.pdf), Arxiv preprint 2016
@@ -358,7 +358,7 @@ LRP: [Layer-wise relevance propagation for neural networks with local renormaliz
 
 Gradient * input: [Not Just a Black Box: Learning Important Features Through Propagating Activation Differences](https://arxiv.org/abs/1605.01713), arxiv preprint 2016
 
-InputXGradient, [Investigating the influence of noise and distractors on the interpretation of neural networks](https://arxiv.org/pdf/1611.07270.pdf), NeurIPS 2016
+[Investigating the influence of noise and distractors on the interpretation of neural networks](https://arxiv.org/pdf/1611.07270.pdf), NeurIPS 2016
 
 QII, [Algorithmic Transparency via Quantitative Input Influence: Theory and Experiments with Learning Systems](https://ieeexplore.ieee.org/document/7546525), IEEE Symposium on Security and Privacy (SP)
 
