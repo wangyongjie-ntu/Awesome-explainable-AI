@@ -2,6 +2,8 @@
 
 ## Papers
 
+[Deeply Explain CNN via Hierarchical Decomposition](https://arxiv.org/pdf/2201.09205.pdf), IJCV 2023
+
 [Negative Flux Aggregation to Estimate Feature Attributions](https://www.ijcai.org/proceedings/2023/0050.pdf), IJCAI 2023, [code](https://github.com/xinli0928/NeFLAG)
 
 [On Minimizing the Impact of Dataset Shifts on Actionable Explanations](https://arxiv.org/pdf/2306.06716.pdf), UAI 2023
