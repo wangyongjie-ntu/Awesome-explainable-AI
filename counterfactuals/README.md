@@ -101,7 +101,7 @@ Counterfactual Explanations in an Abstract Setting](https://facctconference.org/
 
 [Counterfactual Shapley Additive Explanations](https://facctconference.org/static/pdfs_2022/facct22-87.pdf), FAccT 2022
 
-[When adversarial attacks become interpretable Counterfactual explanations](https://arxiv.org/pdf/2206.06854.pdf), Arxiv 2022
+[When adversarial attacks become interpretable Counterfactual explanations]([https://arxiv.org/pdf/2206.06854.pdf](https://hal.science/hal-03693355v1/file/hkr_explainability_Arxiv.pdf)), Arxiv 2022
 
 [MACE: An Efficient Model-Agnostic Framework for Counterfactual Explanation](https://arxiv.org/abs/2205.15540), Arxiv 2022
 
