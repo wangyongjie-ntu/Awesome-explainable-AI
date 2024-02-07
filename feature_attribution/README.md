@@ -14,6 +14,8 @@
 
 [Explaining Image Classifiers with Multiscale Directional Image Representation](https://openaccess.thecvf.com/content/CVPR2023/papers/Kolek_Explaining_Image_Classifiers_With_Multiscale_Directional_Image_Representation_CVPR_2023_paper.pdf), CVPR 2023
 
+[Extending class activation mapping using Gaussian receptive field](https://www.sciencedirect.com/science/article/abs/pii/S1077314223000437), CVIU Journal 2023
+
 [Transferable Adversarial Attack Based on Integrated Gradients](https://openreview.net/pdf?id=DesNW4-5ai9), ICLR 2022
 
 [OrphicX: A Causality-Inspired Latent Variable Model for Interpreting Graph Neural Networks](https://openaccess.thecvf.com/content/CVPR2022/papers/Lin_OrphicX_A_Causality-Inspired_Latent_Variable_Model_for_Interpreting_Graph_Neural_CVPR_2022_paper.pdf), CVPR 2022
