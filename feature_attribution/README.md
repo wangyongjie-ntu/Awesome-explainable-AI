@@ -1,5 +1,10 @@
 # Feature Attribution/Importance
 
+## Surveys 
+
+[Gradient based Feature Attribution in Explainable AI: A
+Technical Review](https://arxiv.org/pdf/2403.10415.pdf), Arxiv Preprint
+
 ## Papers
 
 [Deeply Explain CNN via Hierarchical Decomposition](https://arxiv.org/pdf/2201.09205.pdf), IJCV 2023
