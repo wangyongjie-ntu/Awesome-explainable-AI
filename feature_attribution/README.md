@@ -23,6 +23,8 @@ Technical Review](https://arxiv.org/pdf/2403.10415.pdf), Arxiv Preprint
 
 [Extending class activation mapping using Gaussian receptive field](https://www.sciencedirect.com/science/article/abs/pii/S1077314223000437), CVIU Journal 2023
 
+[TSGB: Target-selective gradient backprop for probing CNN visual saliency](https://arxiv.org/pdf/2110.05182), TIP 2022
+
 [Transferable Adversarial Attack Based on Integrated Gradients](https://openreview.net/pdf?id=DesNW4-5ai9), ICLR 2022
 
 [OrphicX: A Causality-Inspired Latent Variable Model for Interpreting Graph Neural Networks](https://openaccess.thecvf.com/content/CVPR2022/papers/Lin_OrphicX_A_Causality-Inspired_Latent_Variable_Model_for_Interpreting_Graph_Neural_CVPR_2022_paper.pdf), CVPR 2022
