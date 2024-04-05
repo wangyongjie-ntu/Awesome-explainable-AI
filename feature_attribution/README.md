@@ -21,6 +21,8 @@ Technical Review](https://arxiv.org/pdf/2403.10415.pdf), Arxiv Preprint
 
 [Explaining Image Classifiers with Multiscale Directional Image Representation](https://openaccess.thecvf.com/content/CVPR2023/papers/Kolek_Explaining_Image_Classifiers_With_Multiscale_Directional_Image_Representation_CVPR_2023_paper.pdf), CVPR 2023
 
+[SplineCam: Exact Visualization and Characterization of Deep Network Geometry and Decision Boundaries](https://openaccess.thecvf.com/content/CVPR2023/papers/Humayun_SplineCam_Exact_Visualization_and_Characterization_of_Deep_Network_Geometry_and_CVPR_2023_paper.pdf), CVPR 2023
+
 [Extending class activation mapping using Gaussian receptive field](https://www.sciencedirect.com/science/article/abs/pii/S1077314223000437), CVIU Journal 2023
 
 [TSGB: Target-selective gradient backprop for probing CNN visual saliency](https://arxiv.org/pdf/2110.05182), TIP 2022
