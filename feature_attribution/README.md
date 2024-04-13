@@ -6,6 +6,7 @@
 Technical Review](https://arxiv.org/pdf/2403.10415.pdf), Arxiv Preprint
 
 ## Papers
+[GLIME: General, Stable and Local LIME Explanation](https://proceedings.neurips.cc/paper_files/paper/2023/file/71ed042903ed67c7f6355e5dd0539eec-Paper-Conference.pdf), NIPS 2024
 
 [Deeply Explain CNN via Hierarchical Decomposition](https://arxiv.org/pdf/2201.09205.pdf), IJCV 2023
 
