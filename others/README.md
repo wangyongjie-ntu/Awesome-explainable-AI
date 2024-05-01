@@ -1,5 +1,15 @@
 # Uncategorized Papers on Model/Instance Explanation
 
+[Paths, Proofs, and Perfection: Developing a Human-Interpretable Proof System for Constrained Shortest Paths ](https://ojs.aaai.org/index.php/AAAI/article/view/30068), AAAI 2024
+
+[Stratified GNN Explanations through Sufficient Expansion](https://ojs.aaai.org/index.php/AAAI/article/view/29180), AAAI 2024
+
+[Keep the Faith: Faithful Explanations in Convolutional Neural Networks for Case-Based Reasoning](https://ojs.aaai.org/index.php/AAAI/article/view/28406/28794), AAAI 2024
+
+[Explaining Generalization Power of a DNN using Interactive Concepts](https://ojs.aaai.org/index.php/AAAI/article/view/29655), AAAI 2024
+
+[Accelerating the Global Aggregation of Local Explanations](https://ojs.aaai.org/index.php/AAAI/article/view/29845/31471), AAAI 2024
+
 [Statistically Signifcant Concept-based Explanation of Image Classifers via Model Knockoffs](https://www.ijcai.org/proceedings/2023/0058.pdf), IJCAI 2023
 
 [Towards Relatable Explainable AI with the Perceptual Process](https://arxiv.org/pdf/2112.14005.pdf), CHI 2022 Best paper

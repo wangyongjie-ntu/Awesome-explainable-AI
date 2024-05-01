@@ -4,11 +4,19 @@ This family of models is self-explained and transparent to users.
 
 ## Papers
 
+[PICNN: A Pathway towards Interpretable Convolutional Neural Networks](https://ojs.aaai.org/index.php/AAAI/article/view/27971/27960), AAAI 2024
+
+[A Convolutional Neural Network Interpretable Framework for Human Ventral Visual Pathway Representation](https://ojs.aaai.org/index.php/AAAI/article/view/28461), AAAI 2024
+
+[Self-Interpretable Graph Learning with Sufficient and Necessary Explanations](https://ojs.aaai.org/index.php/AAAI/article/view/29059/30007), AAAI 2024
+
 [Learning Performance Maximizing Ensembles with Explainability Guarantees](https://ojs.aaai.org/index.php/AAAI/article/view/29378/30602), AAAI 2024
 
 [NeSyFOLD: A Framework for Interpretable Image Classification](https://ojs.aaai.org/index.php/AAAI/article/view/28235/28465), AAAI 2024
 
 [Pantypes: Diverse Representatives for Self-Explainable Models](https://arxiv.org/abs/2403.09383), AAAI 2024
+
+[Towards Modeling Uncertainties of Selfexplaining Neural Networks](https://ojs.aaai.org/index.php/AAAI/article/view/29382/30610), AAAI 2024
 
 [FEAMOE: Fair, Explainable and Adaptive Mixture of Experts](https://www.ijcai.org/proceedings/2023/0055.pdf), IJCAI 2023
 

@@ -7,7 +7,17 @@ Technical Review](https://arxiv.org/pdf/2403.10415.pdf), Arxiv Preprint
 
 ## Papers
 
+[LimeAttack: Local Explainable Method for Textual Hard-Label Adversarial Attack](https://ojs.aaai.org/index.php/AAAI/article/view/29950/31660), AAAI 2024
+
+[Integrated Decision Gradients: Compute Your Attributions Where the Model Makes Its Decision](https://ojs.aaai.org/index.php/AAAI/article/view/28336/28660), AAAI 2024
+
+[Using stratified sampling to improve LIME Image explanations](https://ojs.aaai.org/index.php/AAAI/article/view/29397/30639), AAAI 2024
+
+[Attention Guided CAM: Visual Explanations of Vision Transformer Guided by Self-Attention](https://ojs.aaai.org/index.php/AAAI/article/view/28077/28160), AAAI 2024
+
 [Empowering CAM-Based Methods with Capability to Generate Fine-Grained and High-Faithfulness Explanations](https://arxiv.org/pdf/2303.09171), AAAI 2024
+
+[Beyond TreeSHAP: Efficient Computation of anyorder Shapley Interactions for Tree Ensembles](https://ojs.aaai.org/index.php/AAAI/article/view/29352/30552), AAAI 2024
 
 [SHAP@k: Efficient and Probably Approximately Correct (PAC) Identification of Top-K Features](https://ojs.aaai.org/index.php/AAAI/article/view/29205), AAAI 2024
 
