@@ -6,6 +6,13 @@
 Technical Review](https://arxiv.org/pdf/2403.10415.pdf), Arxiv Preprint
 
 ## Papers
+
+[Empowering CAM-Based Methods with Capability to Generate Fine-Grained and High-Faithfulness Explanations](https://arxiv.org/pdf/2303.09171), AAAI 2024
+
+[SHAP@k: Efficient and Probably Approximately Correct (PAC) Identification of Top-K Features](https://ojs.aaai.org/index.php/AAAI/article/view/29205), AAAI 2024
+
+[Approximating the Shapley Value without Marginal Contributions](https://ojs.aaai.org/index.php/AAAI/article/view/29225/30311), AAAI 2024
+
 [GLIME: General, Stable and Local LIME Explanation](https://proceedings.neurips.cc/paper_files/paper/2023/file/71ed042903ed67c7f6355e5dd0539eec-Paper-Conference.pdf), NIPS 2024
 
 [Deeply Explain CNN via Hierarchical Decomposition](https://arxiv.org/pdf/2201.09205.pdf), IJCV 2023

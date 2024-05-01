@@ -44,6 +44,10 @@ The two use cases of counterfactual explanations:
 
 ## Papers
 
+[Explaining Reinforcement Learning Agents through Counterfactual Action Outcomes](https://ojs.aaai.org/index.php/AAAI/article/view/28863/29640), AAAI 2024
+
+[SafeAR: Safe Algorithmic Recourse by Risk-Aware Policies](https://arxiv.org/pdf/2308.12367), AAAI 2024
+
 [Interpretable ECG Analysis for Myocardial Infarction Detection through Counterfactuals](https://arxiv.org/pdf/2312.08304.pdf), Arxiv 2023
 
 [Flexible and Robust Counterfactual Explanations with Minimal Satisfiable Perturbations](https://dl.acm.org/doi/abs/10.1145/3583780.3614885), CIKM 2023

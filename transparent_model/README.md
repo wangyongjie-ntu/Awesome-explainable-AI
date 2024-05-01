@@ -4,6 +4,12 @@ This family of models is self-explained and transparent to users.
 
 ## Papers
 
+[Learning Performance Maximizing Ensembles with Explainability Guarantees](https://ojs.aaai.org/index.php/AAAI/article/view/29378/30602), AAAI 2024
+
+[NeSyFOLD: A Framework for Interpretable Image Classification](https://ojs.aaai.org/index.php/AAAI/article/view/28235/28465), AAAI 2024
+
+[Pantypes: Diverse Representatives for Self-Explainable Models](https://arxiv.org/abs/2403.09383), AAAI 2024
+
 [FEAMOE: Fair, Explainable and Adaptive Mixture of Experts](https://www.ijcai.org/proceedings/2023/0055.pdf), IJCAI 2023
 
 [Bort: Towards Explainable Neural Networks with Bounded Orthogonal Constraint](https://openreview.net/forum?id=My57qBufZWs), ICLR 2023
