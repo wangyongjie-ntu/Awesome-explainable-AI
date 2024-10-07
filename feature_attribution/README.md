@@ -7,6 +7,8 @@ Technical Review](https://arxiv.org/pdf/2403.10415.pdf), Arxiv Preprint
 
 ## Papers
 
+[An Unsupervised Approach to Achieve Supervised-Level Explainability in Healthcare Records](https://arxiv.org/abs/2406.08958), EMNLP 2024, [Blog](https://joakimedin.substack.com/p/an-unsupervised-approach-to-achieve)
+
 [LimeAttack: Local Explainable Method for Textual Hard-Label Adversarial Attack](https://ojs.aaai.org/index.php/AAAI/article/view/29950/31660), AAAI 2024
 
 [Integrated Decision Gradients: Compute Your Attributions Where the Model Makes Its Decision](https://ojs.aaai.org/index.php/AAAI/article/view/28336/28660), AAAI 2024
