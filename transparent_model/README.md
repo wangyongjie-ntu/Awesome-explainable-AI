@@ -4,6 +4,8 @@ This family of models is self-explained and transparent to users.
 
 ## Papers
 
+[On the Power of Decision Trees in Auto-Regressive Language Modeling](https://www.arxiv.org/abs/2409.19150#:~:text=On%20the%20Power%20of%20Decision%20Trees%20in%20Auto%2DRegressive%20Language%20Modeling,-Yulu%20Gan%2C%20Tomer&text=Originally%20proposed%20for%20handling%20time,ARDTs%20in%20this%20new%20context.), NeurIPS 2024
+
 [PICNN: A Pathway towards Interpretable Convolutional Neural Networks](https://ojs.aaai.org/index.php/AAAI/article/view/27971/27960), AAAI 2024
 
 [A Convolutional Neural Network Interpretable Framework for Human Ventral Visual Pathway Representation](https://ojs.aaai.org/index.php/AAAI/article/view/28461), AAAI 2024
