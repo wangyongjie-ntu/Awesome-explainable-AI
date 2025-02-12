@@ -201,6 +201,8 @@ Deep Visualization Toolbox: [https://github.com/yosinski/deep-visualization-tool
 
 dianna: [https://github.com/dianna-ai/dianna](https://github.com/dianna-ai/dianna), ONNX, ![](https://img.shields.io/github/stars/dianna-ai/dianna?style=social)
 
+effector: [https://github.com/givasile/effector](https://github.com/givasile/effector), Scikit-learn, Keras, Pytorch, xgboost, etc. ![](https://img.shields.io/github/stars/givasile/effector?style=social)
+
 Eli5: [https://github.com/TeamHG-Memex/eli5](https://github.com/TeamHG-Memex/eli5), Scikit-learn, Keras, xgboost, lightGBM, catboost etc.![](https://img.shields.io/github/stars/TeamHG-Memex/eli5.svg?style=social)
 
 explabox: [https://github.com/MarcelRobeer/explabox](https://github.com/MarcelRobeer/explabox), ONNX, Scikit-learn, Pytorch, Keras, Tensorflow, Huggingface ![](https://img.shields.io/github/stars/MarcelRobeer/explabox?style=social)
