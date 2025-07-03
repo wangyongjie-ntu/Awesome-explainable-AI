@@ -19,6 +19,18 @@ The figure below illustrates several use cases of XAI. Here we also divide the p
 
 ## Survey Papers
 
+[XAI meets LLMs: A Survey of the Relation between Explainable AI and Large Language Models](http://arxiv.org/abs/2407.15248), Arxiv 2024
+
+[Explainable artificial intelligence (XAI): from inherent explainability to large language models](http://arxiv.org/abs/2501.09967), Arxiv 2025
+
+[Artificial intelligence should genuinely support clinical reasoning and decision making to bridge the translational gap](https://www.nature.com/articles/s41746-025-01725-9), NPJ Digit. Med. 2025
+
+[Explainability for Large Language Models: A Survey](https://dl.acm.org/doi/10.1145/3639372), TIST 2023
+
+[Towards Faithful Model Explanation in NLP: A Survey](https://direct.mit.edu/coli/article/50/2/657/119158/Towards-Faithful-Model-Explanation-in-NLP-A-Survey), MIT Press 2024
+
+[Rethinking Interpretability in the Era of Large Language Models](http://arxiv.org/abs/2402.01761), Arxiv 2024
+
 [Benchmarking and Survey of Explanation Methods for Black Box Models](https://link.springer.com/article/10.1007/s10618-023-00933-9), DMKD 2023
 
 [Post-hoc Interpretability for Neural NLP: A Survey](https://dl.acm.org/doi/full/10.1145/3546577), ACM Computing Survey 2022
