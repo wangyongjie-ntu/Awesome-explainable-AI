@@ -1,5 +1,9 @@
 # Uncategorized Papers on Model/Instance Explanation
 
+[CONCEPT BOTTLENECK LARGE LANGUAGE MODELS](https://openreview.net/pdf?id=RC5FPYVQaH), ICLR 2025
+
+[TOWARD UNDERSTANDING IN-CONTEXT VS. INWEIGHT LEARNING](https://openreview.net/pdf?id=aKJr5NnN8U), ICLR 2025
+
 [Paths, Proofs, and Perfection: Developing a Human-Interpretable Proof System for Constrained Shortest Paths ](https://ojs.aaai.org/index.php/AAAI/article/view/30068), AAAI 2024
 
 [Stratified GNN Explanations through Sufficient Expansion](https://ojs.aaai.org/index.php/AAAI/article/view/29180), AAAI 2024
