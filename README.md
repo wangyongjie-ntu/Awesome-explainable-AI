@@ -247,6 +247,8 @@ Keras-vis: [https://github.com/raghakot/keras-vis](https://github.com/raghakot/k
 
 keract: [https://github.com/philipperemy/keract](https://github.com/philipperemy/keract), Keras ![](https://img.shields.io/github/stars/philipperemy/keract?style=social)
 
+Latent Explorer: [https://github.com/Ipazia-AI/latent-explorer](https://github.com/Ipazia-AI/latent-explorer), Pytorch ![](https://img.shields.io/github/stars/Ipazia-AI/latent-explorer.svg?style=social) 
+
 Lucid: [https://github.com/tensorflow/lucid](https://github.com/tensorflow/lucid), Tensorflow ![](https://img.shields.io/github/stars/tensorflow/lucid.svg?style=social) 
 
 LIT: [https://github.com/PAIR-code/lit](https://github.com/PAIR-code/lit), Tensorflow, specified for NLP Task ![](https://img.shields.io/github/stars/PAIR-code/lit?style=social)
