@@ -231,6 +231,8 @@ Grad-cam-Tensorflow: [https://github.com/insikk/Grad-CAM-tensorflow](https://git
 
 GRACE: [https://github.com/lethaiq/GRACE_KDD20](https://github.com/lethaiq/GRACE_KDD20), Pytorch
 
+Hyperprobe: [https://github.com/Ipazia-AI/hyperprobe](https://github.com/Ipazia-AI/hyperprobe), Pytorch | ![](https://img.shields.io/github/stars/Ipazia-AI/hyperprobe.svg?style=social)
+
 Innvestigate: [https://github.com/albermax/innvestigate](https://github.com/albermax/innvestigate), tensorflow, theano, cntk, Keras ![](https://img.shields.io/github/stars/albermax/innvestigate.svg?style=social)
 
 imodels: [https://github.com/csinva/imodels](https://github.com/csinva/imodels), ![](https://img.shields.io/github/stars/csinva/imodels.svg?style=social)
