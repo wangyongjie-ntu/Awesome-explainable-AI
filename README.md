@@ -150,6 +150,8 @@ We mainly follow the taxonomy in the [survey paper](http://arxiv.org/abs/1802.01
 
 ### Evaluation methods
 
+[Unlearning Comparator: A Visual Analytics System for Comparative Evaluation of Machine Unlearning Methods](https://arxiv.org/abs/2508.12730), arXiv 2025
+
 [Faithfulness Tests for Natural Language Explanations](https://aclanthology.org/2023.acl-short.25.pdf), ACL 2023 
 
 [OpenXAI: Towards a Transparent Evaluation of Model Explanations](https://arxiv.org/pdf/2206.11104.pdf), Arxiv 2022
