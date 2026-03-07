@@ -273,6 +273,8 @@ Outliertree: [https://github.com/david-cortes/outliertree](https://github.com/da
 
 InterpretDL: [https://github.com/PaddlePaddle/InterpretDL](https://github.com/PaddlePaddle/InterpretDL), (Python PaddlePaddle), ![](https://img.shields.io/github/stars/PaddlePaddle/InterpretDL?style=social)
 
+WFGY: [https://github.com/onestardao/WFGY](https://github.com/onestardao/WFGY), ![](https://img.shields.io/github/stars/onestardao/WFGY?style=social)
+
 polyjuice: [https://github.com/tongshuangwu/polyjuice](https://github.com/tongshuangwu/polyjuice), (Pytorch), ![](https://img.shields.io/github/stars/tongshuangwu/polyjuice?style=social)
 
 pytorch-cnn-visualizations: [https://github.com/utkuozbulak/pytorch-cnn-visualizations](https://github.com/utkuozbulak/pytorch-cnn-visualizations), Pytorch ![](https://img.shields.io/github/stars/utkuozbulak/pytorch-cnn-visualizations?style=social)
