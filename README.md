@@ -313,6 +313,8 @@ TensorWatch: [https://github.com/microsoft/tensorwatch.git](https://github.com/m
 
 tf-explain: [https://github.com/sicara/tf-explain](https://github.com/sicara/tf-explain), Tensorflow ![](https://img.shields.io/github/stars/sicara/tf-explain?style=social)
 
+tslens: [https://github.com/khairulislam/tslens](https://github.com/khairulislam/tslens), Pytorch, ![](https://img.shields.io/github/stars/khairulislam/tslens.svg?style=social)
+
 Treeinterpreter: [https://github.com/andosa/treeinterpreter](https://github.com/andosa/treeinterpreter), scikit-learn, ![](https://img.shields.io/github/stars/andosa/treeinterpreter?style=social)
 
 torch-cam: [https://github.com/frgfm/torch-cam](https://github.com/frgfm/torch-cam), Pytorch, ![](https://img.shields.io/github/stars/frgfm/torch-cam?style=social)
