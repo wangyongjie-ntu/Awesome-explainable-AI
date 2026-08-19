@@ -193,6 +193,8 @@ Alibi-detect: [https://github.com/SeldonIO/alibi-detect](https://github.com/Seld
 
 BlackBoxAuditing: [https://github.com/algofairness/BlackBoxAuditing](https://github.com/algofairness/BlackBoxAuditing), scikit-learn ![](https://img.shields.io/github/stars/algofairness/BlackBoxAuditing?style=social)
 
+bnnr: [https://github.com/bnnr-team/bnnr](https://github.com/bnnr-team/bnnr), PyTorch, vision model XAI failure reports with OptiCAM saliency overlays + ICD/AICD saliency-guided augmentation search ![](https://img.shields.io/github/stars/bnnr-team/bnnr?style=social)
+
 Brain2020: [https://github.com/vkola-lab/brain2020](https://github.com/vkola-lab/brain2020), Pytorch, 3D Brain MRI ![](https://img.shields.io/github/stars/vkola-lab/brain2020?style=social)
 
 Boruta-Shap: [https://github.com/Ekeany/Boruta-Shap](https://github.com/Ekeany/Boruta-Shap), scikit-learn ![](https://img.shields.io/github/stars/Ekeany/Boruta-Shap?style=social)
