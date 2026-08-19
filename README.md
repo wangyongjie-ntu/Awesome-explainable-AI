@@ -323,6 +323,8 @@ What-if-tool: [https://github.com/PAIR-code/what-if-tool](https://github.com/PAI
 
 XAI: [https://github.com/EthicalML/xai](https://github.com/EthicalML/xai), scikit-learn ![](https://img.shields.io/github/stars/EthicalML/xai?style=social)
 
+Xplainable: [https://github.com/xplainable/xplainable](https://github.com/xplainable/xplainable), scikit-learn, glass-box (inherently interpretable) ![](https://img.shields.io/github/stars/xplainable/xplainable?style=social)
+
 Xplique: [https://github.com/deel-ai/xplique](https://github.com/deel-ai/xplique), Tensorflow, ![](https://img.shields.io/github/stars/deel-ai/xplique?style=social)
 
 ## Related Repositories
