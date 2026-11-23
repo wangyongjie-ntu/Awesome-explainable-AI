@@ -4,6 +4,8 @@ This family of models is self-explained and transparent to users.
 
 ## Papers
 
+[Interpretable Link Prediction via Neural-Symbolic Reasoning](https://doi.org/10.1007/978-3-032-08324-1_14), xAI 2025
+
 [On the Power of Decision Trees in Auto-Regressive Language Modeling](https://www.arxiv.org/abs/2409.19150#:~:text=On%20the%20Power%20of%20Decision%20Trees%20in%20Auto%2DRegressive%20Language%20Modeling,-Yulu%20Gan%2C%20Tomer&text=Originally%20proposed%20for%20handling%20time,ARDTs%20in%20this%20new%20context.), NeurIPS 2024
 
 [PICNN: A Pathway towards Interpretable Convolutional Neural Networks](https://ojs.aaai.org/index.php/AAAI/article/view/27971/27960), AAAI 2024

@@ -1,5 +1,7 @@
 # Model Explantion
 
+[Distilling KGE black boxes into interpretable NeSy models](https://proceedings.mlr.press/v284/ontiveros25a.html), NeSy 2025
+
 [Explaining by Removing: A Unified Framework for Model Explanation](https://www.jmlr.org/papers/volume22/20-1316/20-1316.pdf), JMLR 2022
 
 [Explainability Via Causal Self-Talk](https://openreview.net/pdf?id=bk8vkdQfBS), NeurIPS 2022
