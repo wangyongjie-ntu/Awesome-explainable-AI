@@ -1,6 +1,8 @@
 # Model Inspection
 
 ## Papers
+[DRIFT: Detecting Representational Inconsistencies for Factual Truthfulness](https://arxiv.org/abs/2601.14210), arxiv preprint 2026
+
 [Unveiling LLMs: The Evolution of Latent Representations in a Dynamic Knowledge Graph](https://openreview.net/forum?id=dWYRjT501w), COLM 2024
 
 [Transformer Interpretability Beyond Attention Visualization](https://arxiv.org/abs/2012.09838), CVPR 2021
