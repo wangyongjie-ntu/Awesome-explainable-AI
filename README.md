@@ -31,6 +31,8 @@ The figure below illustrates several use cases of XAI. Here we also divide the p
 
 [Rethinking Interpretability in the Era of Large Language Models](http://arxiv.org/abs/2402.01761), Arxiv 2024
 
+[Explainable Reinforcement Learning: A Survey and Comparative Review](https://doi.org/10.1145/3616864), ACM Computing Surveys 2024
+
 [Benchmarking and Survey of Explanation Methods for Black Box Models](https://link.springer.com/article/10.1007/s10618-023-00933-9), DMKD 2023
 
 [Post-hoc Interpretability for Neural NLP: A Survey](https://dl.acm.org/doi/full/10.1145/3546577), ACM Computing Survey 2022
